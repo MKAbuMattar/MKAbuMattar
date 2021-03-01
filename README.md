@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MKAbuMattar/MKAbuMattar/imgHeader.png "Header")](https://mkabumattar.github.io/)
+[![Header](https://raw.githubusercontent.com/MKAbuMattar/MKAbuMattar/main/imgHeader.png "Header")](https://mkabumattar.github.io/)
