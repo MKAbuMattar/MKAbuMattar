@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Header](https://raw.githubusercontent.com/MKAbuMattar/MKAbuMattar/main/imgHeader.png "Header")](https://mkabumattar.github.io/)
 
-<h1 align="center">Hi 👋, I'm Mohammad ABu Mattar</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Abu Mattar</h1>
 <h3 align="center">I'm a software engineer based in Amman, exceptional websites developer (and occasionally designing), and everything in between.</h3>
 
 <h3 align="left">Connect with me:</h3>
