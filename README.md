@@ -6,26 +6,6 @@
 
 <br><br>
 
-<!--<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mkabumattar" alt="mkabumattar" /></p>-->
-
-<br><br>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mkabumattar/" target="blank"><img src="./assets/icons/linkedin.png" alt="mkabumattar | LinkediIn" height="50" width="50" /></a>
-<a href="https://github.com/MKAbuMattar" target="blank"><img src="./assets/icons/github.png" alt="mkabumattar | GitHub" height="50" width="50" /></a>
-<a href="https://codepen.io/mkabumattar" target="blank"><img src="./assets/icons/codepen.png" alt="mkabumattar | CodePen" height="50" width="50" /></a>
-<a href="https://instagram.com/mkabumattar" target="blank"><img src="./assets/icons/instagram.png" alt="mkabumattar | Instagram" height="50" width="50" /></a>
-<a href="https://fb.com/mkabumattar" target="blank"><img src="./assets/icons/facebook.png" alt="mkabumattar | Facebook" height="50" width="50" /></a>
-<a href="https://twitter.com/mkabumattar" target="blank"><img src="./assets/icons/twitter.png" alt="mkabumattar | Twitter" height="50" width="50" /></a>
-</p>
-
-<br><br>
-
-<p align="center">
-<!-- <img src="https://metrics.lecoq.io/MKAbuMattar" alt="mkabumattar" /><br><br> -->
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkabumattar&show_icons=true&locale=en&layout=compact" alt="mkabumattar" /><br><br>-->
 <img src="https://github-readme-stats.vercel.app/api?username=mkabumattar&show_icons=true&locale=en" alt="mkabumattar" /><br><br>
-<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=MKAbuMattar" alt="mkabumattar" /><br><br>-->
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=MKAbuMattar" alt="mkabumattar" /><br><br>-->
 </p>
