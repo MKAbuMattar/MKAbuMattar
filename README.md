@@ -7,5 +7,9 @@
 <br><br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mkabumattar&show_icons=true&locale=en" alt="mkabumattar" /><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=mkabumattar&theme=radical&show_icons=true alt="mkabumattar" /><br><br>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkabumattar&theme=radical&show_icons=true" alt="mkabumattar" /><br><br>
 </p>
