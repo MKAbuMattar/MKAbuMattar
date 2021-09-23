@@ -13,7 +13,8 @@
 <br>
 <br>
 
-feel free to follow me:
+### Feel Free to Follow me:
+<br>
 
 <div>
 					<a href="https://mkabumattar.netlify.app/"><img src="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge" alt=""></a>
@@ -23,9 +24,11 @@ feel free to follow me:
 					<a href="https://www.instagram.com/mkabumattar/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt=""></a>
 					<a href="https://web.facebook.com/MKAbuMattar"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt=""></a>
       </div>
+      <br>
+      <br>
+<img src="https://gpvc.arturio.dev/MKAbuMattar" alt="mkabumattar" />
 </div>
 
-<img src="https://gpvc.arturio.dev/MKAbuMattar" alt="mkabumattar" />
 
 ***
 
