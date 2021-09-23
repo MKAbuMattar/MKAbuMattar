@@ -39,7 +39,7 @@
 
 <div>
 
-<img align="center" style=" width:80%;margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=MKAbuMattar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="mkabumattar" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MKAbuMattar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="mkabumattar" />
 
 <br/>
 <br/>
