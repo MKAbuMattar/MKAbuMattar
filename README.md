@@ -1,11 +1,13 @@
 <div align="center">
-  <a href="https://mkabumattar.netlify.app/">
       <img src="./assets/img/Header.svg" alt="mkabumattar" />
-  </a>
 </div>
 
 
-<p align="center">I'm a Software Engineering 👨‍💻 based in Amman, Jordan. I enjoy creating things that live on the internet, Shortly after graduating from Isra University, I joined the engineering team at Isra University as a lab-supervisor where I work on a wide variety of interesting and meaningful projects on a daily basis, but now I looking for a new journey, a new dream.</p>
+<div align="center">
+<h2>About Me</h2>
+
+<p>Hello, I'm Mohammad Abu Mattar. I graduated as a software engineering. Learning new things and having new experiences are two of my greatest passions. Programming has always piqued my attention, and I've worked hard to hone my abilities as a full-stack developer. I'm searching for a job as a software engineer at a reputable firm where I can put my abilities to good use and grow.</p>
+</div>
 
 <img src="https://gpvc.arturio.dev/MKAbuMattar" alt="mkabumattar" />
 
