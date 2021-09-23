@@ -1,4 +1,8 @@
-[![Header](./assets/img/Header.svg "Header")](https://mkabumattar.netlify.app/)
+<div align="center">
+  <a href="https://mkabumattar.netlify.app/">
+      <img src="./assets/img/Header.svg" alt="mkabumattar" />
+  </a>
+</div>
 
 
 <p align="center">I'm a Software Engineering 👨‍💻 based in Amman, Jordan. I enjoy creating things that live on the internet, Shortly after graduating from Isra University, I joined the engineering team at Isra University as a lab-supervisor where I work on a wide variety of interesting and meaningful projects on a daily basis, but now I looking for a new journey, a new dream.</p>
