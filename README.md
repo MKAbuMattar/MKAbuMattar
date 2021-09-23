@@ -1,8 +1,9 @@
-[![Header](./assets/img/imgHeader.png "Header")](https://mkabumattar.github.io/)
+[![Header](./assets/img/Header.svg "Header")](https://mkabumattar.netlify.app/)
 
-<h1 align="center">Hi 👋, I'm Mohammad Abu Mattar</h1>
-<img src="https://gpvc.arturio.dev/MKAbuMattar" alt="mkabumattar" />
+
 <p align="center">I'm a Software Engineering 👨‍💻 based in Amman, Jordan. I enjoy creating things that live on the internet, Shortly after graduating from Isra University, I joined the engineering team at Isra University as a lab-supervisor where I work on a wide variety of interesting and meaningful projects on a daily basis, but now I looking for a new journey, a new dream.</p>
+
+<img src="https://gpvc.arturio.dev/MKAbuMattar" alt="mkabumattar" />
 
 ***
 
@@ -34,10 +35,12 @@
 
 ***
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mkabumattar&theme=radical&show_icons=true alt="mkabumattar" /><br><br>
-</p>
+## GitHub Status
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkabumattar&theme=radical&show_icons=true" alt="mkabumattar" /><br><br>
-</p>
+<div>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mkabumattar&theme=radical&show_icons=true" alt="mkabumattar" />
+
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkabumattar&theme=radical&show_icons=true" alt="mkabumattar" />
+
+</div>
+
