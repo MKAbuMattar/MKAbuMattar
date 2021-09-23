@@ -39,7 +39,7 @@
 
 <div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MKAbuMattar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="mkabumattar" />
+<img align="center" style=" width:80%;margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=MKAbuMattar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="mkabumattar" />
 
 <br/>
 <br/>
@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=MKAbuMattar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="mkabumattar" />
+<img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=MKAbuMattar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="mkabumattar" />
 
 </div>
 
