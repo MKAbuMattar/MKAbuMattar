@@ -28,6 +28,10 @@
 <a href="https://github.com/MKAbuMattar">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=""/>
 </a>
+	
+<a href="https://leetcode.com/MKAbuMattar/">
+<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt=""/>
+</a>
 		
 <a href="https://codepen.io/MKAbuMattar">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt=""/>
@@ -41,9 +45,6 @@
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt=""/>
 </a>
 
-<a href="https://leetcode.com/MKAbuMattar/">
-<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt=""/>
-</a>
 </div>
 	
 <br/><br/>
