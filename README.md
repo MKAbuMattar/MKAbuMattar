@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://mkabumattar.netlify.app/" target="_blank">
-      <img src="./assets/img/Header.svg" alt="mkabumattar" />
-  </a>
+<a href="https://8byte.co.vu/" target="_blank">
+<img src="./assets/img/Header.svg" alt="mkabumattar" />
+</a>
 </div>
 
 
@@ -17,7 +17,7 @@
 <br/>
 	
 <div>
-<a href="https://mkabumattar.netlify.app/" target="_blank">
+<a href="https://8byte.co.vu/" target="_blank">
 <img src="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge" alt=""/>
 </a>
 
