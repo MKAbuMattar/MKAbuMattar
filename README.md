@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://mkabumattar.netlify.app/">
+  <a href="https://mkabumattar.netlify.app/" target="__blank">
       <img src="./assets/img/Header.svg" alt="mkabumattar" />
   </a>
 </div>
@@ -17,31 +17,31 @@
 <br/>
 	
 <div>
-<a href="https://mkabumattar.netlify.app/">
+<a href="https://mkabumattar.netlify.app/" target="__blank">
 <img src="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge" alt=""/>
 </a>
 
-<a href="https://www.linkedin.com/in/mkabumattar/">
+<a href="https://www.linkedin.com/in/mkabumattar/" target="__blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
 </a>
 		
-<a href="https://github.com/MKAbuMattar">
+<a href="https://github.com/MKAbuMattar" target="__blank">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=""/>
 </a>
 	
-<a href="https://leetcode.com/MKAbuMattar/">
+<a href="https://leetcode.com/MKAbuMattar/" target="__blank">
 <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt=""/>
 </a>
 		
-<a href="https://codepen.io/MKAbuMattar">
+<a href="https://codepen.io/MKAbuMattar" target="__blank">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt=""/>
 </a>
 		
-<a href="https://www.instagram.com/mkabumattar/">
+<a href="https://www.instagram.com/mkabumattar/" target="__blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt=""/>
 </a>
 		
-<a href="https://web.facebook.com/MKAbuMattar">
+<a href="https://web.facebook.com/MKAbuMattar" target="__blank">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt=""/>
 </a>
 
