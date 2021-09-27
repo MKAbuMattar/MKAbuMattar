@@ -6,27 +6,52 @@
 
 
 <div align="center">
-<h2>About Me</h2>
+	<h2>About Me</h2>
+	
+	<p>Hello, I'm Mohammad Abu Mattar. I graduated as a software engineering. Learning new things and having new experiences are two of my greatest passions. Programming has always piqued my attention, and I've worked hard to hone my abilities as a full-stack developer. I'm searching for a job as a software engineer at a reputable firm where I can put my abilities to good use and grow.</p>
+	
+	<br/>
+	<br/>
+	
+	### Feel Free to Follow me:
+	
+	<br/>
+	
+	<div>
+		<a href="https://mkabumattar.netlify.app/">
+			<img src="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge" alt=""/>
+		</a>
 
-<p>Hello, I'm Mohammad Abu Mattar. I graduated as a software engineering. Learning new things and having new experiences are two of my greatest passions. Programming has always piqued my attention, and I've worked hard to hone my abilities as a full-stack developer. I'm searching for a job as a software engineer at a reputable firm where I can put my abilities to good use and grow.</p>
+		<a href="https://www.linkedin.com/in/mkabumattar/">
+			<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
+		</a>
+		
+		<a href="https://github.com/MKAbuMattar">
+			<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=""/>
+		</a>
+		
+		<a href="https://codepen.io/MKAbuMattar">
+			<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt=""/>
+		</a>
+		
+		<a href="https://www.instagram.com/mkabumattar/">
+			<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt=""/>
+		</a>
+		
+		<a href="https://web.facebook.com/MKAbuMattar">
+			<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt=""/>
+		</a>
 
-<br>
-<br>
+		<a href="https://leetcode.com/MKAbuMattar/">
+			<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt=""/>
+		</a>
+	</div>
+	
+	<br/>
+	<br/>
+	
+	<img src="https://gpvc.arturio.dev/MKAbuMattar" alt="mkabumattar" />
 
-### Feel Free to Follow me:
-<br>
-
-<div>
-					<a href="https://mkabumattar.netlify.app/"><img src="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge" alt=""></a>
-					<a href="https://www.linkedin.com/in/mkabumattar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-          <a href="https://github.com/MKAbuMattar"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=""></a>
-					<a href="https://codepen.io/MKAbuMattar"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt=""></a>
-					<a href="https://www.instagram.com/mkabumattar/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt=""></a>
-					<a href="https://web.facebook.com/MKAbuMattar"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt=""></a>
-      </div>
-      <br>
-      <br>
-<img src="https://gpvc.arturio.dev/MKAbuMattar" alt="mkabumattar" />
 </div>
 
 
@@ -63,26 +88,25 @@
 ## GitHub Status
 
 <div>
-<div align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MKAbuMattar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="mkabumattar" />
-
-</div>
-
-<br/>
-<br/>
-<br/>
-
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mkabumattar&theme=radical&show_icons=true" alt="mkabumattar" />
-
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkabumattar&theme=radical&show_icons=true" alt="mkabumattar" />
-
-<br/>
-<br/>
-<br/>
-
-<div align="center" width="60%"> 
-<img src="https://activity-graph.herokuapp.com/graph?username=MKAbuMattar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="mkabumattar" />
-</div>
+	<div align="center"> 
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=MKAbuMattar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="mkabumattar" />
+	</div>
+	
+	<br/>
+	<br/>
+	<br/>
+	
+	<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mkabumattar&theme=radical&show_icons=true" alt="mkabumattar" />
+	
+	<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkabumattar&theme=radical&show_icons=true" alt="mkabumattar" />
+	
+	<br/>
+	<br/>
+	<br/>
+	
+	<div align="center" width="60%">
+		<img src="https://activity-graph.herokuapp.com/graph?username=MKAbuMattar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="mkabumattar" />
+	</div>
 
 </div>
 
