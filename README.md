@@ -8,7 +8,7 @@ I am a software engineer with 2+ years experience in microservices, Spring frame
 
 * 🌍  I'm based in Amman, Jordan
 * 🖥️  See my portfolio at [My Portfolio](http://mkabumattar.github.io/)
-* ✉️  You can contact me at [mohammad.abumattar@outlook.com](mailto:mohammad.abumattar@outlook.com)
+* ✉️  You can contact me at [info@mkabumattar.com](info@mkabumattar.com)
 
 ### Skills
 
