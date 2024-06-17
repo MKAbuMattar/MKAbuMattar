@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abu Mattar</h1>
-<h3 align="center">A Software Engineering / AWS Cloud Engineering</h3>
+<h3 align="center">Software Engineer | AWS Cloud Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://mkabumattar.com/](https://mkabumattar.com/)
-
-- 📝 I regularly write articles on [https://mkabumattar.com/blog](https://mkabumattar.com/blog)
-
-- 📫 How to reach me **info@mkabumattar.com**
-
-- 📄 Know about my experiences [https://mkabumattar.com/assets/pdf/mohammad_abu_mattar_cv.pdf](https://mkabumattar.com/assets/pdf/mohammad_abu_mattar_cv.pdf)
+<p align="center">
+  <a href="https://mkabumattar.com/">💻 My Portfolio</a> | 
+  <a href="https://mkabumattar.com/blog">✍️ My Blog</a> | 
+  <a href="mailto:info@mkabumattar.com">📫 Contact Me</a> | 
+  <a href="https://mkabumattar.com/assets/pdf/mohammad_abu_mattar_cv.pdf">📄 My Resume</a>
+</p>
 
 ### Blogs posts
 
@@ -101,7 +100,7 @@
   </picture>
 </div>
 
-<h3 align="left">Backend Development:</h3>
+<h3 align="left">Backend Development Framework:</h3>
 
 <div align="left">
   <picture>
@@ -115,6 +114,19 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/spring.svg">
     <img src="./assets/spring.svg" alt="spring" width="70" height="50"/>
+  </picture>
+</div>
+
+<h3 align="left">Frontend Development Framework:</h3>
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/astro-dark.svg">
+    <img src="./assets/astro.svg" alt="astro" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/nextjs-dark.svg">
+    <img src="./assets/nextjs.svg" alt="nextjs" width="70" height="50"/>
   </picture>
 </div>
 
@@ -143,7 +155,7 @@
   </picture>
 </div>
 
-<h3 align="left">Devops:</h3>
+<h3 align="left">DevOps:</h3>
 
 <div align="left">
   <picture>
@@ -176,36 +188,25 @@
 <h3 align="left">Version Control:</h3>
 
 <div align="left">
-  <!-- <img src="./assets/git.svg" alt="git" width="70" height="50"/> -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/git-dark.svg">
     <img src="./assets/git.svg" alt="git" width="70" height="50"/>
   </picture>
-  <!-- <img src="./assets/bitbucket.svg" alt="bitbucket" width="70" height="50"/> -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/bitbucket-dark.svg">
     <img src="./assets/bitbucket.svg" alt="bitbucket" width="70" height="50"/>
   </picture>
-  <!-- <img src="./assets/github.svg" alt="github" width="70" height="50"/> -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
     <img src="./assets/github.svg" alt="github" width="70" height="50"/>
   </picture>
-  <!-- <img src="./assets/gitlab.svg" alt="gitlab" width="70" height="50"/> -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/gitlab-dark.svg">
     <img src="./assets/gitlab.svg" alt="gitlab" width="70" height="50"/>
   </picture>
 </div>
 
-<h3 align="left">Framework:</h3>
-
-<div align="left">
-  <img src="./assets/astro.svg" alt="nextjs" width="70" height="50"/>
-  <img src="./assets/nextjs.svg" alt="nextjs" width="70" height="50"/>
-</div>
-
-<h3 align="left">Server:</h3>
+<h3 align="left">Servers:</h3>
 
 <div align="left">
   <img src="./assets/apache.svg" alt="apache" width="70" height="50"/>
