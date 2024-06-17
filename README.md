@@ -20,7 +20,7 @@
 
 <a href="https://linkedin.com/in/mkabumattar" target="blank"><img align="center" src="./assets/linkedin.svg" alt="mkabumattar" height="30" width="40" /></a>
 <a href="https://codepen.io/mkabumattar" target="blank"><img align="center" src="./assets/codepen.svg" alt="mkabumattar" height="30" width="40" /></a>
-<a href="/https://mkabumattar.com/rss.xml" target="blank"><img align="center" src="./assets/rss.svg" alt="https://mkabumattar.com/rss.xml" height="30" width="40" /></a>
+<a href="https://mkabumattar.com/rss.xml" target="blank"><img align="center" src="./assets/rss.svg" alt="https://mkabumattar.com/rss.xml" height="30" width="40" /></a>
 <a href="https://instagram.com/mkabumattar" target="blank"><img align="center" src="./assets/instagram.svg" alt="mkabumattar" height="30" width="40" /></a>
 <a href="https://twitter.com/mkabumattar" target="blank"><img align="center" src="./assets/twitter.svg" alt="mkabumattar" height="30" width="40" /></a>
 <a href="https://fb.com/mkabumattar" target="blank"><img align="center" src="./assets/facebook.svg" alt="mkabumattar" height="30" width="40" /></a>
