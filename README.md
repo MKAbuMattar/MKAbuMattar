@@ -156,7 +156,7 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 <h3 align="left">Database:</h3>
 
 <div align="left">
-<picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/dynamodb.svg">
     <img src="./assets/dynamodb.svg" alt="dynamodb" width="70" height="50"/>
   </picture>
@@ -235,7 +235,7 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 <h3 align="left">Servers:</h3>
 
 <div align="left">
-   <picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/apache.svg">
     <img src="./assets/apache.svg" alt="apache" width="70" height="50"/>
   </picture>
@@ -340,7 +340,7 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 
 <br />
 
-<h2 align="left"> 📊 GitHub Stats </h2>
+<h2 align="left">📊 GitHub Stats </h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkabumattar&show_icons=true&locale=en&layout=compact" alt="mkabumattar" /></p>
 
