@@ -112,15 +112,13 @@
     <img src="./assets/express.svg" alt="express" width="70" height="50"/>
   </picture>
   <picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/fastapi.svg">
     <img src="./assets/fastapi.svg" alt="fastapi" width="70" height="50"/>
   </picture>
-  <!-- <picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/spring.svg">
     <img src="./assets/spring.svg" alt="spring" width="70" height="50"/>
-  </picture> -->
-    <img src="./assets/spring.svg" alt="spring" width="70" height="50"/>
+  </picture>
 </div>
 
 <h4 align="left">Frameworks & Libraries:</h4>
