@@ -176,10 +176,26 @@
 <h3 align="left">Version Control:</h3>
 
 <div align="left">
-  <img src="./assets/git.svg" alt="git" width="70" height="50"/>
-  <img src="./assets/bitbucket.svg" alt="bitbucket" width="70" height="50"/>
-  <img src="./assets/github.svg" alt="github" width="70" height="50"/>
-  <img src="./assets/gitlab.svg" alt="gitlab" width="70" height="50"/>
+  <!-- <img src="./assets/git.svg" alt="git" width="70" height="50"/> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/git-dark.svg">
+    <img src="./assets/git.svg" alt="git" width="70" height="50"/>
+  </picture>
+  <!-- <img src="./assets/bitbucket.svg" alt="bitbucket" width="70" height="50"/> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/bitbucket-dark.svg">
+    <img src="./assets/bitbucket.svg" alt="bitbucket" width="70" height="50"/>
+  </picture>
+  <!-- <img src="./assets/github.svg" alt="github" width="70" height="50"/> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
+    <img src="./assets/github.svg" alt="github" width="70" height="50"/>
+  </picture>
+  <!-- <img src="./assets/gitlab.svg" alt="gitlab" width="70" height="50"/> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/gitlab-dark.svg">
+    <img src="./assets/gitlab.svg" alt="gitlab" width="70" height="50"/>
+  </picture>
 </div>
 
 <h3 align="left">Framework:</h3>
