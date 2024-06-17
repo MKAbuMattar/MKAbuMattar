@@ -20,19 +20,39 @@
   <a href="https://linkedin.com/in/mkabumattar" target="blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin.svg">
-      <img align="center" src="./assets/linkedin.svg" alt="mkabumattar" height="30" width="40" />
+      <img src="./assets/linkedin.svg" alt="mkabumattar" height="30" width="40" />
     </picture>
   </a>
   <a href="https://codepen.io/mkabumattar" target="blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/codepen-dark.svg">
-      <img align="center" src="./assets/codepen.svg" alt="mkabumattar" height="30" width="40" />
+      <img src="./assets/codepen.svg" alt="mkabumattar" height="30" width="40" />
     </picture>
   </a>
-  <a href="https://mkabumattar.com/rss.xml" target="blank"><img align="center" src="./assets/rss.svg" alt="https://mkabumattar.com/rss.xml" height="30" width="40" /></a>
-  <a href="https://instagram.com/mkabumattar" target="blank"><img align="center" src="./assets/instagram.svg" alt="mkabumattar" height="30" width="40" /></a>
-  <a href="https://twitter.com/mkabumattar" target="blank"><img align="center" src="./assets/twitter.svg" alt="mkabumattar" height="30" width="40" /></a>
-  <a href="https://fb.com/mkabumattar" target="blank"><img align="center" src="./assets/facebook.svg" alt="mkabumattar" height="30" width="40" /></a>
+  <a href="https://mkabumattar.com/rss.xml" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/rss.svg">
+      <img src="./assets/rss.svg" alt="https://mkabumattar.com/rss.xml" height="30" width="40" />
+    </picture>
+  </a>
+  <a href="https://instagram.com/mkabumattar" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/instagram.svg">
+      <img src="./assets/instagram.svg" alt="mkabumattar" height="30" width="40" />
+    </picture>
+  </a>
+  <a href="https://twitter.com/mkabumattar" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/twitter-dark.svg">
+      <img src="./assets/twitter.svg" alt="mkabumattar" height="30" width="40" />
+    </picture>
+  </a>
+  <a href="https://fb.com/mkabumattar" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/facebook.svg">
+      <img src="./assets/facebook.svg" alt="mkabumattar" height="30" width="40" />
+    </picture>
+  </a>
 </div>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
