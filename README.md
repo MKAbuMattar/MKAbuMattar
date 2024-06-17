@@ -249,6 +249,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/npm.svg">
     <img src="./assets/npm.svg" alt="npm" width="70" height="50"/>
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/pnpm-dark.svg">
     <img src="./assets/pnpm.svg" alt="pnpm" width="70" height="50"/>
@@ -256,7 +257,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/poetry.svg">
     <img src="./assets/poetry.svg" alt="poetry" width="70" height="50"/>
-  </picture>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/postman.svg">
