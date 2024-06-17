@@ -167,7 +167,10 @@
 <h3 align="left">Cloud:</h3>
 
 <div align="left">
-  <img src="./assets/aws.svg" alt="aws" width="70" height="50"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/aws-dark.svg">
+    <img src="./assets/aws.svg" alt="aws" width="70" height="50"/>
+  </picture>
 </div>
 
 <h3 align="left">Version Control:</h3>
