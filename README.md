@@ -121,20 +121,47 @@
 <h3 align="left">Database:</h3>
 
 <div align="left">
-  <img src="./assets/mariadb.svg" alt="mariadb" width="70" height="50"/>
-  <img src="./assets/mongodb.svg" alt="mongodb" width="70" height="50"/>
-  <img src="./assets/mysql.svg" alt="mysql" width="70" height="50"/>
-  <img src="./assets/postgresql.svg" alt="postgresql" width="70" height="50"/>
-  <img src="./assets/redis.svg" alt="redis" width="70" height="50"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/mariadb-dark.svg">
+    <img src="./assets/mariadb.svg" alt="mariadb" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/mongodb-dark.svg">
+    <img src="./assets/mongodb.svg" alt="mongodb" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/mysql-dark.svg">
+    <img src="./assets/mysql.svg" alt="mysql" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/postgresql-dark.svg">
+    <img src="./assets/postgresql.svg" alt="postgresql" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/redis-dark.svg">
+    <img src="./assets/redis.svg" alt="redis" width="70" height="50"/>
+  </picture>
 </div>
 
 <h3 align="left">Devops:</h3>
 
 <div align="left">
-  <img src="./assets/docker.svg" alt="docker" width="70" height="50"/>
-  <img src="./assets/jenkins.svg" alt="jenkins" width="70" height="50"/>
-  <img src="./assets/terraform.svg" alt="terraform" width="70" height="50"/>
-  <img src="./assets/terragrunt.svg" alt="terragrunt" width="70" height="50"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/docker-dark.svg">
+    <img src="./assets/docker.svg" alt="docker" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/jenkins-dark.svg">
+    <img src="./assets/jenkins.svg" alt="jenkins" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/terraform-dark.svg">
+    <img src="./assets/terraform.svg" alt="terraform" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/terragrunt-dark.svg">
+    <img src="./assets/terragrunt.svg" alt="terragrunt" width="70" height="50"/>
+  </picture>
 </div>
 
 <h3 align="left">Cloud:</h3>
