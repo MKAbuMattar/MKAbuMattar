@@ -8,7 +8,13 @@
   <a href="https://mkabumattar.com/assets/pdf/mohammad_abu_mattar_cv.pdf">📄 My Resume</a>
 </p>
 
-### Blogs posts
+---
+
+<h2 align="left">👨‍💻 Introduction</h2>
+
+I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud technologies, particularly AWS. In this profile, you'll find details about my skills, projects, and certifications that reflect my expertise and experience.
+
+<h2 align="left">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
 
