@@ -13,7 +13,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">🔗 Connect with Me:</h2>
 
 <div align="left">
   <a href="https://linkedin.com/in/mkabumattar" target="blank">
@@ -54,6 +54,8 @@
   </a>
 </div>
 
+<h2 align="left">🛠️ Skills</h2>
+
 <h3 align="left">Programming Languages:</h3>
 
 <div align="left">
@@ -75,7 +77,9 @@
   </picture>
 </div>
 
-<h3 align="left">Frontend Development:</h3>
+<h3 align="left">Web Development</h3>
+
+<h4 align="left">Frontend:</h4>
 
 <div align="left">
   <picture>
@@ -87,10 +91,6 @@
     <img src="./assets/html5.svg" alt="html5" width="70" height="50"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/react.svg">
-    <img src="./assets/react.svg" alt="react" width="70" height="50"/>
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/sass.svg">
     <img src="./assets/sass.svg" alt="sass" width="70" height="50"/>
   </picture>
@@ -100,7 +100,7 @@
   </picture>
 </div>
 
-<h3 align="left">Backend Development Framework:</h3>
+<h4 align="left">Backend:</h4>
 
 <div align="left">
   <picture>
@@ -117,7 +117,7 @@
   </picture>
 </div>
 
-<h3 align="left">Frontend Development Framework:</h3>
+<h4 align="left">Frameworks & Libraries:</h4>
 
 <div align="left">
   <picture>
@@ -127,6 +127,10 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/nextjs-dark.svg">
     <img src="./assets/nextjs.svg" alt="nextjs" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/react.svg">
+    <img src="./assets/react.svg" alt="react" width="70" height="50"/>
   </picture>
 </div>
 
@@ -155,9 +159,13 @@
   </picture>
 </div>
 
-<h3 align="left">DevOps:</h3>
+<h3 align="left">Cloud & DevOps:</h3>
 
 <div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/aws-dark.svg">
+    <img src="./assets/aws.svg" alt="aws" width="70" height="50"/>
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/docker-dark.svg">
     <img src="./assets/docker.svg" alt="docker" width="70" height="50"/>
@@ -173,15 +181,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/terragrunt-dark.svg">
     <img src="./assets/terragrunt.svg" alt="terragrunt" width="70" height="50"/>
-  </picture>
-</div>
-
-<h3 align="left">Cloud:</h3>
-
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/aws-dark.svg">
-    <img src="./assets/aws.svg" alt="aws" width="70" height="50"/>
   </picture>
 </div>
 
@@ -209,29 +208,56 @@
 <h3 align="left">Servers:</h3>
 
 <div align="left">
-  <img src="./assets/apache.svg" alt="apache" width="70" height="50"/>
-  <img src="./assets/nginx.svg" alt="nginx" width="70" height="50"/>
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/apache.svg">
+    <img src="./assets/apache.svg" alt="apache" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/nginx.svg">
+    <img src="./assets/nginx.svg" alt="nginx" width="70" height="50"/>
+  </picture>
 </div>
 
 <h3 align="left">Tools:</h3>
 
 <div align="left">
-  <img src="./assets/bash.svg" alt="bash" width="70" height="50"/>
-  <img src="./assets/postman.svg" alt="bash" width="70" height="50"/>
-  <img src="./assets/ssh.svg" alt="bash" width="70" height="50"/>
-  <img src="./assets/swagger.svg" alt="bash" width="70" height="50"/>
-  <img src="./assets/vim.svg" alt="bash" width="70" height="50"/>
-  <img src="./assets/vscode.svg" alt="bash" width="70" height="50"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/bash-dark.svg">
+    <img src="./assets/bash.svg" alt="bash" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/postman.svg">
+    <img src="./assets/postman.svg" alt="postman" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/ssh-dark.svg">
+    <img src="./assets/ssh.svg" alt="ssh" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/swagger-dark.svg">
+    <img src="./assets/swagger.svg" alt="swagger" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/vim.svg">
+    <img src="./assets/vim.svg" alt="vim" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/vscode.svg">
+    <img src="./assets/vscode.svg" alt="vscode" width="70" height="50"/>
+  </picture>
 </div>
 
 <h3 align="left">Operating System:</h3>
 
 <div align="left">
-  <img src="./assets/linux.svg" alt="linux" width="70" height="50"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/linux.svg">
+    <img src="./assets/linux.svg" alt="linux" width="70" height="50"/>
+  </picture>
 </div>
 
 <div align="center">
-  <h3>Certifications:</h3>
+  <h2>📜 Certifications:</h2>
 
   <img src="./assets/aws-certified-developer-associate.png" width="100" height="100"/>
   <img src="./assets/aws-certified-cloud-practitioner.png" width="100" height="100"/>
@@ -247,6 +273,8 @@
 <br />
 <br />
 <br />
+
+<h2 align="left"> 📊 GitHub Stats </h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkabumattar&show_icons=true&locale=en&layout=compact" alt="mkabumattar" /></p>
 
