@@ -28,10 +28,12 @@
 
 <h3 align="left">Programming Languages:</h3>
 
-<img src="./assets/java.svg" alt="java" width="50" height="50"/>
-<img src="./assets/javascript.svg" alt="javascript" width="50" height="50"/>
-<img src="./assets/python.svg" alt="python" width="50" height="50"/>
-<img src="./assets/typescript.svg" alt="typescript" width="50" height="50"/>
+<div align="left">
+  <img src="./assets/java.svg" alt="java" width="50" height="50"/>
+  <img src="./assets/javascript.svg" alt="javascript" width="50" height="50"/>
+  <img src="./assets/python.svg" alt="python" width="50" height="50"/>
+  <img src="./assets/typescript.svg" alt="typescript" width="50" height="50"/>
+</div>
 
 <h3 align="left">Frontend Development:</h3>
 
