@@ -112,6 +112,11 @@
     <img src="./assets/express.svg" alt="express" width="70" height="50"/>
   </picture>
   <picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fastapi.svg">
+    <img src="./assets/fastapi.svg" alt="fastapi" width="70" height="50"/>
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/spring.svg">
     <img src="./assets/spring.svg" alt="spring" width="70" height="50"/>
   </picture>
@@ -120,6 +125,10 @@
 <h4 align="left">Frameworks & Libraries:</h4>
 
 <div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/axios.svg">
+    <img src="./assets/axios.svg" alt="axios" width="70" height="50"/>
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/astro-dark.svg">
     <img src="./assets/astro.svg" alt="astro" width="70" height="50"/>
@@ -137,6 +146,10 @@
 <h3 align="left">Database:</h3>
 
 <div align="left">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dynamodb.svg">
+    <img src="./assets/dynamodb.svg" alt="dynamodb" width="70" height="50"/>
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/mariadb-dark.svg">
     <img src="./assets/mariadb.svg" alt="mariadb" width="70" height="50"/>
@@ -165,6 +178,10 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/aws-dark.svg">
     <img src="./assets/aws.svg" alt="aws" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/ansible-dark.svg">
+    <img src="./assets/ansible.svg" alt="ansible" width="70" height="50"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/docker-dark.svg">
@@ -226,8 +243,28 @@
     <img src="./assets/bash.svg" alt="bash" width="70" height="50"/>
   </picture>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/jetbrains.svg">
+    <img src="./assets/jetbrains.svg" alt="jetbrains" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/npm.svg">
+    <img src="./assets/npm.svg" alt="npm" width="70" height="50"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/pnpm-dark.svg">
+    <img src="./assets/pnpm.svg" alt="pnpm" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/poetry.svg">
+    <img src="./assets/poetry.svg" alt="poetry" width="70" height="50"/>
+  </picture>
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/postman.svg">
     <img src="./assets/postman.svg" alt="postman" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/powershell.svg">
+    <img src="./assets/powershell.svg" alt="powershell" width="70" height="50"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/ssh-dark.svg">
@@ -245,6 +282,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="./assets/vscode.svg">
     <img src="./assets/vscode.svg" alt="vscode" width="70" height="50"/>
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/yarn.svg">
+    <img src="./assets/yarn.svg" alt="yarn" width="70" height="50"/>
+  </picture>
 </div>
 
 <h3 align="left">Operating System:</h3>
@@ -253,6 +294,18 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/linux.svg">
     <img src="./assets/linux.svg" alt="linux" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/debian-dark.svg">
+    <img src="./assets/debian.svg" alt="debian" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/ubuntu-dark.svg">
+    <img src="./assets/ubuntu.svg" alt="ubuntu" width="70" height="50"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/windows.svg">
+    <img src="./assets/windows.svg" alt="windows" width="70" height="50"/>
   </picture>
 </div>
 
