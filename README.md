@@ -112,7 +112,6 @@
     <img src="./assets/express.svg" alt="express" width="70" height="50"/>
   </picture>
   <picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/fastapi.svg">
     <img src="./assets/fastapi.svg" alt="fastapi" width="70" height="50"/>
   </picture>
