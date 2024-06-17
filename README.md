@@ -85,9 +85,8 @@
 
 <img src="./assets/linux.svg" alt="linux" width="50" height="50"/>
 
-<div id="certs">
-
-<h3>Certifications:</h3>
+<div align="center">
+  <h3>Certifications:</h3>
 
   <img src="./assets/aws-certified-developer-associate.png" width="100" height="100"/>
   <img src="./assets/aws-certified-cloud-practitioner.png" width="100" height="100"/>
