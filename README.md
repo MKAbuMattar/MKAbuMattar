@@ -11,6 +11,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [AI is Not Real: A Software Engineering Perspective](https://mkabumattar.com/blog/post/ai-is-not-real/)
 - [When to Use Serverless?](https://mkabumattar.com/blog/post/when-to-use-serverless/)
 - [Why You Should Not Use Else Statements in Your Code](https://mkabumattar.com/blog/post/why-you-should-not-use-else-statements/)
@@ -315,8 +316,14 @@
 <h2 align="left">📜 Certifications:</h2>
 
 <div align="left">
-  <img src="./assets/aws-certified-developer-associate.png" width="100" height="100"/>
-  <img src="./assets/aws-certified-cloud-practitioner.png" width="100" height="100"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/aws-certified-developer-associate.png">
+    <img src="./assets/aws-certified-developer-associate.png" width="100" height="100"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/aws-certified-cloud-practitioner.png">
+    <img src="./assets/aws-certified-cloud-practitioner.png" width="100" height="100"/>
+  </picture>
 </div>
 
 <div align="left">
