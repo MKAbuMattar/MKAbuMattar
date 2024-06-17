@@ -37,55 +37,86 @@
 
 <h3 align="left">Frontend Development:</h3>
 
-<img src="./assets/html5.svg" alt="html5" width="50" height="50"/>
-<img src="./assets/css3.svg" alt="css3" width="50" height="50"/>
-<img src="./assets/react.svg" alt="react" width="50" height="50"/>
-<img src="./assets/sass.svg" alt="sass" width="50" height="50"/>
-<img src="./assets/tailwindcss.svg" alt="tailwindcss" width="50" height="50"/>
+<div align="left">
+  <img src="./assets/css3.svg" alt="css3" width="50" height="50"/>
+  <img src="./assets/html5.svg" alt="html5" width="50" height="50"/>
+  <img src="./assets/react.svg" alt="react" width="50" height="50"/>
+  <img src="./assets/sass.svg" alt="sass" width="50" height="50"/>
+  <img src="./assets/tailwindcss.svg" alt="tailwindcss" width="50" height="50"/>
+</div>
 
 <h3 align="left">Backend Development:</h3>
 
-<img src="./assets/nodejs.svg" alt="nodejs" width="50" height="50"/>
-<img src="./assets/express.svg" alt="express" width="50" height="50"/>
-<img src="./assets/spring.svg" alt="spring" width="50" height="50"/>
+<div align="left">
+  <img src="./assets/nodejs.svg" alt="nodejs" width="50" height="50"/>
+  <img src="./assets/express.svg" alt="express" width="50" height="50"/>
+  <img src="./assets/spring.svg" alt="spring" width="50" height="50"/>
+</div>
 
 <h3 align="left">Database:</h3>
 
-<img src="./assets/mariadb.svg" alt="mariadb" width="50" height="50"/>
-<img src="./assets/mongodb.svg" alt="mongodb" width="50" height="50"/>
-<img src="./assets/mysql.svg" alt="mysql" width="50" height="50"/>
-<img src="./assets/postgresql.svg" alt="postgresql" width="50" height="50"/>
-<img src="./assets/redis.svg" alt="redis" width="50" height="50"/>
+<div align="left">
+  <img src="./assets/mariadb.svg" alt="mariadb" width="50" height="50"/>
+  <img src="./assets/mongodb.svg" alt="mongodb" width="50" height="50"/>
+  <img src="./assets/mysql.svg" alt="mysql" width="50" height="50"/>
+  <img src="./assets/postgresql.svg" alt="postgresql" width="50" height="50"/>
+  <img src="./assets/redis.svg" alt="redis" width="50" height="50"/>
+</div>
 
 <h3 align="left">Devops:</h3>
 
-<img src="./assets/docker.svg" alt="docker" width="50" height="50"/>
-<img src="./assets/jenkins.svg" alt="jenkins" width="50" height="50"/>
+<div align="left">
+  <img src="./assets/docker.svg" alt="docker" width="50" height="50"/>
+  <img src="./assets/jenkins.svg" alt="jenkins" width="50" height="50"/>
+  <img src="./assets/terraform.svg" alt="terraform" width="50" height="50"/>
+  <img src="./assets/terragrunt.svg" alt="terragrunt" width="50" height="50"/>
+</div>
 
 <h3 align="left">Cloud:</h3>
 
-<img src="./assets/aws.svg" alt="aws" width="50" height="50"/>
+<div align="left">
+  <img src="./assets/aws.svg" alt="aws" width="50" height="50"/>
+</div>
 
 <h3 align="left">Version Control:</h3>
 
-<img src="./assets/git.svg" alt="git" width="50" height="50"/>
-<img src="./assets/bitbucket.svg" alt="bitbucket" width="50" height="50"/>
-<img src="./assets/github.svg" alt="github" width="50" height="50"/>
-<img src="./assets/gitlab.svg" alt="gitlab" width="50" height="50"/>
+<div align="left">
+  <img src="./assets/git.svg" alt="git" width="50" height="50"/>
+  <img src="./assets/bitbucket.svg" alt="bitbucket" width="50" height="50"/>
+  <img src="./assets/github.svg" alt="github" width="50" height="50"/>
+  <img src="./assets/gitlab.svg" alt="gitlab" width="50" height="50"/>
+</div>
 
 <h3 align="left">Framework:</h3>
 
-<img src="./assets/nextjs.svg" alt="nextjs" width="50" height="50"/>
+<div align="left">
+  <img src="./assets/astro.svg" alt="nextjs" width="50" height="50"/>
+  <img src="./assets/nextjs.svg" alt="nextjs" width="50" height="50"/>
+</div>
+
+<h3 align="left">Server:</h3>
+
+<div align="left">
+  <img src="./assets/apache.svg" alt="apache" width="50" height="50"/>
+  <img src="./assets/nginx.svg" alt="nginx" width="50" height="50"/>
+</div>
 
 <h3 align="left">Tools:</h3>
 
-<img src="./assets/bash.svg" alt="bash" width="50" height="50"/>
-<img src="./assets/figma.svg" alt="figma" width="50" height="50"/>
-<img src="./assets/nginx.svg" alt="nginx" width="50" height="50"/>
+<div align="left">
+  <img src="./assets/bash.svg" alt="bash" width="50" height="50"/>
+  <img src="./assets/postman.svg" alt="bash" width="50" height="50"/>
+  <img src="./assets/ssh.svg" alt="bash" width="50" height="50"/>
+  <img src="./assets/swagger.svg" alt="bash" width="50" height="50"/>
+  <img src="./assets/vim.svg" alt="bash" width="50" height="50"/>
+  <img src="./assets/vscode.svg" alt="bash" width="50" height="50"/>
+</div>
 
 <h3 align="left">Operating System:</h3>
 
-<img src="./assets/linux.svg" alt="linux" width="50" height="50"/>
+<div align="left">
+  <img src="./assets/linux.svg" alt="linux" width="50" height="50"/>
+</div>
 
 <div align="center">
   <h3>Certifications:</h3>
