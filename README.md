@@ -91,10 +91,12 @@
   <img src="./assets/aws-certified-developer-associate.png" width="100" height="100"/>
   <img src="./assets/aws-certified-cloud-practitioner.png" width="100" height="100"/>
 
+</div>
+
+<div align="center">
   <a href="https://www.credly.com/users/mkabumattar/badges" target="_blank">
     Check all certifications
   </a>
-
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkabumattar&show_icons=true&locale=en&layout=compact" alt="mkabumattar" /></p>
