@@ -17,6 +17,7 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 <h2 align="left">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [AI is Not Real: A Software Engineering Perspective](https://mkabumattar.com/blog/post/ai-is-not-real/)
 - [When to Use Serverless?](https://mkabumattar.com/blog/post/when-to-use-serverless/)
 - [Why You Should Not Use Else Statements in Your Code](https://mkabumattar.com/blog/post/why-you-should-not-use-else-statements/)
@@ -134,10 +135,6 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 <h4 align="left">Frameworks & Libraries:</h4>
 
 <div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/axios.svg">
-    <img src="./assets/axios.svg" alt="axios" width="70" height="50"/>
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/astro-dark.svg">
     <img src="./assets/astro.svg" alt="astro" width="70" height="50"/>
