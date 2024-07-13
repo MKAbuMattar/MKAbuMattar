@@ -17,7 +17,6 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 <h2 align="left">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [AI is Not Real: A Software Engineering Perspective](https://mkabumattar.com/blog/post/ai-is-not-real/)
 - [When to Use Serverless?](https://mkabumattar.com/blog/post/when-to-use-serverless/)
 - [Why You Should Not Use Else Statements in Your Code](https://mkabumattar.com/blog/post/why-you-should-not-use-else-statements/)
