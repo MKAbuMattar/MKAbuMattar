@@ -17,10 +17,10 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 <h2 align="left">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Infrastructure with Terraform in CI/CD Pipelines](https://mkabumattar.com/blog/post/deploying-infrastructure-with-terraform-in-ci-cd-pipelines/)
 - [AI is Not Real: A Software Engineering Perspective](https://mkabumattar.com/blog/post/ai-is-not-real/)
 - [When to Use Serverless?](https://mkabumattar.com/blog/post/when-to-use-serverless/)
 - [Why You Should Not Use Else Statements in Your Code](https://mkabumattar.com/blog/post/why-you-should-not-use-else-statements/)
-- [How to Avoid Over-Engineering Your Code?](https://mkabumattar.com/blog/post/how-to-avoid-over-engineering-your-code/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">🔗 Connect with Me:</h2>
