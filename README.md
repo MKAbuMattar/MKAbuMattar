@@ -17,10 +17,10 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 <h2 align="left">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero Trust Architecture in DevOps Pipelines: Secure Your CI/CD Workflows](https://mkabumattar.com/blog/post/undefined/)
 - [10+ Secret Git Commands That Will Save Hours Every Week](https://mkabumattar.com/blog/post/undefined/)
 - [Streamlining GitHub Organization Management with Terraform](https://mkabumattar.com/blog/post/undefined/)
 - [Getting Addicted to Coding: Why We Love Programming More Than Sleep](https://mkabumattar.com/blog/post/undefined/)
-- [Deploying Infrastructure with Terraform in CI/CD Pipelines](https://mkabumattar.com/blog/post/undefined/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">🔗 Connect with Me:</h2>
