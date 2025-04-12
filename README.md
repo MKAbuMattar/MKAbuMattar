@@ -17,10 +17,10 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 <h2 align="left">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Growth: Building a Secure and Scalable AWS Environment with a Multi-Account Architecture and Control Tower](https://mkabumattar.com/blog/post/undefined/)
-- [Policy as Code with Open Policy Agent: A Technical and Governance Perspective](https://mkabumattar.com/blog/post/undefined/)
-- [Zero Trust Architecture in DevOps Pipelines: Secure Your CI/CD Workflows](https://mkabumattar.com/blog/post/undefined/)
-- [10+ Secret Git Commands That Will Save Hours Every Week](https://mkabumattar.com/blog/post/undefined/)
+- [Navigating Growth: Building a Secure and Scalable AWS Environment with a Multi-Account Architecture and Control Tower](https://mkabumattar.com/blog/post/multi-account-aws-control-tower/)
+- [Policy as Code with Open Policy Agent: A Technical and Governance Perspective](https://mkabumattar.com/blog/post/policy-as-code-opa-guide/)
+- [Zero Trust Architecture in DevOps Pipelines: Secure Your CI/CD Workflows](https://mkabumattar.com/blog/post/zero-trust-devops-pipelines-securing-ci-cd/)
+- [10+ Secret Git Commands That Will Save Hours Every Week](https://mkabumattar.com/blog/post/10-secret-git-commands-to-save-time/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">🔗 Connect with Me:</h2>
