@@ -17,10 +17,10 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 <h2 align="left">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Real Talk on Microservices vs. Monoliths](https://mkabumattar.com/blog/post/0076-the-dark-side-of-microservices-when-to-avoid-them/)
 - [GitHub Actions vs. GitLab CI for Monorepos: Which One Wins?](https://mkabumattar.com/blog/post/github-actions-vs-gitlab-ci-for-monorepos/)
 - [Full-Stack Observability with OpenTelemetry: Getting a Clear View of Your Systems](https://mkabumattar.com/blog/post/full-stack-observability-opentelemetry/)
 - [Navigating Growth: Building a Secure and Scalable AWS Environment with a Multi-Account Architecture and Control Tower](https://mkabumattar.com/blog/post/multi-account-aws-control-tower/)
-- [Policy as Code with Open Policy Agent: A Technical and Governance Perspective](https://mkabumattar.com/blog/post/policy-as-code-opa-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">🔗 Connect with Me:</h2>
