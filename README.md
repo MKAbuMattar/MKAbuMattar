@@ -17,10 +17,10 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 <h2 align="left">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Secrets: HashiCorp Vault vs. AWS Secrets Manager vs. SOPS - Which Reigns Supreme](https://mkabumattar.com/blog/post/secrets-management-vault-secrets-manager-sops/)
 - [The AI Revolution in DevOps: How Smart Tech is Changing Incident Response](https://mkabumattar.com/blog/post/ai-powered-devops-incident-response-llms/)
 - [Platform Engineering: Building Internal Developer Platforms &lpar;IDPs&rpar;](https://mkabumattar.com/blog/post/platform-engineering-building-internal-developer-platforms/)
 - [The Real Talk on Microservices vs. Monoliths](https://mkabumattar.com/blog/post/0076-the-dark-side-of-microservices-when-to-avoid-them/)
-- [GitHub Actions vs. GitLab CI for Monorepos: Which One Wins?](https://mkabumattar.com/blog/post/github-actions-vs-gitlab-ci-for-monorepos/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">🔗 Connect with Me:</h2>
