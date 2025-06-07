@@ -17,10 +17,10 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 <h2 align="left">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Centralized Logging with Loki, Grafana, and Fluent Bit: Making Sense of Your Systems](https://mkabumattar.com/blog/post/centralized-logging-loki-grafana-fluent-bit/)
 - [Karpenter vs. Cluster Autoscaler on AWS: Picking the Right Tool for Your Kubernetes Scaling](https://mkabumattar.com/blog/post/karpenter-vs-cluster-autoscaler-aws-kubernetes-scaling/)
 - [Unlocking the Secrets: HashiCorp Vault vs. AWS Secrets Manager vs. SOPS - Which Reigns Supreme](https://mkabumattar.com/blog/post/secrets-management-vault-secrets-manager-sops/)
 - [The AI Revolution in DevOps: How Smart Tech is Changing Incident Response](https://mkabumattar.com/blog/post/ai-powered-devops-incident-response-llms/)
-- [Platform Engineering: Building Internal Developer Platforms &lpar;IDPs&rpar;](https://mkabumattar.com/blog/post/platform-engineering-building-internal-developer-platforms/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">🔗 Connect with Me:</h2>
