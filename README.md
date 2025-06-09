@@ -1,20 +1,54 @@
-<h1 align="center">Hi 👋, I'm Mohammad Abu Mattar</h1>
-<h3 align="center">Software Engineer | AWS Cloud Engineer</h3>
+<div align="center">
+<a href="https://mkabumattar.github.io/" target="_blank">
+<img src="./.github/assets/img/banner.svg" alt="Mohammad Abu Mattar - Software Engineer" />
+</a>
+</div>
+
+<h1 align="center">👋 Hello, I'm Mohammad Abu Mattar</h1>
 
 <p align="center">
-  <a href="https://mkabumattar.com/">💻 My Portfolio</a> | 
-  <a href="https://mkabumattar.com/blog">✍️ My Blog</a> | 
-  <a href="mailto:info@mkabumattar.com">📫 Contact Me</a> | 
-  <a href="https://mkabumattar.com/assets/pdf/mohammad_abu_mattar_cv.pdf">📄 My Resume</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Site+Reliability+Engineer;Release+Engineer;AWS+Certified"  alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://mkabumattar.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://mkabumattar.com/blog">
+    <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="mailto:info@mkabumattar.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://mkabumattar.com/assets/pdf/mohammad_abu_mattar_cv.pdf">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logoColor=white" alt="Resume"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="left">👨‍💻 Introduction</h2>
+## 🚀 About Me
 
-I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud technologies, particularly AWS. In this profile, you'll find details about my skills, projects, and certifications that reflect my expertise and experience.
+```typescript
+const mohammad = {
+    title: "DevOps Engineer",
+    location: "🌍 Amman, Jordan",
+    focus: ["DevOps", "Cloud Technologies", "AWS", "Full-Stack Development"],
+    currentlyLearning: "Serverless Architecture & Microservices",
+    askMeAbout: ["AWS", "React", "Node.js", "Python", "DevOps", "System Design"],
+    funFact: "I believe AI is not real... yet! 🤖"
+};
+```
 
-<h2 align="left">📕 Latest Blog Posts</h2>
+🔭 I'm a passionate **DevOps Engineer** specializing in **cloud technologies** with a strong focus on **AWS**  
+🌱 Currently exploring **serverless architectures** and **modern DevOps practices**  
+💡 I love sharing knowledge through my [blog](https://mkabumattar.com/blog) and contributing to open-source projects  
+📚 Always learning and staying up-to-date with the latest tech trends  
+⚡ When I'm not coding, you'll find me writing technical articles or experimenting with new technologies
+
+## 📝 Latest Blog Posts
+
+> Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
 - [Securing CI/CD with IAM Roles](https://mkabumattar.com/devtips/post/securing-cicd-with-iam-roles/)
@@ -23,48 +57,31 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 - [Unlocking the Secrets: HashiCorp Vault vs. AWS Secrets Manager vs. SOPS - Which Reigns Supreme](https://mkabumattar.com/blog/post/secrets-management-vault-secrets-manager-sops/)
 <!-- BLOG-POST-LIST:END -->
 
-<h2 align="left">🔗 Connect with Me:</h2>
+<p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
 
-<div align="left">
-  <a href="https://linkedin.com/in/mkabumattar" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin.svg">
-      <img src="./assets/linkedin.svg" alt="mkabumattar" height="30" width="40" />
-    </picture>
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/mkabumattar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://codepen.io/mkabumattar" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/codepen-dark.svg">
-      <img src="./assets/codepen.svg" alt="mkabumattar" height="30" width="40" />
-    </picture>
+  <a href="https://twitter.com/mkabumattar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://mkabumattar.com/rss.xml" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/rss.svg">
-      <img src="./assets/rss.svg" alt="https://mkabumattar.com/rss.xml" height="30" width="40" />
-    </picture>
+  <a href="https://instagram.com/mkabumattar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://instagram.com/mkabumattar" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/instagram.svg">
-      <img src="./assets/instagram.svg" alt="mkabumattar" height="30" width="40" />
-    </picture>
+  <a href="https://codepen.io/mkabumattar" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
   </a>
-  <a href="https://twitter.com/mkabumattar" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/twitter-dark.svg">
-      <img src="./assets/twitter.svg" alt="mkabumattar" height="30" width="40" />
-    </picture>
-  </a>
-  <a href="https://fb.com/mkabumattar" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/facebook.svg">
-      <img src="./assets/facebook.svg" alt="mkabumattar" height="30" width="40" />
-    </picture>
+  <a href="https://mkabumattar.com/rss.xml" target="_blank">
+    <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS"/>
   </a>
 </div>
 
-<h2 align="left">🛠️ Skills</h2>
+
+## 🛠️ Tech Stack & Skills
+
 
 <h3 align="left">Programming Languages:</h3>
 
@@ -314,31 +331,87 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
   </picture>
 </div>
 
-<h2 align="left">📜 Certifications:</h2>
+## 🏆 Certifications & Achievements
 
-<div align="left">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/aws-certified-developer-associate.png">
-    <img src="./assets/aws-certified-developer-associate.png" width="100" height="100"/>
+    <img src="./assets/aws-certified-developer-associate.png" width="120" height="120" alt="AWS Certified Developer Associate"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/aws-certified-cloud-practitioner.png">
-    <img src="./assets/aws-certified-cloud-practitioner.png" width="100" height="100"/>
+    <img src="./assets/aws-certified-cloud-practitioner.png" width="120" height="120" alt="AWS Certified Cloud Practitioner"/>
   </picture>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://www.credly.com/users/mkabumattar/badges" target="_blank">
-    Check all certifications
+    <img src="https://img.shields.io/badge/View%20All%20Certifications-0072CE?style=for-the-badge&logo=credly&logoColor=white" alt="View All Certifications"/>
   </a>
 </div>
 
-<br />
+## 📊 GitHub Analytics
 
-<h2 align="left">📊 GitHub Stats </h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mkabumattar&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkabumattar" alt="mkabumattar"/>
+  </picture>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkabumattar&show_icons=true&locale=en&layout=compact" alt="mkabumattar" /></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mkabumattar&show_icons=true&locale=en&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=mkabumattar&show_icons=true&locale=en" alt="mkabumattar"/>
+  </picture>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkabumattar&show_icons=true&locale=en" alt="mkabumattar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkabumattar&" alt="mkabumattar" /></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mkabumattar&show_icons=true&locale=en&layout=compact&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkabumattar&show_icons=true&locale=en&layout=compact" alt="mkabumattar"/>
+  </picture>
+</div>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dark" alt="Random Dev Quote Dark Mode"/>
+</div>
+
+---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- Activity will be automatically updated -->
+<!--END_SECTION:activity-->
+
+## 💭 Philosophy
+
+> The best way to predict the future is to create it.
+>
+> Peter Drucker
+
+I believe in continuous learning, clean code, and building solutions that make a difference. My passion lies in leveraging cloud technologies to create scalable, efficient, and innovative software solutions.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mkabumattar&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/mkabumattar?style=for-the-badge&color=blue" alt="GitHub Followers"/>
+</div>
+
+<div align="center">
+  <h3>🤝 Let's Connect and Build Something Amazing Together!</h3>
+  <p>
+    <em>Feel free to reach out if you want to collaborate on projects, discuss technology, or just have a friendly chat about software engineering!</em>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <sub>Made With ❤ &amp; a lot ☕ By <a href="https://mkabumattar.com/">Mohammad Abu Mattar</a></sub>
+</div>
