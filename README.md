@@ -385,7 +385,7 @@ const mohammad = {
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- Activity will be automatically updated -->
+1. 🎉 Merged PR [#64](https://github.com/MKAbuMattar/witsy-chocolatey-package/pull/64) in [MKAbuMattar/witsy-chocolatey-package](https://github.com/MKAbuMattar/witsy-chocolatey-package)
 <!--END_SECTION:activity-->
 
 ## 💭 Philosophy
