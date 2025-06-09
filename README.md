@@ -51,10 +51,14 @@ const mohammad = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [Check S3 Bucket Existence](https://mkabumattar.com/codesnippets/post/bash-s3-bucket-exists/)
 - [Securing CI/CD with IAM Roles](https://mkabumattar.com/devtips/post/securing-cicd-with-iam-roles/)
 - [Centralized Logging with Loki, Grafana, and Fluent Bit: Making Sense of Your Systems](https://mkabumattar.com/blog/post/centralized-logging-loki-grafana-fluent-bit/)
 - [Karpenter vs. Cluster Autoscaler on AWS: Picking the Right Tool for Your Kubernetes Scaling](https://mkabumattar.com/blog/post/karpenter-vs-cluster-autoscaler-aws-kubernetes-scaling/)
 - [Unlocking the Secrets: HashiCorp Vault vs. AWS Secrets Manager vs. SOPS - Which Reigns Supreme](https://mkabumattar.com/blog/post/secrets-management-vault-secrets-manager-sops/)
+- [The AI Revolution in DevOps: How Smart Tech is Changing Incident Response](https://mkabumattar.com/blog/post/ai-powered-devops-incident-response-llms/)
+- [Platform Engineering: Building Internal Developer Platforms &lpar;IDPs&rpar;](https://mkabumattar.com/blog/post/platform-engineering-building-internal-developer-platforms/)
+- [The Real Talk on Microservices vs. Monoliths](https://mkabumattar.com/blog/post/0076-the-dark-side-of-microservices-when-to-avoid-them/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
