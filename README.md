@@ -51,10 +51,10 @@ const mohammad = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is Not Real: A Software Engineering Perspective](https://mkabumattar.com/blog/post/ai-is-not-real/)
-- [When to Use Serverless?](https://mkabumattar.com/blog/post/when-to-use-serverless/)
-- [Why You Should Not Use Else Statements in Your Code](https://mkabumattar.com/blog/post/why-you-should-not-use-else-statements/)
-- [How to Avoid Over-Engineering Your Code?](https://mkabumattar.com/blog/post/how-to-avoid-over-engineering-your-code/)
+- [Securing CI/CD with IAM Roles](https://mkabumattar.com/devtips/post/securing-cicd-with-iam-roles/)
+- [Centralized Logging with Loki, Grafana, and Fluent Bit: Making Sense of Your Systems](https://mkabumattar.com/blog/post/centralized-logging-loki-grafana-fluent-bit/)
+- [Karpenter vs. Cluster Autoscaler on AWS: Picking the Right Tool for Your Kubernetes Scaling](https://mkabumattar.com/blog/post/karpenter-vs-cluster-autoscaler-aws-kubernetes-scaling/)
+- [Unlocking the Secrets: HashiCorp Vault vs. AWS Secrets Manager vs. SOPS - Which Reigns Supreme](https://mkabumattar.com/blog/post/secrets-management-vault-secrets-manager-sops/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
@@ -151,10 +151,6 @@ const mohammad = {
 <h4 align="left">Frameworks & Libraries:</h4>
 
 <div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/axios.svg">
-    <img src="./assets/axios.svg" alt="axios" width="70" height="50"/>
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/astro-dark.svg">
     <img src="./assets/astro.svg" alt="astro" width="70" height="50"/>
