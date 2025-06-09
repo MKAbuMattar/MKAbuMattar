@@ -342,8 +342,27 @@ I'm Mohammad Abu Mattar, a passionate Software Engineer with a focus on cloud te
 
 <h2 align="left">📊 GitHub Stats </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkabumattar&show_icons=true&locale=en&layout=compact" alt="mkabumattar" /></p>
+<dev align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkabumattar&show_icons=true&locale=en" alt="mkabumattar" /></p>
+<div align="center">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mkabumattar&show_icons=true&locale=en&layout=compact&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkabumattar&show_icons=true&locale=en&layout=compact" alt="mkabumattar"/>
+  </picture>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkabumattar&" alt="mkabumattar" /></p>
+<div align="center">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mkabumattar&show_icons=true&locale=en&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=mkabumattar&show_icons=true&locale=en" alt="mkabumattar"/>
+  </picture>
+</div>
+
+<div align="center">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mkabumattar&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkabumattar" alt="mkabumattar"/>
+  </picture>
+</div>
+
+</dev>
