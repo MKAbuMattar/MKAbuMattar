@@ -51,6 +51,7 @@ const mohammad = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [Organizing Terraform with Modules](https://mkabumattar.com/devtips/post/organizing-terraform-modules/)
 - [AIOps: Making DevOps Even Better with Smart AI Tools](https://mkabumattar.com/blog/post/aiops-enhancing-devops-with-ai/)
 - [Check S3 Bucket Existence](https://mkabumattar.com/codesnippets/post/bash-s3-bucket-exists/)
 - [Securing CI/CD with IAM Roles](https://mkabumattar.com/devtips/post/securing-cicd-with-iam-roles/)
@@ -58,7 +59,6 @@ const mohammad = {
 - [Karpenter vs. Cluster Autoscaler on AWS: Picking the Right Tool for Your Kubernetes Scaling](https://mkabumattar.com/blog/post/karpenter-vs-cluster-autoscaler-aws-kubernetes-scaling/)
 - [Unlocking the Secrets: HashiCorp Vault vs. AWS Secrets Manager vs. SOPS - Which Reigns Supreme](https://mkabumattar.com/blog/post/secrets-management-vault-secrets-manager-sops/)
 - [The AI Revolution in DevOps: How Smart Tech is Changing Incident Response](https://mkabumattar.com/blog/post/ai-powered-devops-incident-response-llms/)
-- [Platform Engineering: Building Internal Developer Platforms &lpar;IDPs&rpar;](https://mkabumattar.com/blog/post/platform-engineering-building-internal-developer-platforms/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
