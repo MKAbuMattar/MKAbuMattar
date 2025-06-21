@@ -51,6 +51,7 @@ const mohammad = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [Low-Code vs. Custom Code: Let&#39;s Talk About Speed and Tech Debt](https://mkabumattar.com/blog/post/low-code-vs-custom-code-speed-tech-debt/)
 - [AWS Secrets Manager](https://mkabumattar.com/codesnippets/post/nodejs-aws-secrets-manager/)
 - [Organizing Terraform with Modules](https://mkabumattar.com/devtips/post/organizing-terraform-modules/)
 - [AIOps: Making DevOps Even Better with Smart AI Tools](https://mkabumattar.com/blog/post/aiops-enhancing-devops-with-ai/)
@@ -58,7 +59,6 @@ const mohammad = {
 - [Securing CI/CD with IAM Roles](https://mkabumattar.com/devtips/post/securing-cicd-with-iam-roles/)
 - [Centralized Logging with Loki, Grafana, and Fluent Bit: Making Sense of Your Systems](https://mkabumattar.com/blog/post/centralized-logging-loki-grafana-fluent-bit/)
 - [Karpenter vs. Cluster Autoscaler on AWS: Picking the Right Tool for Your Kubernetes Scaling](https://mkabumattar.com/blog/post/karpenter-vs-cluster-autoscaler-aws-kubernetes-scaling/)
-- [Unlocking the Secrets: HashiCorp Vault vs. AWS Secrets Manager vs. SOPS - Which Reigns Supreme](https://mkabumattar.com/blog/post/secrets-management-vault-secrets-manager-sops/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
