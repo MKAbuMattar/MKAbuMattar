@@ -52,13 +52,13 @@ const mohammad = {
 
 <!-- BLOG-POST-LIST:START -->
 - [Compliance as Code: Making Security Easier with Terraform and InSpec](https://mkabumattar.com/blog/post/compliance-as-code-nist-iso-27001-gdpr-terraform-inspec/)
+- [Optimizing your python code with __slots__?](https://mkabumattar.com/codesnippets/post/python-slots-optimization/)
 - [List S3 Buckets](https://mkabumattar.com/codesnippets/post/python-list-s3-buckets/)
 - [Tracing Microservices with OpenTelemetry](https://mkabumattar.com/devtips/post/tracing-microservices-opentelemetry/)
 - [Low-Code vs. Custom Code: Let&#39;s Talk About Speed and Tech Debt](https://mkabumattar.com/blog/post/low-code-vs-custom-code-speed-tech-debt/)
 - [AWS Secrets Manager](https://mkabumattar.com/codesnippets/post/nodejs-aws-secrets-manager/)
 - [Organizing Terraform with Modules](https://mkabumattar.com/devtips/post/organizing-terraform-modules/)
 - [AIOps: Making DevOps Even Better with Smart AI Tools](https://mkabumattar.com/blog/post/aiops-enhancing-devops-with-ai/)
-- [Check S3 Bucket Existence](https://mkabumattar.com/codesnippets/post/bash-s3-bucket-exists/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
