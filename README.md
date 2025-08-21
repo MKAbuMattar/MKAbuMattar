@@ -51,6 +51,7 @@ const mohammad = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft’s Prompt Orchestration Markup Language &lpar;POML&rpar;: Structuring the Future of AI Interaction](https://mkabumattar.com/blog/post/microsoft-poml-orchestrating-ai-prompts-for-llms/)
 - [Compliance as Code: Making Security Easier with Terraform and InSpec](https://mkabumattar.com/blog/post/compliance-as-code-nist-iso-27001-gdpr-terraform-inspec/)
 - [Optimizing your python code with __slots__?](https://mkabumattar.com/codesnippets/post/python-slots-optimization/)
 - [List S3 Buckets](https://mkabumattar.com/codesnippets/post/python-list-s3-buckets/)
@@ -58,7 +59,6 @@ const mohammad = {
 - [Low-Code vs. Custom Code: Let&#39;s Talk About Speed and Tech Debt](https://mkabumattar.com/blog/post/low-code-vs-custom-code-speed-tech-debt/)
 - [AWS Secrets Manager](https://mkabumattar.com/codesnippets/post/nodejs-aws-secrets-manager/)
 - [Organizing Terraform with Modules](https://mkabumattar.com/devtips/post/organizing-terraform-modules/)
-- [AIOps: Making DevOps Even Better with Smart AI Tools](https://mkabumattar.com/blog/post/aiops-enhancing-devops-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
