@@ -51,14 +51,14 @@ const mohammad = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Kubernetes Services: ClusterIP vs NodePort vs LoadBalancer](https://mkabumattar.com/devtips/post/kubernetes-services-clusterip-nodeport-loadbalancer/)
+- [Managing Terraform at Scale with Terragrunt](https://mkabumattar.com/devtips/post/terraform-terragrunt-wrappers/)
+- [Per-App Shell History for Zsh](https://mkabumattar.com/codesnippets/post/zsh-per-app-history/)
+- [Per-App Shell History for Bash](https://mkabumattar.com/codesnippets/post/bash-per-app-history/)
 - [Microsoft’s Prompt Orchestration Markup Language &lpar;POML&rpar;: Structuring the Future of AI Interaction](https://mkabumattar.com/blog/post/microsoft-poml-orchestrating-ai-prompts-for-llms/)
 - [Compliance as Code: Making Security Easier with Terraform and InSpec](https://mkabumattar.com/blog/post/compliance-as-code-nist-iso-27001-gdpr-terraform-inspec/)
 - [Optimizing your python code with __slots__?](https://mkabumattar.com/codesnippets/post/python-slots-optimization/)
 - [List S3 Buckets](https://mkabumattar.com/codesnippets/post/python-list-s3-buckets/)
-- [Tracing Microservices with OpenTelemetry](https://mkabumattar.com/devtips/post/tracing-microservices-opentelemetry/)
-- [Low-Code vs. Custom Code: Let&#39;s Talk About Speed and Tech Debt](https://mkabumattar.com/blog/post/low-code-vs-custom-code-speed-tech-debt/)
-- [AWS Secrets Manager](https://mkabumattar.com/codesnippets/post/nodejs-aws-secrets-manager/)
-- [Organizing Terraform with Modules](https://mkabumattar.com/devtips/post/organizing-terraform-modules/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
