@@ -53,12 +53,12 @@ const mohammad = {
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Kubernetes Services: ClusterIP vs NodePort vs LoadBalancer](https://mkabumattar.com/devtips/post/kubernetes-services-clusterip-nodeport-loadbalancer/)
 - [Managing Terraform at Scale with Terragrunt](https://mkabumattar.com/devtips/post/terraform-terragrunt-wrappers/)
+- [The Democratization of Container Security: Docker Hardened Images](https://mkabumattar.com/blog/post/democratization-docker-hardened-images-container-security/)
 - [Per-App Shell History for Zsh](https://mkabumattar.com/codesnippets/post/zsh-per-app-history/)
 - [Per-App Shell History for Bash](https://mkabumattar.com/codesnippets/post/bash-per-app-history/)
 - [HashiCorp Pulls the Plug on CDKTF](https://mkabumattar.com/devtips/post/cdktf-deprecation-hashicorp-terraform/)
 - [Database DevOps: Making PostgreSQL and MongoDB CI/CD Feel Natural](https://mkabumattar.com/blog/post/database-devops-ci-cd-postgresql-mongodb/)
 - [Microsoft’s Prompt Orchestration Markup Language &lpar;POML&rpar;: Structuring the Future of AI Interaction](https://mkabumattar.com/blog/post/microsoft-poml-orchestrating-ai-prompts-for-llms/)
-- [Compliance as Code: Making Security Easier with Terraform and InSpec](https://mkabumattar.com/blog/post/compliance-as-code-nist-iso-27001-gdpr-terraform-inspec/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
