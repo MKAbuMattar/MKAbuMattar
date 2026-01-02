@@ -7,21 +7,30 @@
 <h1 align="center">👋 Hello, I'm Mohammad Abu Mattar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Site+Reliability+Engineer;Release+Engineer;AWS+Certified"  alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=AWS+Certified+DevOps+Engineer;Solutions+Architect;Site+Reliability+Engineer;Cloud+Automation;CI%2FCD;Infrastructure+as+Code+%26+GitOps" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://mkabumattar.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://mkabumattar.com/blog">
-    <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logoColor=white" alt="Blog"/>
+    <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://mkabumattar.com/devtips/">
+    <img src="https://img.shields.io/badge/Dev_Tips-FFA500?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Dev Tips"/>
+  </a>
+  <a href="https://mkabumattar.com/codesnippets/">
+    <img src="https://img.shields.io/badge/Code_Snippets-00C853?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Code Snippets"/>
+  </a>
+  <a href="https://linktree.mkabumattar.com/">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
   <a href="mailto:info@mkabumattar.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://mkabumattar.com/assets/pdf/mohammad_abu_mattar_cv.pdf">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
@@ -29,22 +38,50 @@
 
 ## 🚀 About Me
 
-```typescript
-const mohammad = {
-    title: "DevOps Engineer",
-    location: "🌍 Amman, Jordan",
-    focus: ["DevOps", "Cloud Technologies", "AWS", "Full-Stack Development"],
-    currentlyLearning: "Serverless Architecture & Microservices",
-    askMeAbout: ["AWS", "React", "Node.js", "Python", "DevOps", "System Design"],
-    funFact: "I believe AI is not real... yet! 🤖"
-};
+```python
+from typing import TypedDict
+
+class DevOpsProfile(TypedDict):
+    title: str
+    experience: str
+    location: str
+    specialization: list[str]
+    expertise: list[str]
+    currentlyLearning: str
+    interests: list[str]
+    askMeAbout: list[str]
+    funFact: str
+
+mohammad: DevOpsProfile = {
+    "title": "AWS-Certified DevOps Engineer",
+    "experience": "6+ years",
+    "location": "🌍 Amman, Jordan",
+    "specialization": [
+        "High-Scale Cloud Automation",
+        "Fintech Infrastructure",
+        "Multi-Account AWS Governance",
+        "Production Microservices Orchestration"
+    ],
+    "expertise": [
+        "Infrastructure as Code (Terraform, Terragrunt, CloudFormation)",
+        "PCI-DSS Compliance & Security",
+        "CI/CD & GitOps",
+        "Container Orchestration (Kubernetes, ECS)",
+        "Operational Excellence"
+    ],
+    "currentlyLearning": "Serverless Architecture & Advanced Security Patterns",
+    "interests": ["AI & Machine Learning", "RAG (Retrieval-Augmented Generation)", "GraphRAG"],
+    "askMeAbout": ["AWS", "DevOps", "Fintech", "Microservices", "IaC", "Security"],
+    "funFact": "I believe AI is not real... yet! 🤖"
+}
 ```
 
-🔭 I'm a passionate **DevOps Engineer** specializing in **cloud technologies** with a strong focus on **AWS**  
-🌱 Currently exploring **serverless architectures** and **modern DevOps practices**  
+🔭 **AWS-Certified DevOps Engineer** with **6+ years** specializing in high-scale cloud automation and fintech infrastructure  
+☁️ Expert in governing **multi-account AWS environments**, orchestrating **production microservices**, and implementing **Infrastructure as Code**  
+🔒 Deep focus on **PCI-DSS compliance**, **security**, and **operational excellence**  
 💡 I love sharing knowledge through my [blog](https://mkabumattar.com/blog) and contributing to open-source projects  
-📚 Always learning and staying up-to-date with the latest tech trends  
-⚡ When I'm not coding, you'll find me writing technical articles or experimenting with new technologies
+📚 Always learning and staying up-to-date with the latest cloud technologies and security best practices  
+⚡ When I'm not engineering infrastructure, you'll find me writing technical articles or experimenting with new AWS services
 
 ## 📝 Latest Blog Posts
 
