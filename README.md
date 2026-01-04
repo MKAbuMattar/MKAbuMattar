@@ -88,6 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [The Resilience of Timbernetes: A Comprehensive Analysis of In-Place Pod Vertical Scaling in Kubernetes 1.35](https://mkabumattar.com/blog/post/kubernetes-1-35-in-place-pod-vertical-scaling-guide/)
 - [Docker Is Eating Your Disk Space &lpar;And How PruneMate Fixes It&rpar;](https://mkabumattar.com/devtips/post/docker-disk-space-prunemate/)
 - [Taming the Chaos: Let&#39;s Sort Out Those Flaky CI/CD Pipelines](https://mkabumattar.com/blog/post/troubleshooting-flaky-ci-cd-pipelines/)
 - [Essential Bash Variables for Every Script](https://mkabumattar.com/codesnippets/post/essential-bash-variables/)
@@ -95,7 +96,6 @@ mohammad: DevOpsProfile = {
 - [Managing Terraform at Scale with Terragrunt](https://mkabumattar.com/devtips/post/terraform-terragrunt-wrappers/)
 - [The Democratization of Container Security: Docker Hardened Images](https://mkabumattar.com/blog/post/democratization-docker-hardened-images-container-security/)
 - [Per-App Shell History for Zsh](https://mkabumattar.com/codesnippets/post/zsh-per-app-history/)
-- [Per-App Shell History for Bash](https://mkabumattar.com/codesnippets/post/bash-per-app-history/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
