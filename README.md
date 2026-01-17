@@ -88,6 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [Container Image Signing with Cosign: A Hands-On Guide to Secure Your Supply Chain](https://mkabumattar.com/blog/post/container-image-signing-cosign-guide/)
 - [GraphRAG Explained: Building Knowledge-Grounded LLM Systems](https://mkabumattar.com/blog/post/graphrag-explained-building-knowledge-grounded-llm-systems/)
 - [7 Reasons Learning the Linux Terminal is Worth It &lpar;Even for Beginners&rpar;](https://mkabumattar.com/devtips/post/7-reasons-learning-linux-terminal-worth-it-beginners/)
 - [The Resilience of Timbernetes: A Comprehensive Analysis of In-Place Pod Vertical Scaling in Kubernetes 1.35](https://mkabumattar.com/blog/post/kubernetes-1-35-in-place-pod-vertical-scaling-guide/)
@@ -95,7 +96,6 @@ mohammad: DevOpsProfile = {
 - [Why printf Beats echo in Linux Scripts](https://mkabumattar.com/codesnippets/post/printf-beats-echo-linux-scripts/)
 - [Taming the Chaos: Let&#39;s Sort Out Those Flaky CI/CD Pipelines](https://mkabumattar.com/blog/post/troubleshooting-flaky-ci-cd-pipelines/)
 - [Essential Bash Variables for Every Script](https://mkabumattar.com/codesnippets/post/essential-bash-variables/)
-- [Understanding Kubernetes Services: ClusterIP vs NodePort vs LoadBalancer](https://mkabumattar.com/devtips/post/kubernetes-services-clusterip-nodeport-loadbalancer/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
