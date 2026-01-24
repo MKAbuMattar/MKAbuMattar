@@ -88,6 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Blog] What&#39;s the Deal with Shift-Left Security, and Why Should You Care?](https://mkabumattar.com/blog/post/shift-left-security-sast-dast-sca-cicd/)
 - [[Blog] Container Image Signing with Cosign: A Hands-On Guide to Secure Your Supply Chain](https://mkabumattar.com/blog/post/container-image-signing-cosign-guide/)
 - [[Slides] From Chaos to Control: A Blueprint for Scalable AWS Security](https://mkabumattar.com/slides/post/from-chaos-to-control-a-blueprint-for-scalable-aws-security/)
 - [[Blog] GraphRAG Explained: Building Knowledge-Grounded LLM Systems](https://mkabumattar.com/blog/post/graphrag-explained-building-knowledge-grounded-llm-systems/)
@@ -95,7 +96,6 @@ mohammad: DevOpsProfile = {
 - [[Blog] The Resilience of Timbernetes: A Comprehensive Analysis of In-Place Pod Vertical Scaling in Kubernetes 1.35](https://mkabumattar.com/blog/post/kubernetes-1-35-in-place-pod-vertical-scaling-guide/)
 - [[DevTips] Docker Is Eating Your Disk Space &lpar;And How PruneMate Fixes It&rpar;](https://mkabumattar.com/devtips/post/docker-disk-space-prunemate/)
 - [[Code Snippet] Why printf Beats echo in Linux Scripts](https://mkabumattar.com/codesnippets/post/printf-beats-echo-linux-scripts/)
-- [[Blog] Taming the Chaos: Let&#39;s Sort Out Those Flaky CI/CD Pipelines](https://mkabumattar.com/blog/post/troubleshooting-flaky-ci-cd-pipelines/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
