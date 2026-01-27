@@ -89,13 +89,13 @@ mohammad: DevOpsProfile = {
 
 <!-- BLOG-POST-LIST:START -->
 - [[DevTips] Setting Up GitHub Copilot Agent Skills in Your Repository](https://mkabumattar.com/devtips/post/github-copilot-agent-skills-setup/)
+- [[Quiz] AWS Basics Quiz](https://mkabumattar.com/quiz/post/aws-basics-quiz/)
 - [[Blog] What&#39;s the Deal with Shift-Left Security, and Why Should You Care?](https://mkabumattar.com/blog/post/shift-left-security-sast-dast-sca-cicd/)
 - [[Quiz] Terraform Basics Quiz](https://mkabumattar.com/quiz/post/terraform-basics-quiz/)
 - [[Blog] Container Image Signing with Cosign: A Hands-On Guide to Secure Your Supply Chain](https://mkabumattar.com/blog/post/container-image-signing-cosign-guide/)
 - [[Slides] From Chaos to Control: A Blueprint for Scalable AWS Security](https://mkabumattar.com/slides/post/from-chaos-to-control-a-blueprint-for-scalable-aws-security/)
 - [[Blog] GraphRAG Explained: Building Knowledge-Grounded LLM Systems](https://mkabumattar.com/blog/post/graphrag-explained-building-knowledge-grounded-llm-systems/)
 - [[DevTips] 7 Reasons Learning the Linux Terminal is Worth It &lpar;Even for Beginners&rpar;](https://mkabumattar.com/devtips/post/7-reasons-learning-linux-terminal-worth-it-beginners/)
-- [[Blog] The Resilience of Timbernetes: A Comprehensive Analysis of In-Place Pod Vertical Scaling in Kubernetes 1.35](https://mkabumattar.com/blog/post/kubernetes-1-35-in-place-pod-vertical-scaling-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
