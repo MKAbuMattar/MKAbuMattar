@@ -88,6 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Quiz] Ansible Basics Quiz](https://mkabumattar.com/quiz/post/ansible-basics-quiz/)
 - [[DevTips] Setting Up GitHub Copilot Agent Skills in Your Repository](https://mkabumattar.com/devtips/post/github-copilot-agent-skills-setup/)
 - [[Quiz] AWS Basics Quiz](https://mkabumattar.com/quiz/post/aws-basics-quiz/)
 - [[Blog] What&#39;s the Deal with Shift-Left Security, and Why Should You Care?](https://mkabumattar.com/blog/post/shift-left-security-sast-dast-sca-cicd/)
@@ -95,7 +96,6 @@ mohammad: DevOpsProfile = {
 - [[Blog] Container Image Signing with Cosign: A Hands-On Guide to Secure Your Supply Chain](https://mkabumattar.com/blog/post/container-image-signing-cosign-guide/)
 - [[Slides] From Chaos to Control: A Blueprint for Scalable AWS Security](https://mkabumattar.com/slides/post/from-chaos-to-control-a-blueprint-for-scalable-aws-security/)
 - [[Blog] GraphRAG Explained: Building Knowledge-Grounded LLM Systems](https://mkabumattar.com/blog/post/graphrag-explained-building-knowledge-grounded-llm-systems/)
-- [[DevTips] 7 Reasons Learning the Linux Terminal is Worth It &lpar;Even for Beginners&rpar;](https://mkabumattar.com/devtips/post/7-reasons-learning-linux-terminal-worth-it-beginners/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
