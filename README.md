@@ -88,6 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Quiz] Docker Basics Quiz](https://mkabumattar.com/quiz/post/docker-basics-quiz/)
 - [[Quiz] Ansible Basics Quiz](https://mkabumattar.com/quiz/post/ansible-basics-quiz/)
 - [[DevTips] Setting Up GitHub Copilot Agent Skills in Your Repository](https://mkabumattar.com/devtips/post/github-copilot-agent-skills-setup/)
 - [[Quiz] AWS Basics Quiz](https://mkabumattar.com/quiz/post/aws-basics-quiz/)
@@ -95,7 +96,6 @@ mohammad: DevOpsProfile = {
 - [[Quiz] Terraform Basics Quiz](https://mkabumattar.com/quiz/post/terraform-basics-quiz/)
 - [[Blog] Container Image Signing with Cosign: A Hands-On Guide to Secure Your Supply Chain](https://mkabumattar.com/blog/post/container-image-signing-cosign-guide/)
 - [[Slides] From Chaos to Control: A Blueprint for Scalable AWS Security](https://mkabumattar.com/slides/post/from-chaos-to-control-a-blueprint-for-scalable-aws-security/)
-- [[Blog] GraphRAG Explained: Building Knowledge-Grounded LLM Systems](https://mkabumattar.com/blog/post/graphrag-explained-building-knowledge-grounded-llm-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
