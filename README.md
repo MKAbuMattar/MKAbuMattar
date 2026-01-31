@@ -88,14 +88,14 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Blog] Chaos Engineering: Testing Resiliency with Chaos Monkey and Gremlin](https://mkabumattar.com/blog/post/chaos-engineering-resiliency-testing-monkey-gremlin/)
+- [[Quiz] PowerShell Basics Quiz](https://mkabumattar.com/quiz/post/powershell-basics-quiz/)
+- [[Quiz] Linux Basics Quiz](https://mkabumattar.com/quiz/post/linux-basics-quiz/)
 - [[Quiz] Docker Basics Quiz](https://mkabumattar.com/quiz/post/docker-basics-quiz/)
 - [[Quiz] Ansible Basics Quiz](https://mkabumattar.com/quiz/post/ansible-basics-quiz/)
 - [[DevTips] Setting Up GitHub Copilot Agent Skills in Your Repository](https://mkabumattar.com/devtips/post/github-copilot-agent-skills-setup/)
 - [[Quiz] AWS Basics Quiz](https://mkabumattar.com/quiz/post/aws-basics-quiz/)
 - [[Blog] What&#39;s the Deal with Shift-Left Security, and Why Should You Care?](https://mkabumattar.com/blog/post/shift-left-security-sast-dast-sca-cicd/)
-- [[Quiz] Terraform Basics Quiz](https://mkabumattar.com/quiz/post/terraform-basics-quiz/)
-- [[Blog] Container Image Signing with Cosign: A Hands-On Guide to Secure Your Supply Chain](https://mkabumattar.com/blog/post/container-image-signing-cosign-guide/)
-- [[Slides] From Chaos to Control: A Blueprint for Scalable AWS Security](https://mkabumattar.com/slides/post/from-chaos-to-control-a-blueprint-for-scalable-aws-security/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
