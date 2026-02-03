@@ -88,6 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Quiz] Python Basics Quiz](https://mkabumattar.com/quiz/post/python-basics-quiz/)
 - [[Quiz] ArgoCD Basics Quiz](https://mkabumattar.com/quiz/post/argocd-basics-quiz/)
 - [[Blog] Chaos Engineering: Testing Resiliency with Chaos Monkey and Gremlin](https://mkabumattar.com/blog/post/chaos-engineering-resiliency-testing-monkey-gremlin/)
 - [[Quiz] PowerShell Basics Quiz](https://mkabumattar.com/quiz/post/powershell-basics-quiz/)
@@ -95,7 +96,6 @@ mohammad: DevOpsProfile = {
 - [[Quiz] Docker Basics Quiz](https://mkabumattar.com/quiz/post/docker-basics-quiz/)
 - [[Quiz] Ansible Basics Quiz](https://mkabumattar.com/quiz/post/ansible-basics-quiz/)
 - [[DevTips] Setting Up GitHub Copilot Agent Skills in Your Repository](https://mkabumattar.com/devtips/post/github-copilot-agent-skills-setup/)
-- [[Quiz] AWS Basics Quiz](https://mkabumattar.com/quiz/post/aws-basics-quiz/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
