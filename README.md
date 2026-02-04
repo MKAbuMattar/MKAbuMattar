@@ -88,6 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Quiz] TypeScript Basics Quiz](https://mkabumattar.com/quiz/post/typescript-basics-quiz/)
 - [[Quiz] JavaScript Basics Quiz](https://mkabumattar.com/quiz/post/javascript-basics-quiz/)
 - [[Quiz] Python Basics Quiz](https://mkabumattar.com/quiz/post/python-basics-quiz/)
 - [[Quiz] ArgoCD Basics Quiz](https://mkabumattar.com/quiz/post/argocd-basics-quiz/)
@@ -95,7 +96,6 @@ mohammad: DevOpsProfile = {
 - [[Quiz] PowerShell Basics Quiz](https://mkabumattar.com/quiz/post/powershell-basics-quiz/)
 - [[Quiz] Linux Basics Quiz](https://mkabumattar.com/quiz/post/linux-basics-quiz/)
 - [[Quiz] Docker Basics Quiz](https://mkabumattar.com/quiz/post/docker-basics-quiz/)
-- [[Quiz] Ansible Basics Quiz](https://mkabumattar.com/quiz/post/ansible-basics-quiz/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
