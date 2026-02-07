@@ -88,14 +88,14 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
-- [[Quiz] Git Basics Quiz](https://mkabumattar.com/quiz/post/git-basics-quiz/)
-- [[Quiz] Kubernetes Basics Quiz](https://mkabumattar.com/quiz/post/kubernetes-basics-quiz/)
-- [[Quiz] TypeScript Basics Quiz](https://mkabumattar.com/quiz/post/typescript-basics-quiz/)
-- [[Quiz] JavaScript Basics Quiz](https://mkabumattar.com/quiz/post/javascript-basics-quiz/)
-- [[Quiz] Python Basics Quiz](https://mkabumattar.com/quiz/post/python-basics-quiz/)
-- [[Quiz] ArgoCD Basics Quiz](https://mkabumattar.com/quiz/post/argocd-basics-quiz/)
-- [[Blog] Chaos Engineering: Testing Resiliency with Chaos Monkey and Gremlin](https://mkabumattar.com/blog/post/chaos-engineering-resiliency-testing-monkey-gremlin/)
-- [[Quiz] PowerShell Basics Quiz](https://mkabumattar.com/quiz/post/powershell-basics-quiz/)
+- [[Blog] Unmasking Hidden Costs: Your Guide to AWS Cost Optimization Cleanup Strategies](https://mkabumattar.com/blog/post/aws-cost-optimization-cleanup-strategies/)
+- [[Quizzes] CI/CD: Pipeline Automation Essentials](https://mkabumattar.com/quizzes/post/cicd-pipeline-essentials-quiz/)
+- [[Quizzes] Git: Version Control Fundamentals](https://mkabumattar.com/quizzes/post/git-version-control-fundamentals-quiz/)
+- [[Quizzes] Kubernetes: Container Orchestration Essentials](https://mkabumattar.com/quizzes/post/kubernetes-orchestration-essentials-quiz/)
+- [[Quizzes] TypeScript: Typed JavaScript Fundamentals](https://mkabumattar.com/quizzes/post/typescript-fundamentals-quiz/)
+- [[Quizzes] JavaScript: Language Fundamentals &amp; Modern Features](https://mkabumattar.com/quizzes/post/javascript-fundamentals-quiz/)
+- [[Quizzes] Python: Programming Fundamentals &amp; Best Practices](https://mkabumattar.com/quizzes/post/python-programming-fundamentals-quiz/)
+- [[Quizzes] ArgoCD: GitOps Automation with Kubernetes](https://mkabumattar.com/quizzes/post/argocd-gitops-automation-quiz/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
