@@ -88,6 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Quizzes] Terragrunt: Infrastructure as Code Management](https://mkabumattar.com/quizzes/post/terragrunt-iac-management-quiz/)
 - [[Blog] Unmasking Hidden Costs: Your Guide to AWS Cost Optimization Cleanup Strategies](https://mkabumattar.com/blog/post/aws-cost-optimization-cleanup-strategies/)
 - [[Quizzes] CI/CD: Pipeline Automation Essentials](https://mkabumattar.com/quizzes/post/cicd-pipeline-essentials-quiz/)
 - [[Quizzes] Git: Version Control Fundamentals](https://mkabumattar.com/quizzes/post/git-version-control-fundamentals-quiz/)
@@ -95,7 +96,6 @@ mohammad: DevOpsProfile = {
 - [[Quizzes] TypeScript: Typed JavaScript Fundamentals](https://mkabumattar.com/quizzes/post/typescript-fundamentals-quiz/)
 - [[Quizzes] JavaScript: Language Fundamentals &amp; Modern Features](https://mkabumattar.com/quizzes/post/javascript-fundamentals-quiz/)
 - [[Quizzes] Python: Programming Fundamentals &amp; Best Practices](https://mkabumattar.com/quizzes/post/python-programming-fundamentals-quiz/)
-- [[Quizzes] ArgoCD: GitOps Automation with Kubernetes](https://mkabumattar.com/quizzes/post/argocd-gitops-automation-quiz/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
