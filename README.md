@@ -88,14 +88,14 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Slides] The Deployment Pipeline Journey: From Commit to Customer](https://mkabumattar.com/slides/post/deployment-pipeline-journey/)
+- [[Quizzes] Jenkins: CI/CD Automation &amp; Pipeline Management](https://mkabumattar.com/quizzes/post/jenkins-automation-fundamentals-quiz/)
 - [[Quizzes] Terragrunt: Infrastructure as Code Management](https://mkabumattar.com/quizzes/post/terragrunt-iac-management-quiz/)
 - [[Blog] Unmasking Hidden Costs: Your Guide to AWS Cost Optimization Cleanup Strategies](https://mkabumattar.com/blog/post/aws-cost-optimization-cleanup-strategies/)
 - [[Quizzes] CI/CD: Pipeline Automation Essentials](https://mkabumattar.com/quizzes/post/cicd-pipeline-essentials-quiz/)
 - [[Quizzes] Git: Version Control Fundamentals](https://mkabumattar.com/quizzes/post/git-version-control-fundamentals-quiz/)
 - [[Quizzes] Kubernetes: Container Orchestration Essentials](https://mkabumattar.com/quizzes/post/kubernetes-orchestration-essentials-quiz/)
 - [[Quizzes] TypeScript: Typed JavaScript Fundamentals](https://mkabumattar.com/quizzes/post/typescript-fundamentals-quiz/)
-- [[Quizzes] JavaScript: Language Fundamentals &amp; Modern Features](https://mkabumattar.com/quizzes/post/javascript-fundamentals-quiz/)
-- [[Quizzes] Python: Programming Fundamentals &amp; Best Practices](https://mkabumattar.com/quizzes/post/python-programming-fundamentals-quiz/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
