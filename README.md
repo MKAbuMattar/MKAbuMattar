@@ -88,6 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Quizzes] GitHub Actions: Workflow Automation Essentials](https://mkabumattar.com/quizzes/post/github-actions-workflow-automation-quiz/)
 - [[Slides] The Deployment Pipeline Journey: From Commit to Customer](https://mkabumattar.com/slides/post/deployment-pipeline-journey/)
 - [[Quizzes] Jenkins: CI/CD Automation &amp; Pipeline Management](https://mkabumattar.com/quizzes/post/jenkins-automation-fundamentals-quiz/)
 - [[Quizzes] Terragrunt: Infrastructure as Code Management](https://mkabumattar.com/quizzes/post/terragrunt-iac-management-quiz/)
@@ -95,7 +96,6 @@ mohammad: DevOpsProfile = {
 - [[Quizzes] CI/CD: Pipeline Automation Essentials](https://mkabumattar.com/quizzes/post/cicd-pipeline-essentials-quiz/)
 - [[Quizzes] Git: Version Control Fundamentals](https://mkabumattar.com/quizzes/post/git-version-control-fundamentals-quiz/)
 - [[Quizzes] Kubernetes: Container Orchestration Essentials](https://mkabumattar.com/quizzes/post/kubernetes-orchestration-essentials-quiz/)
-- [[Quizzes] TypeScript: Typed JavaScript Fundamentals](https://mkabumattar.com/quizzes/post/typescript-fundamentals-quiz/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
