@@ -88,6 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Quizzes] HashiCorp Vault: Secrets Management Fundamentals](https://mkabumattar.com/quizzes/post/vault-secrets-management-quiz/)
 - [[Quizzes] Google Cloud Platform: GCP Essentials](https://mkabumattar.com/quizzes/post/gcp-essentials-quiz/)
 - [[Blog] Unlocking Scalability: A Comprehensive Guide to Modular Terraform for IaC](https://mkabumattar.com/blog/post/modular-terraform-scalable-iac-guide/)
 - [[Quizzes] Azure: Cloud Services &amp; Architecture Fundamentals](https://mkabumattar.com/quizzes/post/azure-architecture-essentials-quiz/)
@@ -95,7 +96,6 @@ mohammad: DevOpsProfile = {
 - [[Quizzes] Helm: Kubernetes Package Management Essentials](https://mkabumattar.com/quizzes/post/helm-kubernetes-package-management-quiz/)
 - [[Quizzes] GitLab CI/CD: Pipeline Automation Fundamentals](https://mkabumattar.com/quizzes/post/gitlab-cicd-pipeline-quiz/)
 - [[Quizzes] GitHub Actions: Workflow Automation Essentials](https://mkabumattar.com/quizzes/post/github-actions-workflow-automation-quiz/)
-- [[Slides] The Deployment Pipeline Journey: From Commit to Customer](https://mkabumattar.com/slides/post/deployment-pipeline-journey/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
