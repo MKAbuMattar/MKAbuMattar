@@ -88,6 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Quizzes] Redis: In-Memory Caching &amp; Data Structures](https://mkabumattar.com/quizzes/post/redis-caching-fundamentals-quiz/)
 - [[Quizzes] Nginx: Web Server Fundamentals](https://mkabumattar.com/quizzes/post/nginx-web-server-fundamentals-quiz/)
 - [[Quizzes] Packer: Infrastructure Image Building Fundamentals](https://mkabumattar.com/quizzes/post/packer-image-building-fundamentals-quiz/)
 - [[Quizzes] HashiCorp Vault: Secrets Management Fundamentals](https://mkabumattar.com/quizzes/post/vault-secrets-management-quiz/)
@@ -95,7 +96,6 @@ mohammad: DevOpsProfile = {
 - [[Blog] Unlocking Scalability: A Comprehensive Guide to Modular Terraform for IaC](https://mkabumattar.com/blog/post/modular-terraform-scalable-iac-guide/)
 - [[Quizzes] Azure: Cloud Services &amp; Architecture Fundamentals](https://mkabumattar.com/quizzes/post/azure-architecture-essentials-quiz/)
 - [[Quizzes] Prometheus &amp; Grafana: Monitoring &amp; Observability Fundamentals](https://mkabumattar.com/quizzes/post/prometheus-grafana-monitoring-quiz/)
-- [[Quizzes] Helm: Kubernetes Package Management Essentials](https://mkabumattar.com/quizzes/post/helm-kubernetes-package-management-quiz/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
