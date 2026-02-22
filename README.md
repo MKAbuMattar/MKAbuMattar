@@ -88,14 +88,14 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Slides] Observability Engineering: From Metrics to Insights](https://mkabumattar.com/slides/post/observability-engineering-from-metrics-to-insights/)
+- [[Blog] Building Resilient Systems: Immutable Infrastructure with Packer and Terraform](https://mkabumattar.com/blog/post/immutable-infrastructure-packer-terraform-guide/)
 - [[Quizzes] SQL: Query Fundamentals &amp; Database Concepts](https://mkabumattar.com/quizzes/post/sql-query-fundamentals-quiz/)
 - [[Quizzes] Go: Programming Fundamentals &amp; Concurrency](https://mkabumattar.com/quizzes/post/golang-programming-fundamentals-quiz/)
 - [[Quizzes] Redis: In-Memory Caching &amp; Data Structures](https://mkabumattar.com/quizzes/post/redis-caching-fundamentals-quiz/)
 - [[Quizzes] Nginx: Web Server Fundamentals](https://mkabumattar.com/quizzes/post/nginx-web-server-fundamentals-quiz/)
 - [[Quizzes] Packer: Infrastructure Image Building Fundamentals](https://mkabumattar.com/quizzes/post/packer-image-building-fundamentals-quiz/)
 - [[Quizzes] HashiCorp Vault: Secrets Management Fundamentals](https://mkabumattar.com/quizzes/post/vault-secrets-management-quiz/)
-- [[Quizzes] Google Cloud Platform: GCP Essentials](https://mkabumattar.com/quizzes/post/gcp-essentials-quiz/)
-- [[Blog] Unlocking Scalability: A Comprehensive Guide to Modular Terraform for IaC](https://mkabumattar.com/blog/post/modular-terraform-scalable-iac-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
