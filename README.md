@@ -88,7 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
-- [[Slides] Observability Engineering: From Metrics to Insights](https://mkabumattar.com/slides/post/observability-engineering-from-metrics-to-insights/)
+- [[Quizzes] MongoDB: NoSQL Database Fundamentals](https://mkabumattar.com/quizzes/post/mongodb-nosql-fundamentals-quiz/)
 - [[Blog] Building Resilient Systems: Immutable Infrastructure with Packer and Terraform](https://mkabumattar.com/blog/post/immutable-infrastructure-packer-terraform-guide/)
 - [[Quizzes] SQL: Query Fundamentals &amp; Database Concepts](https://mkabumattar.com/quizzes/post/sql-query-fundamentals-quiz/)
 - [[Quizzes] Go: Programming Fundamentals &amp; Concurrency](https://mkabumattar.com/quizzes/post/golang-programming-fundamentals-quiz/)
