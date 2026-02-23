@@ -88,6 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Quizzes] Elasticsearch: Full-Text Search Engine Fundamentals](https://mkabumattar.com/quizzes/post/elasticsearch-search-engine-fundamentals-quiz/)
 - [[Quizzes] MongoDB: NoSQL Database Fundamentals](https://mkabumattar.com/quizzes/post/mongodb-nosql-fundamentals-quiz/)
 - [[Blog] Building Resilient Systems: Immutable Infrastructure with Packer and Terraform](https://mkabumattar.com/blog/post/immutable-infrastructure-packer-terraform-guide/)
 - [[Quizzes] SQL: Query Fundamentals &amp; Database Concepts](https://mkabumattar.com/quizzes/post/sql-query-fundamentals-quiz/)
@@ -95,7 +96,6 @@ mohammad: DevOpsProfile = {
 - [[Quizzes] Redis: In-Memory Caching &amp; Data Structures](https://mkabumattar.com/quizzes/post/redis-caching-fundamentals-quiz/)
 - [[Quizzes] Nginx: Web Server Fundamentals](https://mkabumattar.com/quizzes/post/nginx-web-server-fundamentals-quiz/)
 - [[Quizzes] Packer: Infrastructure Image Building Fundamentals](https://mkabumattar.com/quizzes/post/packer-image-building-fundamentals-quiz/)
-- [[Quizzes] HashiCorp Vault: Secrets Management Fundamentals](https://mkabumattar.com/quizzes/post/vault-secrets-management-quiz/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
