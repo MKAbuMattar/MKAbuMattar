@@ -88,6 +88,7 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Quizzes] GraphQL Fundamentals: Queries, Mutations &amp; Schema Design](https://mkabumattar.com/quizzes/post/graphql-fundamentals-quiz/)
 - [[Quizzes] GitOps at Scale: ArgoCD, Flux &amp; Multi-Cluster Deployments](https://mkabumattar.com/quizzes/post/gitops-at-scale-quiz/)
 - [[DevTips] Policy-as-Code Governance with OPA/Rego](https://mkabumattar.com/devtips/post/policy-as-code-opa-rego/)
 - [[Quizzes] Istio: Service Mesh Fundamentals](https://mkabumattar.com/quizzes/post/istio-service-mesh-fundamentals-quiz/)
@@ -95,7 +96,6 @@ mohammad: DevOpsProfile = {
 - [[Quizzes] MongoDB: NoSQL Database Fundamentals](https://mkabumattar.com/quizzes/post/mongodb-nosql-fundamentals-quiz/)
 - [[Blog] Building Resilient Systems: Immutable Infrastructure with Packer and Terraform](https://mkabumattar.com/blog/post/immutable-infrastructure-packer-terraform-guide/)
 - [[Quizzes] SQL: Query Fundamentals &amp; Database Concepts](https://mkabumattar.com/quizzes/post/sql-query-fundamentals-quiz/)
-- [[Quizzes] Go: Programming Fundamentals &amp; Concurrency](https://mkabumattar.com/quizzes/post/golang-programming-fundamentals-quiz/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
