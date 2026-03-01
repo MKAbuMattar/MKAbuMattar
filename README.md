@@ -89,12 +89,12 @@ mohammad: DevOpsProfile = {
 
 <!-- BLOG-POST-LIST:START -->
 - [[Quizzes] Observability Stack: Monitoring, Logging &amp; Tracing](https://mkabumattar.com/quizzes/post/observability-stack-quiz/)
+- [[Blog] Navigating the Future of Cloud with Multi-Cloud IaC: Pulumi and Crossplane](https://mkabumattar.com/blog/post/multi-cloud-iac-pulumi-crossplane-future-cloud/)
 - [[Cheatsheet] SSH](https://mkabumattar.com/cheatsheets/0027-ssh/)
 - [[Cheatsheet] VS Code](https://mkabumattar.com/cheatsheets/vscode/)
 - [[Cheatsheet] Ansible](https://mkabumattar.com/cheatsheets/0028-ansible/)
 - [[Cheatsheet] Chef](https://mkabumattar.com/cheatsheets/chef/)
 - [[Cheatsheet] Docker Compose](https://mkabumattar.com/cheatsheets/docker-compose/)
-- [[Cheatsheet] PostgreSQL](https://mkabumattar.com/cheatsheets/postgresql/)
 - [[Cheatsheet] Dockerfile](https://mkabumattar.com/cheatsheets/dockerfile/)
 <!-- BLOG-POST-LIST:END -->
 
