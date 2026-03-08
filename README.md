@@ -88,14 +88,14 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Quizzes] Vue.js Fundamentals: Reactive Components &amp; Templates](https://mkabumattar.com/quizzes/post/vuejs-fundamentals-quiz/)
 - [[Quizzes] Responsive Web Design: Mobile-First &amp; Breakpoints](https://mkabumattar.com/quizzes/post/responsive-design-quiz/)
 - [[Blog] Edge Computing: AWS Lambda@Edge vs. Cloudflare Workers – A Practical Guide](https://mkabumattar.com/blog/post/edge-computing-aws-lambda-at-edge-vs-cloudflare-workers-practical-guide/)
+- [[Cheatsheet] Docker Swarm](https://mkabumattar.com/cheatsheets/docker-swarm/)
 - [[Quizzes] Advanced API Architecture &amp; Design Patterns](https://mkabumattar.com/quizzes/post/advanced-api-architecture-quiz/)
 - [[Quizzes] Infrastructure Patterns: IaC, Provisioning &amp; Orchestration](https://mkabumattar.com/quizzes/post/infrastructure-patterns-quiz/)
 - [[Slides] Observability Engineering: From Metrics to Insights](https://mkabumattar.com/slides/post/observability-engineering-from-metrics-to-insights/)
 - [[Quizzes] Node.js &amp; Express Fundamentals: Building Server Applications](https://mkabumattar.com/quizzes/post/nodejs-express-fundamentals-quiz/)
-- [[Quizzes] React Fundamentals: Components, Hooks &amp; State Management](https://mkabumattar.com/quizzes/post/react-fundamentals-quiz/)
-- [[Code Snippet] Multi-Environment Secret Management with HashiCorp Vault](https://mkabumattar.com/codesnippets/post/hashicorp-vault-multi-environment-secrets/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
