@@ -88,14 +88,14 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
-- [[Quizzes] Flutter: Cross-Platform Mobile Development](https://mkabumattar.com/quizzes/post/flutter-mobile-quiz/)
-- [[Quizzes] Production Backend: Scaling, Monitoring &amp; Reliability](https://mkabumattar.com/quizzes/post/production-backend-scaling-quiz/)
-- [[Blog] Designing SLOs and Error Budgets: Your Blueprint for Sustainable Reliability](https://mkabumattar.com/blog/post/designing-slos-error-budgets-reliability-blueprint/)
-- [[Quizzes] Astro: Building Fast Web Experiences](https://mkabumattar.com/quizzes/post/astro-fundamentals-quiz/)
-- [[Quizzes] Async JavaScript: Promises, Async/Await, Event Loop](https://mkabumattar.com/quizzes/post/async-javascript-promises-quiz/)
-- [[Quizzes] React Native: Cross-Platform Mobile Development](https://mkabumattar.com/quizzes/post/react-native-mobile-quiz/)
-- [[Quizzes] Database Design &amp; Patterns](https://mkabumattar.com/quizzes/post/database-design-patterns-quiz/)
-- [[DevTips] Container Image Vulnerability Scanning in CI/CD with Trivy](https://mkabumattar.com/devtips/post/container-image-vulnerability-scanning-trivy/)
+- [[Quizzes] System Design &amp; Architecture: Scalability &amp; Resilience](https://mkabumattar.com/quizzes/post/system-design-architecture-quiz/)
+- [[Quizzes] Testing Strategies: Unit, Integration, E2E](https://mkabumattar.com/quizzes/post/testing-strategies-quiz/)
+- [[Quizzes] TypeScript Advanced: Types, Generics, Utility Types](https://mkabumattar.com/quizzes/post/typescript-advanced-quiz/)
+- [[Quizzes] Kubernetes Advanced: Production Operations &amp; Scaling](https://mkabumattar.com/quizzes/post/kubernetes-advanced-quiz/)
+- [[Blog] Serverless Observability: A Comprehensive Guide to AWS Lambda Monitoring](https://mkabumattar.com/blog/post/aws-lambda-observability-guide/)
+- [[Quizzes] WebAssembly &lpar;WASM&rpar;: Performance &amp; Interoperability](https://mkabumattar.com/quizzes/post/webassembly-wasm-quiz/)
+- [[Quizzes] Multi-Cloud Strategy &amp; Architecture](https://mkabumattar.com/quizzes/post/multicloud-strategy-quiz/)
+- [Kubernetes Security: A Blueprint for Hardening Clusters in Production](https://mkabumattar.com/presentations/post/kubernetes-security-blueprint-hardening-production/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
