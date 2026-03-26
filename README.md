@@ -93,9 +93,9 @@ mohammad: DevOpsProfile = {
 - [[Quizzes] TypeScript Advanced: Types, Generics, Utility Types](https://mkabumattar.com/quizzes/post/typescript-advanced-quiz/)
 - [[Quizzes] Kubernetes Advanced: Production Operations &amp; Scaling](https://mkabumattar.com/quizzes/post/kubernetes-advanced-quiz/)
 - [[Blog] Serverless Observability: A Comprehensive Guide to AWS Lambda Monitoring](https://mkabumattar.com/blog/post/aws-lambda-observability-guide/)
+- [[DevTips] Structured Logging &amp; Log Aggregation with ELK Stack](https://mkabumattar.com/devtips/post/structured-logging-elk-stack/)
 - [[Quizzes] WebAssembly &lpar;WASM&rpar;: Performance &amp; Interoperability](https://mkabumattar.com/quizzes/post/webassembly-wasm-quiz/)
 - [[Quizzes] Multi-Cloud Strategy &amp; Architecture](https://mkabumattar.com/quizzes/post/multicloud-strategy-quiz/)
-- [Kubernetes Security: A Blueprint for Hardening Clusters in Production](https://mkabumattar.com/presentations/post/kubernetes-security-blueprint-hardening-production/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
