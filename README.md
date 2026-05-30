@@ -88,14 +88,14 @@ mohammad: DevOpsProfile = {
 > Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Blog] AI is Not Real: A Software Engineering Perspective](https://mkabumattar.com/blog/post/ai-is-not-real/)
+- [[Cheatsheet] kubectl](https://mkabumattar.com/cheatsheets/kubectl/)
 - [[Flashcards] LPIC-2 Linux Engineer Flashcards](https://mkabumattar.com/flashcards/post/lpic-2-linux-engineer-flashcards/)
 - [[Flashcards] AWS Certified Developer Associate Flashcards &lpar;DVA-C02&rpar;](https://mkabumattar.com/flashcards/post/aws-certified-developer-associate-flashcards/)
 - [[Roadmaps] Release Engineer Beginner to Expert](https://mkabumattar.com/roadmaps/post/release-engineer-roadmap/)
 - [[Flashcards] Red Hat System Administration I Flashcards &lpar;RH124&rpar;](https://mkabumattar.com/flashcards/post/redhat-system-administration-rh124-flashcards/)
 - [[Roadmaps] Site Reliability Engineer Beginner to Expert](https://mkabumattar.com/roadmaps/post/site-reliability-engineer-roadmap/)
 - [[Flashcards] AWS Solutions Architect Associate Flashcards &lpar;SAA-C03&rpar;](https://mkabumattar.com/flashcards/post/aws-solutions-architect-associate-flashcards/)
-- [[Roadmaps] Solutions Architect Beginner to Expert](https://mkabumattar.com/roadmaps/post/solutions-architect-roadmap/)
-- [[Glossary] Linux Server Administration](https://mkabumattar.com/glossary/post/linux-server-administration/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
