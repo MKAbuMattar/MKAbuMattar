@@ -1,91 +1,57 @@
 <div align="center">
-<a href="https://mkabumattar.github.io/" target="_blank">
-<img src="./.github/assets/img/banner.svg" alt="Mohammad Abu Mattar - Software Engineer" />
+<a href="https://mkabumattar.com/" target="_blank">
+<img src="./.github/assets/img/banner.svg" alt="Mohammad Abu Mattar - Cloud & DevOps Engineer" />
 </a>
+
+# Mohammad Abu Mattar
+
+**AWS-Certified DevOps Engineer** · Cloud, Platform & Reliability · Amman, Jordan
+
+<a href="https://mkabumattar.com/"><img src="https://img.shields.io/badge/Portfolio-2196F3?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mkabumattar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://mkabumattar.com/blog"><img src="https://img.shields.io/badge/Blog-1c1c1c?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/></a>
+<a href="mailto:info@mkabumattar.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://mkabumattar.com/assets/pdf/mohammad_abu_mattar_cv.pdf"><img src="https://img.shields.io/badge/Resume-808080?style=flat-square&logo=readme&logoColor=white" alt="Resume"/></a>
+
 </div>
-
-<h1 align="center">👋 Hello, I'm Mohammad Abu Mattar</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=AWS+Certified+DevOps+Engineer;Solutions+Architect;Site+Reliability+Engineer;Cloud+Automation;CI%2FCD;Infrastructure+as+Code+%26+GitOps" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <a href="https://mkabumattar.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://mkabumattar.com/blog">
-    <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="https://mkabumattar.com/devtips/">
-    <img src="https://img.shields.io/badge/Dev_Tips-FFA500?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Dev Tips"/>
-  </a>
-  <a href="https://mkabumattar.com/codesnippets/">
-    <img src="https://img.shields.io/badge/Code_Snippets-00C853?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Code Snippets"/>
-  </a>
-  <a href="https://linktree.mkabumattar.com/">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-  <a href="mailto:info@mkabumattar.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://mkabumattar.com/assets/pdf/mohammad_abu_mattar_cv.pdf">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
-  </a>
-</p>
 
 ---
 
-## 🚀 About Me
+I'm a DevOps engineer with 6+ years building high-scale cloud automation and fintech infrastructure. I govern multi-account AWS environments, run production microservices on Kubernetes and ECS, and treat everything as code — with a deep focus on PCI-DSS compliance and supply-chain security. Alongside client work, I build and maintain open-source developer tools.
 
-```python
-from typing import TypedDict
+## Featured Projects
 
-class DevOpsProfile(TypedDict):
-    title: str
-    experience: str
-    location: str
-    specialization: list[str]
-    expertise: list[str]
-    currentlyLearning: str
-    interests: list[str]
-    askMeAbout: list[str]
-    funFact: str
+| Project | Description | Links |
+| --- | --- | --- |
+| **QuenchWorks** | Security-first replacement for the Bitnami catalog — 0-CVE hardened container images and Helm charts, built from source on Wolfi, signed and pinned by digest. | [Site](https://quench-works.com/) · [GitHub](https://github.com/quenchworks) |
+| **Rawi** | AI-powered CLI that auto-generates documentation for command-line applications. | [Docs](https://rawi.mkabumattar.com/) · [npm](https://www.npmjs.com/package/rawi) |
+| **NetCalc Pro** | Zero-backend suite for subnetting, CIDR & VLSM with shareable state and IaC export. | [Live](https://netcalc-pro.mkabumattar.com/) |
+| **Devicons React** | Programming-language & tooling icons as React components — 5k+ weekly npm downloads. | [Docs](https://devicons-react.mkabumattar.com/) · [npm](https://www.npmjs.com/package/devicons-react) |
+| **AWS Icons** | Complete, free SVG library of every AWS service icon, via CDN or npm. | [Docs](https://aws-icon.mkabumattar.com/icons) · [npm](https://www.npmjs.com/package/aws-icons) |
 
-mohammad: DevOpsProfile = {
-    "title": "AWS-Certified DevOps Engineer",
-    "experience": "6+ years",
-    "location": "🌍 Amman, Jordan",
-    "specialization": [
-        "High-Scale Cloud Automation",
-        "Fintech Infrastructure",
-        "Multi-Account AWS Governance",
-        "Production Microservices Orchestration"
-    ],
-    "expertise": [
-        "Infrastructure as Code (Terraform, Terragrunt, CloudFormation)",
-        "PCI-DSS Compliance & Security",
-        "CI/CD & GitOps",
-        "Container Orchestration (Kubernetes, ECS)",
-        "Operational Excellence"
-    ],
-    "currentlyLearning": "Serverless Architecture & Advanced Security Patterns",
-    "interests": ["AI & Machine Learning", "RAG (Retrieval-Augmented Generation)", "GraphRAG"],
-    "askMeAbout": ["AWS", "DevOps", "Fintech", "Microservices", "IaC", "Security"],
-    "funFact": "I believe AI is not real... yet! 🤖"
-}
-```
+<sub><a href="https://mkabumattar.com/#projects">See all projects →</a></sub>
 
-🔭 **AWS-Certified DevOps Engineer** with **6+ years** specializing in high-scale cloud automation and fintech infrastructure  
-☁️ Expert in governing **multi-account AWS environments**, orchestrating **production microservices**, and implementing **Infrastructure as Code**  
-🔒 Deep focus on **PCI-DSS compliance**, **security**, and **operational excellence**  
-💡 I love sharing knowledge through my [blog](https://mkabumattar.com/blog) and contributing to open-source projects  
-📚 Always learning and staying up-to-date with the latest cloud technologies and security best practices  
-⚡ When I'm not engineering infrastructure, you'll find me writing technical articles or experimenting with new AWS services
+## Tech Stack
 
-## 📝 Latest Blog Posts
+<p>
+  <img src="./assets/aws.svg" height="36" alt="AWS"/>&nbsp;&nbsp;
+  <img src="./assets/terraform.svg" height="36" alt="Terraform"/>&nbsp;&nbsp;
+  <img src="./assets/ansible.svg" height="36" alt="Ansible"/>&nbsp;&nbsp;
+  <img src="./assets/docker.svg" height="36" alt="Docker"/>&nbsp;&nbsp;
+  <img src="./assets/jenkins.svg" height="36" alt="Jenkins"/>&nbsp;&nbsp;
+  <img src="./assets/nginx.svg" height="36" alt="NGINX"/>&nbsp;&nbsp;
+  <img src="./assets/linux.svg" height="36" alt="Linux"/>&nbsp;&nbsp;
+  <img src="./assets/bash.svg" height="36" alt="Bash"/>&nbsp;&nbsp;
+  <img src="./assets/python.svg" height="36" alt="Python"/>&nbsp;&nbsp;
+  <img src="./assets/typescript.svg" height="36" alt="TypeScript"/>&nbsp;&nbsp;
+  <img src="./assets/nodejs.svg" height="36" alt="Node.js"/>&nbsp;&nbsp;
+  <img src="./assets/react.svg" height="36" alt="React"/>&nbsp;&nbsp;
+  <img src="./assets/postgresql.svg" height="36" alt="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="./assets/redis.svg" height="36" alt="Redis"/>&nbsp;&nbsp;
+  <img src="./assets/git.svg" height="36" alt="Git"/>
+</p>
 
-> Check out my latest thoughts and tutorials on DevOps engineering, cloud technologies, and best practices.
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [[Blog] Dotfiles: A Git-Based Strategy for Configuration Management](https://mkabumattar.com/blog/post/dotfiles/)
@@ -93,15 +59,10 @@ mohammad: DevOpsProfile = {
 - [[Blog] Git SSH Keys for GitHub, GitLab, and Bitbucket on Linux](https://mkabumattar.com/blog/post/git-ssh-keys-for-github-gitlab-and-bitbucket-on-linux/)
 - [[Blog] Git SSH Keys for GitHub, GitLab, and Bitbucket on Windows](https://mkabumattar.com/blog/post/git-ssh-keys-for-github-gitlab-and-bitbucket-on-windows/)
 - [[Blog] AI is Not Real: A Software Engineering Perspective](https://mkabumattar.com/blog/post/ai-is-not-real/)
-- [[Cheatsheet] kubectl](https://mkabumattar.com/cheatsheets/kubectl/)
-- [[Flashcards] LPIC-2 Linux Engineer Flashcards](https://mkabumattar.com/flashcards/post/lpic-2-linux-engineer-flashcards/)
-- [[Flashcards] AWS Certified Developer Associate Flashcards &lpar;DVA-C02&rpar;](https://mkabumattar.com/flashcards/post/aws-certified-developer-associate-flashcards/)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="right"><a href="https://mkabumattar.com/blog">📖 Read more articles →</a></p>
+<sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
 
 ---
 
-<div align="center">
-  <sub>Made With ❤ &amp; a lot ☕ By <a href="https://mkabumattar.com/">Mohammad Abu Mattar</a></sub>
-</div>
+<div align="center"><sub>Made with ☕ by <a href="https://mkabumattar.com/">Mohammad Abu Mattar</a></sub></div>
