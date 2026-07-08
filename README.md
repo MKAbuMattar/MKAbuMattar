@@ -59,6 +59,9 @@ I'm a DevOps engineer with 6+ years building high-scale cloud automation and fin
 - [[Blog] Git SSH Keys for GitHub, GitLab, and Bitbucket on Linux](https://mkabumattar.com/blog/post/git-ssh-keys-for-github-gitlab-and-bitbucket-on-linux/)
 - [[Blog] Git SSH Keys for GitHub, GitLab, and Bitbucket on Windows](https://mkabumattar.com/blog/post/git-ssh-keys-for-github-gitlab-and-bitbucket-on-windows/)
 - [[Blog] AI is Not Real: A Software Engineering Perspective](https://mkabumattar.com/blog/post/ai-is-not-real/)
+- [[Cheatsheet] kubectl](https://mkabumattar.com/cheatsheets/kubectl/)
+- [[Flashcards] LPIC-2 Linux Engineer Flashcards](https://mkabumattar.com/flashcards/post/lpic-2-linux-engineer-flashcards/)
+- [[Flashcards] AWS Certified Developer Associate Flashcards &lpar;DVA-C02&rpar;](https://mkabumattar.com/flashcards/post/aws-certified-developer-associate-flashcards/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
