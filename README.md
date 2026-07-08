@@ -1,6 +1,9 @@
 <div align="center">
 <a href="https://mkabumattar.com/" target="_blank">
-<img src="./.github/assets/img/banner.svg" alt="Mohammad Abu Mattar - Cloud & DevOps Engineer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/img/banner-dark.svg" />
+  <img src="./.github/assets/img/banner-light.svg" alt="Mohammad Abu Mattar — AWS-Certified DevOps Engineer" width="100%" />
+</picture>
 </a>
 
 # Mohammad Abu Mattar
@@ -34,21 +37,21 @@ I'm a DevOps engineer with 6+ years building high-scale cloud automation and fin
 ## Tech Stack
 
 <p>
-  <img src="./assets/aws.svg" height="36" alt="AWS"/>&nbsp;&nbsp;
-  <img src="./assets/terraform.svg" height="36" alt="Terraform"/>&nbsp;&nbsp;
-  <img src="./assets/ansible.svg" height="36" alt="Ansible"/>&nbsp;&nbsp;
-  <img src="./assets/docker.svg" height="36" alt="Docker"/>&nbsp;&nbsp;
-  <img src="./assets/jenkins.svg" height="36" alt="Jenkins"/>&nbsp;&nbsp;
-  <img src="./assets/nginx.svg" height="36" alt="NGINX"/>&nbsp;&nbsp;
-  <img src="./assets/linux.svg" height="36" alt="Linux"/>&nbsp;&nbsp;
-  <img src="./assets/bash.svg" height="36" alt="Bash"/>&nbsp;&nbsp;
-  <img src="./assets/python.svg" height="36" alt="Python"/>&nbsp;&nbsp;
-  <img src="./assets/typescript.svg" height="36" alt="TypeScript"/>&nbsp;&nbsp;
-  <img src="./assets/nodejs.svg" height="36" alt="Node.js"/>&nbsp;&nbsp;
-  <img src="./assets/react.svg" height="36" alt="React"/>&nbsp;&nbsp;
-  <img src="./assets/postgresql.svg" height="36" alt="PostgreSQL"/>&nbsp;&nbsp;
-  <img src="./assets/redis.svg" height="36" alt="Redis"/>&nbsp;&nbsp;
-  <img src="./assets/git.svg" height="36" alt="Git"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/aws-dark.svg"/><img src="./assets/aws.svg" height="34" alt="AWS"/></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terraform-dark.svg"/><img src="./assets/terraform.svg" height="34" alt="Terraform"/></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ansible-dark.svg"/><img src="./assets/ansible.svg" height="34" alt="Ansible"/></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/docker-dark.svg"/><img src="./assets/docker.svg" height="34" alt="Docker"/></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/jenkins-dark.svg"/><img src="./assets/jenkins.svg" height="34" alt="Jenkins"/></picture>&nbsp;&nbsp;
+  <img src="./assets/nginx.svg" height="34" alt="NGINX"/>&nbsp;&nbsp;
+  <img src="./assets/linux.svg" height="34" alt="Linux"/>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/bash-dark.svg"/><img src="./assets/bash.svg" height="34" alt="Bash"/></picture>&nbsp;&nbsp;
+  <img src="./assets/python.svg" height="34" alt="Python"/>&nbsp;&nbsp;
+  <img src="./assets/typescript.svg" height="34" alt="TypeScript"/>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nodejs-dark.svg"/><img src="./assets/nodejs.svg" height="34" alt="Node.js"/></picture>&nbsp;&nbsp;
+  <img src="./assets/react.svg" height="34" alt="React"/>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/postgresql-dark.svg"/><img src="./assets/postgresql.svg" height="34" alt="PostgreSQL"/></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/redis-dark.svg"/><img src="./assets/redis.svg" height="34" alt="Redis"/></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/git-dark.svg"/><img src="./assets/git.svg" height="34" alt="Git"/></picture>
 </p>
 
 ## Latest Blog Posts
