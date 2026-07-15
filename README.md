@@ -62,14 +62,14 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Blog] FinOps in Practice: How to Build a Cloud Cost Accountability Culture on AWS](https://mkabumattar.com/blog/post/finops-cloud-cost-accountability-aws/)
+- [[Blog] QuenchWorks: A Zero-CVE, Built-From-Source Replacement for the Bitnami Catalog](https://mkabumattar.com/blog/post/quenchworks-zero-cve-bitnami-alternative-wolfi/)
 - [[Blog] Dotfiles: A Git-Based Strategy for Configuration Management](https://mkabumattar.com/blog/post/dotfiles/)
 - [[Blog] Setting up Node JS, Express, MongoDB, Prettier, ESLint and Husky Application with Babel and authentication as an example](https://mkabumattar.com/blog/post/setting-up-node-js-express-mongodb-prettier-eslint-and-husky-application-with-babel-and-authentication-as-an-example/)
 - [[Blog] Git SSH Keys for GitHub, GitLab, and Bitbucket on Linux](https://mkabumattar.com/blog/post/git-ssh-keys-for-github-gitlab-and-bitbucket-on-linux/)
 - [[Blog] Git SSH Keys for GitHub, GitLab, and Bitbucket on Windows](https://mkabumattar.com/blog/post/git-ssh-keys-for-github-gitlab-and-bitbucket-on-windows/)
 - [[Blog] AI is Not Real: A Software Engineering Perspective](https://mkabumattar.com/blog/post/ai-is-not-real/)
-- [[Cheatsheet] kubectl](https://mkabumattar.com/cheatsheets/kubectl/)
-- [[Flashcards] LPIC-2 Linux Engineer Flashcards](https://mkabumattar.com/flashcards/post/lpic-2-linux-engineer-flashcards/)
-- [[Flashcards] AWS Certified Developer Associate Flashcards &lpar;DVA-C02&rpar;](https://mkabumattar.com/flashcards/post/aws-certified-developer-associate-flashcards/)
+- [[DevTips] Kubernetes Namespaces: Organize, Isolate, and Secure Multi-Team Clusters](https://mkabumattar.com/devtips/post/kubernetes-namespaces-organize-isolate-multi-team/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
