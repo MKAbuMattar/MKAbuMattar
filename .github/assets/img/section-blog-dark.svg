@@ -1,0 +1,25 @@
+<svg width="900" height="70" viewBox="0 0 900 70" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Latest Blog Posts">
+  <defs>
+    <linearGradient id="s" x1="0" y1="0" x2="900" y2="70" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c0e12"/>
+      <stop offset="1" stop-color="#12161d"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="70" rx="12" fill="url(#s)"/>
+  <rect x="0.6" y="0.6" width="898.8" height="68.8" rx="11.4" fill="none" stroke="#34d399" stroke-opacity="0.16"/>
+  <rect x="28" y="26" width="6" height="18" rx="2" fill="#34d399"/>
+  <text x="50" y="44" font-family="'IBM Plex Sans','Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff" letter-spacing="-0.3">Latest Blog Posts</text>
+  <g stroke="#34d399" stroke-opacity="0.38" stroke-width="1.3">
+    <line x1="812" y1="24" x2="852" y2="20"/>
+    <line x1="812" y1="24" x2="828" y2="50"/>
+    <line x1="852" y1="20" x2="828" y2="50"/>
+    <line x1="852" y1="20" x2="874" y2="42"/>
+    <line x1="828" y1="50" x2="874" y2="42"/>
+  </g>
+  <g fill="#0c0e12" stroke="#34d399" stroke-width="1.4">
+    <circle cx="812" cy="24" r="4.5"/>
+    <circle cx="828" cy="50" r="4.5"/>
+    <circle cx="874" cy="42" r="4.5"/>
+  </g>
+  <circle cx="852" cy="20" r="5" fill="#34d399"/>
+</svg>
