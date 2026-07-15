@@ -57,6 +57,7 @@ I'm a DevOps engineer with 6+ years building high-scale cloud automation and fin
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Blog] FinOps in Practice: How to Build a Cloud Cost Accountability Culture on AWS](https://mkabumattar.com/blog/post/finops-cloud-cost-accountability-aws/)
 - [[Blog] QuenchWorks: A Zero-CVE, Built-From-Source Replacement for the Bitnami Catalog](https://mkabumattar.com/blog/post/quenchworks-zero-cve-bitnami-alternative-wolfi/)
 - [[Blog] Dotfiles: A Git-Based Strategy for Configuration Management](https://mkabumattar.com/blog/post/dotfiles/)
 - [[Blog] Setting up Node JS, Express, MongoDB, Prettier, ESLint and Husky Application with Babel and authentication as an example](https://mkabumattar.com/blog/post/setting-up-node-js-express-mongodb-prettier-eslint-and-husky-application-with-babel-and-authentication-as-an-example/)
@@ -64,7 +65,6 @@ I'm a DevOps engineer with 6+ years building high-scale cloud automation and fin
 - [[Blog] Git SSH Keys for GitHub, GitLab, and Bitbucket on Windows](https://mkabumattar.com/blog/post/git-ssh-keys-for-github-gitlab-and-bitbucket-on-windows/)
 - [[Blog] AI is Not Real: A Software Engineering Perspective](https://mkabumattar.com/blog/post/ai-is-not-real/)
 - [[DevTips] Kubernetes Namespaces: Organize, Isolate, and Secure Multi-Team Clusters](https://mkabumattar.com/devtips/post/kubernetes-namespaces-organize-isolate-multi-team/)
-- [[Flashcards] AWS SysOps Administrator Associate Flashcards &lpar;SOA-C02&rpar;](https://mkabumattar.com/flashcards/post/aws-sysops-administrator-associate-flashcards/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
