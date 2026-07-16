@@ -62,6 +62,7 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Case Study] QuenchWorks: Building a 0-CVE Container Image and Helm Chart Catalog](https://mkabumattar.com/case-studies/post/quenchworks-zero-cve-catalog/)
 - [[Blog] FinOps in Practice: How to Build a Cloud Cost Accountability Culture on AWS](https://mkabumattar.com/blog/post/finops-cloud-cost-accountability-aws/)
 - [[Blog] QuenchWorks: A Zero-CVE, Built-From-Source Replacement for the Bitnami Catalog](https://mkabumattar.com/blog/post/quenchworks-zero-cve-bitnami-alternative-wolfi/)
 - [[Blog] Dotfiles: A Git-Based Strategy for Configuration Management](https://mkabumattar.com/blog/post/dotfiles/)
@@ -69,7 +70,6 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 - [[Blog] Git SSH Keys for GitHub, GitLab, and Bitbucket on Linux](https://mkabumattar.com/blog/post/git-ssh-keys-for-github-gitlab-and-bitbucket-on-linux/)
 - [[Blog] Git SSH Keys for GitHub, GitLab, and Bitbucket on Windows](https://mkabumattar.com/blog/post/git-ssh-keys-for-github-gitlab-and-bitbucket-on-windows/)
 - [[Blog] AI is Not Real: A Software Engineering Perspective](https://mkabumattar.com/blog/post/ai-is-not-real/)
-- [[DevTips] Kubernetes Namespaces: Organize, Isolate, and Secure Multi-Team Clusters](https://mkabumattar.com/devtips/post/kubernetes-namespaces-organize-isolate-multi-team/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
