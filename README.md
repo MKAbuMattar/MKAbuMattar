@@ -62,14 +62,14 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Blog] Testing Terraform: Static Analysis, Native Tests, and Terratest](https://mkabumattar.com/blog/post/terraform-testing-terratest-native-tests/)
+- [[Code Snippet] Bash Retry Function: Automatically Retry Failing Commands with Exponential Backoff](https://mkabumattar.com/codesnippets/post/bash-retry-function-exponential-backoff/)
+- [[Blog] tRPC: End-to-End Type-Safe APIs in TypeScript Without Codegen](https://mkabumattar.com/blog/post/trpc-end-to-end-typesafe-apis/)
+- [[Case Study] Migrating a Monolith to Kubernetes Without a Big-Bang Cutover](https://mkabumattar.com/case-studies/post/monolith-to-kubernetes-strangler-migration/)
 - [[Case Study] Cutting a SaaS AWS Bill 41% Without Slowing Delivery](https://mkabumattar.com/case-studies/post/aws-cost-optimization-saas-case-study/)
 - [[Case Study] QuenchWorks: Building a 0-CVE Container Image and Helm Chart Catalog](https://mkabumattar.com/case-studies/post/quenchworks-zero-cve-catalog/)
 - [[Blog] FinOps in Practice: How to Build a Cloud Cost Accountability Culture on AWS](https://mkabumattar.com/blog/post/finops-cloud-cost-accountability-aws/)
 - [[Blog] QuenchWorks: A Zero-CVE, Built-From-Source Replacement for the Bitnami Catalog](https://mkabumattar.com/blog/post/quenchworks-zero-cve-bitnami-alternative-wolfi/)
-- [[Blog] Dotfiles: A Git-Based Strategy for Configuration Management](https://mkabumattar.com/blog/post/dotfiles/)
-- [[Blog] Setting up Node JS, Express, MongoDB, Prettier, ESLint and Husky Application with Babel and authentication as an example](https://mkabumattar.com/blog/post/setting-up-node-js-express-mongodb-prettier-eslint-and-husky-application-with-babel-and-authentication-as-an-example/)
-- [[Blog] Git SSH Keys for GitHub, GitLab, and Bitbucket on Linux](https://mkabumattar.com/blog/post/git-ssh-keys-for-github-gitlab-and-bitbucket-on-linux/)
-- [[Blog] Git SSH Keys for GitHub, GitLab, and Bitbucket on Windows](https://mkabumattar.com/blog/post/git-ssh-keys-for-github-gitlab-and-bitbucket-on-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
