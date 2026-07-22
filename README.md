@@ -62,14 +62,14 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
-- [[Cheatsheet] Linux Networking](https://mkabumattar.com/cheatsheets/linux-networking/)
-- [[Blog] Testing Terraform: Static Analysis, Native Tests, and Terratest](https://mkabumattar.com/blog/post/terraform-testing-terratest-native-tests/)
-- [[Code Snippet] Bash Retry Function: Automatically Retry Failing Commands with Exponential Backoff](https://mkabumattar.com/codesnippets/post/bash-retry-function-exponential-backoff/)
-- [[Blog] tRPC: End-to-End Type-Safe APIs in TypeScript Without Codegen](https://mkabumattar.com/blog/post/trpc-end-to-end-typesafe-apis/)
-- [[Case Study] Migrating a Monolith to Kubernetes Without a Big-Bang Cutover](https://mkabumattar.com/case-studies/post/monolith-to-kubernetes-strangler-migration/)
-- [[Case Study] Cutting a SaaS AWS Bill 41% Without Slowing Delivery](https://mkabumattar.com/case-studies/post/aws-cost-optimization-saas-case-study/)
-- [[Case Study] QuenchWorks: Building a 0-CVE Container Image and Helm Chart Catalog](https://mkabumattar.com/case-studies/post/quenchworks-zero-cve-catalog/)
+- [[Blog] Service Mesh Deep Dive: Istio vs. Linkerd](https://mkabumattar.com/blog/post/service-mesh-istio-vs-linkerd/)
+- [[Blog] Serverless Observability: A Comprehensive Guide to AWS Lambda Monitoring](https://mkabumattar.com/blog/post/aws-lambda-observability-guide/)
+- [[Blog] Designing SLOs and Error Budgets: Your Blueprint for Sustainable Reliability](https://mkabumattar.com/blog/post/designing-slos-error-budgets-reliability-blueprint/)
+- [[Blog] Edge Computing: AWS Lambda@Edge vs. Cloudflare Workers – A Practical Guide](https://mkabumattar.com/blog/post/edge-computing-aws-lambda-at-edge-vs-cloudflare-workers-practical-guide/)
 - [[Blog] FinOps in Practice: How to Build a Cloud Cost Accountability Culture on AWS](https://mkabumattar.com/blog/post/finops-cloud-cost-accountability-aws/)
+- [[Blog] GitHub Actions Reusable Workflows: Build a Shared CI Library Across All Your Repos](https://mkabumattar.com/blog/post/github-actions-reusable-workflows-shared-ci-library/)
+- [[Blog] GitOps vs. Traditional IaC for Kubernetes: A Comparative Analysis](https://mkabumattar.com/blog/post/gitops-vs-traditional-iac-kubernetes-deployment/)
+- [[Blog] Kubernetes Networking Demystified: CNI Plugins, Network Policies, and Pod-to-Pod Communication](https://mkabumattar.com/blog/post/kubernetes-networking-cni-plugins-policies-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
