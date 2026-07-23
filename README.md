@@ -63,13 +63,13 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 
 <!-- BLOG-POST-LIST:START -->
 - [[Blog] Service Mesh Deep Dive: Istio vs. Linkerd](https://mkabumattar.com/blog/post/service-mesh-istio-vs-linkerd/)
+- [[DevTips] ArgoCD GitOps: Sync Kubernetes Deployments Automatically from Git](https://mkabumattar.com/devtips/post/argocd-gitops-kubernetes-deployments-git-sync/)
 - [[Blog] Serverless Observability: A Comprehensive Guide to AWS Lambda Monitoring](https://mkabumattar.com/blog/post/aws-lambda-observability-guide/)
 - [[Blog] Designing SLOs and Error Budgets: Your Blueprint for Sustainable Reliability](https://mkabumattar.com/blog/post/designing-slos-error-budgets-reliability-blueprint/)
 - [[Blog] Edge Computing: AWS Lambda@Edge vs. Cloudflare Workers – A Practical Guide](https://mkabumattar.com/blog/post/edge-computing-aws-lambda-at-edge-vs-cloudflare-workers-practical-guide/)
 - [[Blog] FinOps in Practice: How to Build a Cloud Cost Accountability Culture on AWS](https://mkabumattar.com/blog/post/finops-cloud-cost-accountability-aws/)
 - [[Blog] GitHub Actions Reusable Workflows: Build a Shared CI Library Across All Your Repos](https://mkabumattar.com/blog/post/github-actions-reusable-workflows-shared-ci-library/)
 - [[Blog] GitOps vs. Traditional IaC for Kubernetes: A Comparative Analysis](https://mkabumattar.com/blog/post/gitops-vs-traditional-iac-kubernetes-deployment/)
-- [[Blog] Kubernetes Networking Demystified: CNI Plugins, Network Policies, and Pod-to-Pod Communication](https://mkabumattar.com/blog/post/kubernetes-networking-cni-plugins-policies-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
