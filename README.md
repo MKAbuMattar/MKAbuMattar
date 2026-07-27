@@ -68,7 +68,7 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 - [[DevTips] ArgoCD GitOps: Sync Kubernetes Deployments Automatically from Git](https://mkabumattar.com/devtips/post/argocd-gitops-kubernetes-deployments-git-sync/)
 - [[Blog] Serverless Observability: A Comprehensive Guide to AWS Lambda Monitoring](https://mkabumattar.com/blog/post/aws-lambda-observability-guide/)
 - [[Blog] Designing SLOs and Error Budgets: Your Blueprint for Sustainable Reliability](https://mkabumattar.com/blog/post/designing-slos-error-budgets-reliability-blueprint/)
-- [[Blog] Edge Computing: AWS Lambda@Edge vs. Cloudflare Workers – A Practical Guide](https://mkabumattar.com/blog/post/edge-computing-aws-lambda-at-edge-vs-cloudflare-workers-practical-guide/)
+- [[Blog] Edge Computing: AWS Lambda@Edge vs. Cloudflare Workers. A Practical Guide](https://mkabumattar.com/blog/post/edge-computing-aws-lambda-at-edge-vs-cloudflare-workers-practical-guide/)
 - [[Blog] FinOps in Practice: How to Build a Cloud Cost Accountability Culture on AWS](https://mkabumattar.com/blog/post/finops-cloud-cost-accountability-aws/)
 <!-- BLOG-POST-LIST:END -->
 
