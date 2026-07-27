@@ -62,6 +62,7 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Code Snippet] Python Async HTTP Requests with aiohttp: Fetch Multiple URLs Concurrently](https://mkabumattar.com/codesnippets/post/python-async-http-aiohttp-concurrent-requests/)
 - [[Case Study] Zero-Downtime PostgreSQL Major-Version Upgrade at Scale](https://mkabumattar.com/case-studies/post/zero-downtime-postgres-upgrade/)
 - [[Blog] Service Mesh Deep Dive: Istio vs. Linkerd](https://mkabumattar.com/blog/post/service-mesh-istio-vs-linkerd/)
 - [[DevTips] ArgoCD GitOps: Sync Kubernetes Deployments Automatically from Git](https://mkabumattar.com/devtips/post/argocd-gitops-kubernetes-deployments-git-sync/)
@@ -69,7 +70,6 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 - [[Blog] Designing SLOs and Error Budgets: Your Blueprint for Sustainable Reliability](https://mkabumattar.com/blog/post/designing-slos-error-budgets-reliability-blueprint/)
 - [[Blog] Edge Computing: AWS Lambda@Edge vs. Cloudflare Workers – A Practical Guide](https://mkabumattar.com/blog/post/edge-computing-aws-lambda-at-edge-vs-cloudflare-workers-practical-guide/)
 - [[Blog] FinOps in Practice: How to Build a Cloud Cost Accountability Culture on AWS](https://mkabumattar.com/blog/post/finops-cloud-cost-accountability-aws/)
-- [[Blog] GitHub Actions Reusable Workflows: Build a Shared CI Library Across All Your Repos](https://mkabumattar.com/blog/post/github-actions-reusable-workflows-shared-ci-library/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
