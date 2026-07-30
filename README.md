@@ -62,6 +62,7 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Glossary] Cloud Computing on AWS](https://mkabumattar.com/glossary/post/cloud-computing-aws/)
 - [[Flashcards] Kubernetes Administrator Flashcards &lpar;CKA&rpar;](https://mkabumattar.com/flashcards/post/kubernetes-administrator-cka-flashcards/)
 - [[DevTips] Docker Multi-Stage Builds: Smaller, Safer Images for Production](https://mkabumattar.com/devtips/post/docker-multi-stage-builds-smaller-production-images/)
 - [[Code Snippet] Python Async HTTP Requests with aiohttp: Fetch Multiple URLs Concurrently](https://mkabumattar.com/codesnippets/post/python-async-http-aiohttp-concurrent-requests/)
@@ -69,7 +70,6 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 - [[Blog] Service Mesh Deep Dive: Istio vs. Linkerd](https://mkabumattar.com/blog/post/service-mesh-istio-vs-linkerd/)
 - [[DevTips] ArgoCD GitOps: Sync Kubernetes Deployments Automatically from Git](https://mkabumattar.com/devtips/post/argocd-gitops-kubernetes-deployments-git-sync/)
 - [[Blog] Serverless Observability: A Comprehensive Guide to AWS Lambda Monitoring](https://mkabumattar.com/blog/post/aws-lambda-observability-guide/)
-- [[Blog] Designing SLOs and Error Budgets: Your Blueprint for Sustainable Reliability](https://mkabumattar.com/blog/post/designing-slos-error-budgets-reliability-blueprint/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
