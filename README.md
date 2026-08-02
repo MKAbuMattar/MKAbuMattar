@@ -80,11 +80,11 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [uidesign 0.3.0](https://github.com/MKAbuMattar/uidesign/releases/tag/v0.3.0) in [MKAbuMattar/uidesign](https://github.com/MKAbuMattar/uidesign)
-2. 🚀 Published release [uidesign 0.2.0](https://github.com/MKAbuMattar/uidesign/releases/tag/v0.2.0) in [MKAbuMattar/uidesign](https://github.com/MKAbuMattar/uidesign)
-3. 🚀 Published release [v0.21.0 — design documents, /sysdesign:spec, and draw.io](https://github.com/MKAbuMattar/sysdesign/releases/tag/v0.21.0) in [MKAbuMattar/sysdesign](https://github.com/MKAbuMattar/sysdesign)
-4. 🚀 Published release [v0.20.0 — Kimi Code CLI, and a standard output contract](https://github.com/MKAbuMattar/sysdesign/releases/tag/v0.20.0) in [MKAbuMattar/sysdesign](https://github.com/MKAbuMattar/sysdesign)
-5. 🎉 Merged PR [#16](https://github.com/MKAbuMattar/igntui/pull/16) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
+1. 🎉 Merged PR [#25](https://github.com/MKAbuMattar/asciiquarium-python/pull/25) in [MKAbuMattar/asciiquarium-python](https://github.com/MKAbuMattar/asciiquarium-python)
+2. 🎉 Merged PR [#18](https://github.com/MKAbuMattar/igntui/pull/18) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
+3. ℹ️ Labeled PR [#25](https://github.com/MKAbuMattar/asciiquarium-python/pull/25) in [MKAbuMattar/asciiquarium-python](https://github.com/MKAbuMattar/asciiquarium-python)
+4. 💪 Opened PR [#25](https://github.com/MKAbuMattar/asciiquarium-python/pull/25) in [MKAbuMattar/asciiquarium-python](https://github.com/MKAbuMattar/asciiquarium-python)
+5. ℹ️ Labeled PR [#18](https://github.com/MKAbuMattar/igntui/pull/18) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
 <!--END_SECTION:activity-->
 
 ---
