@@ -74,6 +74,14 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/img/section-activity-dark.svg" />
+  <img src="./.github/assets/img/section-activity-light.svg" alt="Recent Activity" width="100%" />
+</picture>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ---
 
 <a href="https://mkabumattar.com/" target="_blank">
