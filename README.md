@@ -80,11 +80,11 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/MKAbuMattar/asciiquarium-python/pull/25) in [MKAbuMattar/asciiquarium-python](https://github.com/MKAbuMattar/asciiquarium-python)
-2. 🎉 Merged PR [#18](https://github.com/MKAbuMattar/igntui/pull/18) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
-3. ℹ️ Labeled PR [#25](https://github.com/MKAbuMattar/asciiquarium-python/pull/25) in [MKAbuMattar/asciiquarium-python](https://github.com/MKAbuMattar/asciiquarium-python)
-4. 💪 Opened PR [#25](https://github.com/MKAbuMattar/asciiquarium-python/pull/25) in [MKAbuMattar/asciiquarium-python](https://github.com/MKAbuMattar/asciiquarium-python)
-5. ℹ️ Labeled PR [#18](https://github.com/MKAbuMattar/igntui/pull/18) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
+1. 🎉 Merged PR [#20](https://github.com/MKAbuMattar/igntui/pull/20) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
+2. ℹ️ Labeled PR [#20](https://github.com/MKAbuMattar/igntui/pull/20) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
+3. 💪 Opened PR [#20](https://github.com/MKAbuMattar/igntui/pull/20) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
+4. 🎉 Merged PR [#19](https://github.com/MKAbuMattar/igntui/pull/19) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
+5. 💪 Opened PR [#19](https://github.com/MKAbuMattar/igntui/pull/19) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
 <!--END_SECTION:activity-->
 
 ---
