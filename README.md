@@ -80,11 +80,11 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.22.0 — LLD problem coverage and concurrency machine-coding](https://github.com/MKAbuMattar/sysdesign/releases/tag/v0.22.0) in [MKAbuMattar/sysdesign](https://github.com/MKAbuMattar/sysdesign)
-2. 🎉 Merged PR [#20](https://github.com/MKAbuMattar/igntui/pull/20) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
-3. ℹ️ Labeled PR [#20](https://github.com/MKAbuMattar/igntui/pull/20) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
-4. 💪 Opened PR [#20](https://github.com/MKAbuMattar/igntui/pull/20) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
-5. 🎉 Merged PR [#19](https://github.com/MKAbuMattar/igntui/pull/19) in [MKAbuMattar/igntui](https://github.com/MKAbuMattar/igntui)
+1. 🎉 Merged PR [#9](https://github.com/MKAbuMattar/chocolatey-packages/pull/9) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+2. 💪 Opened PR [#9](https://github.com/MKAbuMattar/chocolatey-packages/pull/9) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+3. 🎉 Merged PR [#8](https://github.com/MKAbuMattar/chocolatey-packages/pull/8) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+4. 💪 Opened PR [#8](https://github.com/MKAbuMattar/chocolatey-packages/pull/8) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+5. 🚀 Published release [v0.22.0 — LLD problem coverage and concurrency machine-coding](https://github.com/MKAbuMattar/sysdesign/releases/tag/v0.22.0) in [MKAbuMattar/sysdesign](https://github.com/MKAbuMattar/sysdesign)
 <!--END_SECTION:activity-->
 
 ---
