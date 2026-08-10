@@ -62,6 +62,7 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Flashcards] Terraform Associate Flashcards &lpar;TA-003&rpar;](https://mkabumattar.com/flashcards/post/terraform-associate-ta003-flashcards/)
 - [[DevTips] GitHub Actions Secrets and Environment Variables: Handle Config the Right Way](https://mkabumattar.com/devtips/post/github-actions-secrets-environment-variables-guide/)
 - [[Code Snippet] AWS DynamoDB CRUD Operations in Node.js with the AWS SDK v3](https://mkabumattar.com/codesnippets/post/nodejs-dynamodb-crud-aws-sdk-v3/)
 - [[Cheatsheet] GitHub Actions](https://mkabumattar.com/cheatsheets/github-actions/)
@@ -69,7 +70,6 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 - [[Roadmaps] Backend Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/backend-developer-roadmap/)
 - [[Quizzes] Java: Core Language &amp; JVM Fundamentals](https://mkabumattar.com/quizzes/post/java-fundamentals-quiz/)
 - [[Glossary] Cloud Computing on AWS](https://mkabumattar.com/glossary/post/cloud-computing-aws/)
-- [[Flashcards] Kubernetes Administrator Flashcards &lpar;CKA&rpar;](https://mkabumattar.com/flashcards/post/kubernetes-administrator-cka-flashcards/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
