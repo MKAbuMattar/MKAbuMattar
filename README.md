@@ -80,11 +80,11 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/MKAbuMattar/chocolatey-packages/pull/9) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-2. 💪 Opened PR [#9](https://github.com/MKAbuMattar/chocolatey-packages/pull/9) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-3. 🎉 Merged PR [#8](https://github.com/MKAbuMattar/chocolatey-packages/pull/8) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-4. 💪 Opened PR [#8](https://github.com/MKAbuMattar/chocolatey-packages/pull/8) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-5. 🚀 Published release [v0.22.0 — LLD problem coverage and concurrency machine-coding](https://github.com/MKAbuMattar/sysdesign/releases/tag/v0.22.0) in [MKAbuMattar/sysdesign](https://github.com/MKAbuMattar/sysdesign)
+1. 🎉 Merged PR [#10](https://github.com/MKAbuMattar/chocolatey-packages/pull/10) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+2. 💪 Opened PR [#10](https://github.com/MKAbuMattar/chocolatey-packages/pull/10) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+3. ❌ Closed PR [#12](https://github.com/MKAbuMattar/devicons-pack/pull/12) in [MKAbuMattar/devicons-pack](https://github.com/MKAbuMattar/devicons-pack)
+4. 🗣 Commented on [#12](https://github.com/MKAbuMattar/devicons-pack/pull/12#issuecomment-5250930327) in [MKAbuMattar/devicons-pack](https://github.com/MKAbuMattar/devicons-pack)
+5. ❌ Closed PR [#10](https://github.com/MKAbuMattar/aws-icons/pull/10) in [MKAbuMattar/aws-icons](https://github.com/MKAbuMattar/aws-icons)
 <!--END_SECTION:activity-->
 
 ---
