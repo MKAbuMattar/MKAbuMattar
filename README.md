@@ -62,6 +62,7 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Roadmaps] Full-Stack Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/full-stack-developer-roadmap/)
 - [[Quizzes] Spring Boot: Java Application Framework Essentials](https://mkabumattar.com/quizzes/post/spring-boot-fundamentals-quiz/)
 - [[Glossary] Kubernetes Advanced](https://mkabumattar.com/glossary/post/kubernetes-advanced/)
 - [[Flashcards] Terraform Associate Flashcards &lpar;TA-003&rpar;](https://mkabumattar.com/flashcards/post/terraform-associate-ta003-flashcards/)
@@ -69,7 +70,6 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 - [[Code Snippet] AWS DynamoDB CRUD Operations in Node.js with the AWS SDK v3](https://mkabumattar.com/codesnippets/post/nodejs-dynamodb-crud-aws-sdk-v3/)
 - [[Cheatsheet] GitHub Actions](https://mkabumattar.com/cheatsheets/github-actions/)
 - [[Case Study] Building an Internal Developer Platform on Backstage and GitOps](https://mkabumattar.com/case-studies/post/internal-developer-platform-backstage-gitops/)
-- [[Roadmaps] Backend Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/backend-developer-roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
