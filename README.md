@@ -80,11 +80,11 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/MKAbuMattar/chocolatey-packages/pull/10) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-2. 💪 Opened PR [#10](https://github.com/MKAbuMattar/chocolatey-packages/pull/10) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-3. ❌ Closed PR [#12](https://github.com/MKAbuMattar/devicons-pack/pull/12) in [MKAbuMattar/devicons-pack](https://github.com/MKAbuMattar/devicons-pack)
-4. 🗣 Commented on [#12](https://github.com/MKAbuMattar/devicons-pack/pull/12#issuecomment-5250930327) in [MKAbuMattar/devicons-pack](https://github.com/MKAbuMattar/devicons-pack)
-5. ❌ Closed PR [#10](https://github.com/MKAbuMattar/aws-icons/pull/10) in [MKAbuMattar/aws-icons](https://github.com/MKAbuMattar/aws-icons)
+1. ❌ Closed PR [#53](https://github.com/MKAbuMattar/powershell-profile/pull/53) in [MKAbuMattar/powershell-profile](https://github.com/MKAbuMattar/powershell-profile)
+2. 🎉 Merged PR [#57](https://github.com/MKAbuMattar/powershell-profile/pull/57) in [MKAbuMattar/powershell-profile](https://github.com/MKAbuMattar/powershell-profile)
+3. 💪 Opened PR [#57](https://github.com/MKAbuMattar/powershell-profile/pull/57) in [MKAbuMattar/powershell-profile](https://github.com/MKAbuMattar/powershell-profile)
+4. 🎉 Merged PR [#56](https://github.com/MKAbuMattar/powershell-profile/pull/56) in [MKAbuMattar/powershell-profile](https://github.com/MKAbuMattar/powershell-profile)
+5. 💪 Opened PR [#56](https://github.com/MKAbuMattar/powershell-profile/pull/56) in [MKAbuMattar/powershell-profile](https://github.com/MKAbuMattar/powershell-profile)
 <!--END_SECTION:activity-->
 
 ---
