@@ -62,6 +62,7 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Code Snippet] Bash Script Locking: Prevent Concurrent Runs with a PID File](https://mkabumattar.com/codesnippets/post/bash-script-locking-pid-file/)
 - [[Cheatsheet] Python Virtual Environments Cheatsheet](https://mkabumattar.com/cheatsheets/python-venv/)
 - [[Case Study] Multi-Region Active-Active for a Payments API](https://mkabumattar.com/case-studies/post/multi-region-active-active-payments/)
 - [[Blog] Kubernetes Health Probes: Building Self-Healing Applications](https://mkabumattar.com/blog/post/kubernetes-health-probes-self-healing/)
@@ -69,7 +70,6 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 - [[Quizzes] Spring Boot: Java Application Framework Essentials](https://mkabumattar.com/quizzes/post/spring-boot-fundamentals-quiz/)
 - [[Glossary] Kubernetes Advanced](https://mkabumattar.com/glossary/post/kubernetes-advanced/)
 - [[Flashcards] Terraform Associate Flashcards &lpar;TA-003&rpar;](https://mkabumattar.com/flashcards/post/terraform-associate-ta003-flashcards/)
-- [[DevTips] GitHub Actions Secrets and Environment Variables: Handle Config the Right Way](https://mkabumattar.com/devtips/post/github-actions-secrets-environment-variables-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
