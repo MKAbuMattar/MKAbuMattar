@@ -62,6 +62,7 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[DevTips] Terraform Workspaces vs. Directory-Based Environments: What Actually Scales](https://mkabumattar.com/devtips/post/terraform-workspaces-vs-directory-environments/)
 - [[Code Snippet] Bash Script Locking: Prevent Concurrent Runs with a PID File](https://mkabumattar.com/codesnippets/post/bash-script-locking-pid-file/)
 - [[Cheatsheet] Python Virtual Environments Cheatsheet](https://mkabumattar.com/cheatsheets/python-venv/)
 - [[Case Study] Multi-Region Active-Active for a Payments API](https://mkabumattar.com/case-studies/post/multi-region-active-active-payments/)
@@ -69,7 +70,6 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 - [[Roadmaps] Full-Stack Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/full-stack-developer-roadmap/)
 - [[Quizzes] Spring Boot: Java Application Framework Essentials](https://mkabumattar.com/quizzes/post/spring-boot-fundamentals-quiz/)
 - [[Glossary] Kubernetes Advanced](https://mkabumattar.com/glossary/post/kubernetes-advanced/)
-- [[Flashcards] Terraform Associate Flashcards &lpar;TA-003&rpar;](https://mkabumattar.com/flashcards/post/terraform-associate-ta003-flashcards/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
