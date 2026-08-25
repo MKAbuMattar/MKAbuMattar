@@ -62,6 +62,7 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Blog] Introduction to Linux CLI](https://mkabumattar.com/blog/post/introduction-to-linux-cli/)
 - [[Glossary] CI/CD &amp; Automation](https://mkabumattar.com/glossary/post/ci-cd-and-automation/)
 - [[Flashcards] Docker and Container Fundamentals Flashcards](https://mkabumattar.com/flashcards/post/docker-container-fundamentals-flashcards/)
 - [[DevTips] Terraform Workspaces vs. Directory-Based Environments: What Actually Scales](https://mkabumattar.com/devtips/post/terraform-workspaces-vs-directory-environments/)
@@ -69,7 +70,6 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 - [[Cheatsheet] Python Virtual Environments Cheatsheet](https://mkabumattar.com/cheatsheets/python-venv/)
 - [[Case Study] Multi-Region Active-Active for a Payments API](https://mkabumattar.com/case-studies/post/multi-region-active-active-payments/)
 - [[Blog] Kubernetes Health Probes: Building Self-Healing Applications](https://mkabumattar.com/blog/post/kubernetes-health-probes-self-healing/)
-- [[Roadmaps] Full-Stack Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/full-stack-developer-roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
