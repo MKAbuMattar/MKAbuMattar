@@ -80,11 +80,11 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/MKAbuMattar/chocolatey-packages/pull/18) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-2. 💪 Opened PR [#18](https://github.com/MKAbuMattar/chocolatey-packages/pull/18) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-3. ❌ Closed PR [#15](https://github.com/MKAbuMattar/chocolatey-packages/pull/15) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-4. ❌ Closed PR [#16](https://github.com/MKAbuMattar/chocolatey-packages/pull/16) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-5. ❌ Closed PR [#17](https://github.com/MKAbuMattar/chocolatey-packages/pull/17) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+1. 🔒 Closed issue [#6](https://github.com/MKAbuMattar/asciiquarium-python/issues/6) in [MKAbuMattar/asciiquarium-python](https://github.com/MKAbuMattar/asciiquarium-python)
+2. 🎉 Merged PR [#18](https://github.com/MKAbuMattar/chocolatey-packages/pull/18) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+3. 💪 Opened PR [#18](https://github.com/MKAbuMattar/chocolatey-packages/pull/18) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+4. ❌ Closed PR [#15](https://github.com/MKAbuMattar/chocolatey-packages/pull/15) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+5. ❌ Closed PR [#16](https://github.com/MKAbuMattar/chocolatey-packages/pull/16) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
 <!--END_SECTION:activity-->
 
 ---
