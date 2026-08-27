@@ -62,6 +62,7 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Roadmaps] React Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/react-developer-roadmap/)
 - [[Quizzes] C# &amp; .NET: Language and Runtime Fundamentals](https://mkabumattar.com/quizzes/post/csharp-dotnet-fundamentals-quiz/)
 - [[Blog] Introduction to Linux CLI](https://mkabumattar.com/blog/post/introduction-to-linux-cli/)
 - [[Glossary] CI/CD &amp; Automation](https://mkabumattar.com/glossary/post/ci-cd-and-automation/)
@@ -69,7 +70,6 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 - [[DevTips] Terraform Workspaces vs. Directory-Based Environments: What Actually Scales](https://mkabumattar.com/devtips/post/terraform-workspaces-vs-directory-environments/)
 - [[Code Snippet] Bash Script Locking: Prevent Concurrent Runs with a PID File](https://mkabumattar.com/codesnippets/post/bash-script-locking-pid-file/)
 - [[Cheatsheet] Python Virtual Environments Cheatsheet](https://mkabumattar.com/cheatsheets/python-venv/)
-- [[Case Study] Multi-Region Active-Active for a Payments API](https://mkabumattar.com/case-studies/post/multi-region-active-active-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
