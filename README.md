@@ -2,25 +2,25 @@
 <a href="https://mkabumattar.com/" target="_blank">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/img/banner-dark.svg" />
-  <img src="./.github/assets/img/banner-light.svg" alt="Mohammad Abu Mattar — AWS-Certified DevOps Engineer" width="100%" />
+  <img src="./.github/assets/img/banner-light.svg" alt="Mohammad Abu Mattar, DevOps and platform engineer in Amman, Jordan, beside a layered stack diagram: services on Kubernetes and ECS, delivery through GitOps, infrastructure as code, over a multi-account AWS foundation" width="100%" />
 </picture>
 </a>
 
 # Mohammad Abu Mattar
 
-**AWS-Certified DevOps Engineer** · Cloud, Platform & Reliability · Amman, Jordan
+**DevOps &amp; Platform Engineer** · AWS Certified · Amman, Jordan
 
-<a href="https://mkabumattar.com/"><img src="https://img.shields.io/badge/Portfolio-15803D?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/mkabumattar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://mkabumattar.com/blog"><img src="https://img.shields.io/badge/Blog-1c1c1c?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/></a>
-<a href="mailto:info@mkabumattar.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://mkabumattar.com/assets/pdf/mohammad_abu_mattar_cv.pdf"><img src="https://img.shields.io/badge/Resume-808080?style=flat-square&logo=readme&logoColor=white" alt="Resume"/></a>
+<a href="https://mkabumattar.com/"><img src="https://img.shields.io/badge/Portfolio-8B1E2D?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mkabumattar/"><img src="https://img.shields.io/badge/LinkedIn-2F5D6B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://mkabumattar.com/blog"><img src="https://img.shields.io/badge/Writing-6B7A4F?style=flat-square&logo=hashnode&logoColor=white" alt="Writing"/></a>
+<a href="mailto:info@mkabumattar.com"><img src="https://img.shields.io/badge/Email-B9875E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://mkabumattar.com/assets/pdf/mohammad_abu_mattar_cv.pdf"><img src="https://img.shields.io/badge/Resume-3C3C3C?style=flat-square&logo=readme&logoColor=white" alt="Resume"/></a>
 
 </div>
 
 ---
 
-DevOps engineer, 6+ years building high-scale cloud automation and fintech infrastructure. I govern multi-account AWS environments, run production microservices on Kubernetes and ECS, and treat everything as code, with a working focus on PCI-DSS compliance and supply-chain security. Alongside client work I build and maintain open-source developer tools.
+DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I run multi-account AWS estates and keep production microservices healthy on Kubernetes and ECS. Most of that work sits under PCI-DSS audit, so I spend real time on supply-chain security. The rest goes to open-source developer tools.
 
 <div align="center">
 <img src="./assets/aws-certified-developer-associate.png" height="96" alt="AWS Certified Developer – Associate"/>
@@ -35,12 +35,12 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 
 | Project | Description | Links |
 | --- | --- | --- |
-| **QuenchWorks** | Security-first replacement for the Bitnami catalog — 0-CVE hardened container images and Helm charts, built from source on Wolfi, signed and pinned by digest. | [Site](https://quench-works.com/) · [GitHub](https://github.com/quenchworks) |
-| **Rawi** | AI-powered CLI that auto-generates documentation for command-line applications. | [Docs](https://rawi.mkabumattar.com/) · [npm](https://www.npmjs.com/package/rawi) |
-| **sysdesign** | System-design knowledge as a Claude Code plugin — tradeoff-first reasoning across 11 commands and 14 reference files. | [Site](https://sysdesign.mkabumattar.com/) · [GitHub](https://github.com/mkabumattar/sysdesign) |
-| **NetCalc Pro** | Zero-backend suite for subnetting, CIDR & VLSM with shareable state and IaC export. | [Live](https://netcalc-pro.mkabumattar.com/) |
-| **Devicons React** | Programming-language & tooling icons as React components — 5k+ weekly npm downloads. | [Docs](https://devicons-react.mkabumattar.com/) · [npm](https://www.npmjs.com/package/devicons-react) |
-| **AWS Icons** | Complete, free SVG library of every AWS service icon, via CDN or npm. | [Docs](https://aws-icon.mkabumattar.com/icons) · [npm](https://www.npmjs.com/package/aws-icons) |
+| **QuenchWorks** | Replacement for the Bitnami catalog. 0-CVE hardened container images and Helm charts, built from source on Wolfi, signed and pinned by digest. | [Site](https://quench-works.com/) · [GitHub](https://github.com/quenchworks) |
+| **Rawi** | AI-powered CLI that writes documentation for other command-line tools. | [Docs](https://rawi.mkabumattar.com/) · [npm](https://www.npmjs.com/package/rawi) |
+| **sysdesign** | System-design reference as a Claude Code plugin. 11 commands and 14 reference files, built around tradeoffs. | [Site](https://sysdesign.mkabumattar.com/) · [GitHub](https://github.com/mkabumattar/sysdesign) |
+| **NetCalc Pro** | Subnetting, CIDR, and VLSM calculators that run entirely in the browser. Shareable state and IaC export. | [Live](https://netcalc-pro.mkabumattar.com/) |
+| **Devicons React** | Programming-language and tooling icons as React components. 5k+ weekly npm downloads. | [Docs](https://devicons-react.mkabumattar.com/) · [npm](https://www.npmjs.com/package/devicons-react) |
+| **AWS Icons** | Every AWS service icon as SVG, free, via CDN or npm. | [Docs](https://aws-icon.mkabumattar.com/icons) · [npm](https://www.npmjs.com/package/aws-icons) |
 
 <sub><a href="https://mkabumattar.com/#projects">See all projects →</a></sub>
 
@@ -58,7 +58,7 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/img/section-blog-dark.svg" />
-  <img src="./.github/assets/img/section-blog-light.svg" alt="Latest Blog Posts" width="100%" />
+  <img src="./.github/assets/img/section-blog-light.svg" alt="Latest Writing" width="100%" />
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
@@ -92,8 +92,8 @@ DevOps engineer, 6+ years building high-scale cloud automation and fintech infra
 <a href="https://mkabumattar.com/" target="_blank">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/img/footer-dark.svg" />
-  <img src="./.github/assets/img/footer-light.svg" alt="Let's build something that scales — mkabumattar.com" width="100%" />
+  <img src="./.github/assets/img/footer-light.svg" alt="Open to platform and reliability work. mkabumattar.com" width="100%" />
 </picture>
 </a>
 
-<div align="center"><sub>Made with ☕ by <a href="https://mkabumattar.com/">Mohammad Abu Mattar</a></sub></div>
+<div align="center"><sub>Mohammad Abu Mattar · Amman, Jordan</sub></div>
