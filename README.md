@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Code Snippet] Python Dataclass Patterns: Slots, Frozen Instances, and Field Validation](https://mkabumattar.com/codesnippets/post/python-dataclass-slots-frozen-field-validation/)
 - [[Cheatsheet] TypeScript](https://mkabumattar.com/cheatsheets/typescript/)
 - [[Case Study] Taming a 3am Pager: SLOs and Error Budgets That Stuck](https://mkabumattar.com/case-studies/post/slo-error-budget-rollout-case-study/)
 - [[Blog] Bun vs. Node.js in Production: A Real-World Performance and Compatibility Breakdown](https://mkabumattar.com/blog/post/bun-vs-nodejs-production-performance-comparison/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Quizzes] C# &amp; .NET: Language and Runtime Fundamentals](https://mkabumattar.com/quizzes/post/csharp-dotnet-fundamentals-quiz/)
 - [[Blog] Introduction to Linux CLI](https://mkabumattar.com/blog/post/introduction-to-linux-cli/)
 - [[Glossary] CI/CD &amp; Automation](https://mkabumattar.com/glossary/post/ci-cd-and-automation/)
-- [[Flashcards] Docker and Container Fundamentals Flashcards](https://mkabumattar.com/flashcards/post/docker-container-fundamentals-flashcards/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
