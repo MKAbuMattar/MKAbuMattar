@@ -80,11 +80,11 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/MKAbuMattar/chocolatey-packages/pull/20) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-2. 💪 Opened PR [#20](https://github.com/MKAbuMattar/chocolatey-packages/pull/20) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-3. 🎉 Merged PR [#19](https://github.com/MKAbuMattar/chocolatey-packages/pull/19) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-4. 💪 Opened PR [#19](https://github.com/MKAbuMattar/chocolatey-packages/pull/19) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-5. 🗣 Commented on [#22](https://github.com/MKAbuMattar/devicons-pack/pull/22#issuecomment-5489904330) in [MKAbuMattar/devicons-pack](https://github.com/MKAbuMattar/devicons-pack)
+1. 💪 Opened PR [#56](https://github.com/quenchworks/charts/pull/56) in [quenchworks/charts](https://github.com/quenchworks/charts)
+2. 💪 Opened PR [#55](https://github.com/quenchworks/charts/pull/55) in [quenchworks/charts](https://github.com/quenchworks/charts)
+3. 💪 Opened PR [#54](https://github.com/quenchworks/charts/pull/54) in [quenchworks/charts](https://github.com/quenchworks/charts)
+4. 💪 Opened PR [#53](https://github.com/quenchworks/charts/pull/53) in [quenchworks/charts](https://github.com/quenchworks/charts)
+5. 💪 Opened PR [#52](https://github.com/quenchworks/charts/pull/52) in [quenchworks/charts](https://github.com/quenchworks/charts)
 <!--END_SECTION:activity-->
 
 ---
