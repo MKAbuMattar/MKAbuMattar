@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Flashcards] Linux Foundation Certified System Administrator Flashcards &lpar;LFCS&rpar;](https://mkabumattar.com/flashcards/post/lfcs-linux-system-administrator-flashcards/)
 - [[DevTips] Kubernetes Ingress Controllers Explained: Nginx, Traefik, and AWS ALB Compared](https://mkabumattar.com/devtips/post/kubernetes-ingress-controllers-nginx-traefik-alb/)
 - [[Code Snippet] Python Dataclass Patterns: Slots, Frozen Instances, and Field Validation](https://mkabumattar.com/codesnippets/post/python-dataclass-slots-frozen-field-validation/)
 - [[Cheatsheet] TypeScript](https://mkabumattar.com/cheatsheets/typescript/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Blog] Bun vs. Node.js in Production: A Real-World Performance and Compatibility Breakdown](https://mkabumattar.com/blog/post/bun-vs-nodejs-production-performance-comparison/)
 - [[Roadmaps] React Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/react-developer-roadmap/)
 - [[Quizzes] C# &amp; .NET: Language and Runtime Fundamentals](https://mkabumattar.com/quizzes/post/csharp-dotnet-fundamentals-quiz/)
-- [[Blog] Introduction to Linux CLI](https://mkabumattar.com/blog/post/introduction-to-linux-cli/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
