@@ -62,14 +62,14 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
-- [[Quizzes] PHP &amp; Laravel: Modern Web Development Fundamentals](https://mkabumattar.com/quizzes/post/php-laravel-fundamentals-quiz/)
-- [[Glossary] Observability &amp; Monitoring](https://mkabumattar.com/glossary/post/observability-and-monitoring/)
-- [[Flashcards] Linux Foundation Certified System Administrator Flashcards &lpar;LFCS&rpar;](https://mkabumattar.com/flashcards/post/lfcs-linux-system-administrator-flashcards/)
-- [[DevTips] Kubernetes Ingress Controllers Explained: Nginx, Traefik, and AWS ALB Compared](https://mkabumattar.com/devtips/post/kubernetes-ingress-controllers-nginx-traefik-alb/)
-- [[Code Snippet] Python Dataclass Patterns: Slots, Frozen Instances, and Field Validation](https://mkabumattar.com/codesnippets/post/python-dataclass-slots-frozen-field-validation/)
-- [[Cheatsheet] TypeScript](https://mkabumattar.com/cheatsheets/typescript/)
-- [[Case Study] Taming a 3am Pager: SLOs and Error Budgets That Stuck](https://mkabumattar.com/case-studies/post/slo-error-budget-rollout-case-study/)
-- [[Blog] Bun vs. Node.js in Production: A Real-World Performance and Compatibility Breakdown](https://mkabumattar.com/blog/post/bun-vs-nodejs-production-performance-comparison/)
+- [[Blog] Building a Customizable Image Slider in React Using Hooks, SCSS, and TypeScript](https://mkabumattar.com/blog/post/building-a-customizable-image-slider-in-react-using-hooks-scss-and-typescript/)
+- [[Blog] Caching Strategies with Redis in Node.js and TypeScript](https://mkabumattar.com/blog/post/caching-strategies-with-redis-in-node-js-and-typescript/)
+- [[Blog] Deploying Infrastructure with Terraform in CI/CD Pipelines](https://mkabumattar.com/blog/post/deploying-infrastructure-with-terraform-in-ci-cd-pipelines/)
+- [[Blog] Get Started with Building ReactJS and Docker: A Complete Guide](https://mkabumattar.com/blog/post/get-started-with-building-reactjs-and-docker-a-complete-guide/)
+- [[Blog] How to CI/CD AWS With Github using Jenkins](https://mkabumattar.com/blog/post/how-to-ci-cd-aws-with-github-using-jenkins/)
+- [[Blog] How To Connect A EBS Volume To An Windows EC2 Instance Using Powershell/GUI](https://mkabumattar.com/blog/post/how-to-connect-a-ebs-volume-to-an-windows-ec2-instance-using-powershell-gui/)
+- [[Blog] How To Connect A Two EC2 Instances Data Transfer Using AWS CLI Without AWS EFS](https://mkabumattar.com/blog/post/how-to-connect-a-two-ec2-instances-data-transfer-using-aws-cli-without-aws-efs/)
+- [[Blog] How To Connect A Two EC2 Instances Database and Files Transfer Using AWS CLI](https://mkabumattar.com/blog/post/how-to-connect-a-two-ec2-instances-database-and-files-transfer-using-aws-cli/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
