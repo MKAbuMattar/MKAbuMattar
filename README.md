@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Quizzes] PHP &amp; Laravel: Modern Web Development Fundamentals](https://mkabumattar.com/quizzes/post/php-laravel-fundamentals-quiz/)
 - [[Glossary] Observability &amp; Monitoring](https://mkabumattar.com/glossary/post/observability-and-monitoring/)
 - [[Flashcards] Linux Foundation Certified System Administrator Flashcards &lpar;LFCS&rpar;](https://mkabumattar.com/flashcards/post/lfcs-linux-system-administrator-flashcards/)
 - [[DevTips] Kubernetes Ingress Controllers Explained: Nginx, Traefik, and AWS ALB Compared](https://mkabumattar.com/devtips/post/kubernetes-ingress-controllers-nginx-traefik-alb/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Cheatsheet] TypeScript](https://mkabumattar.com/cheatsheets/typescript/)
 - [[Case Study] Taming a 3am Pager: SLOs and Error Budgets That Stuck](https://mkabumattar.com/case-studies/post/slo-error-budget-rollout-case-study/)
 - [[Blog] Bun vs. Node.js in Production: A Real-World Performance and Compatibility Breakdown](https://mkabumattar.com/blog/post/bun-vs-nodejs-production-performance-comparison/)
-- [[Roadmaps] React Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/react-developer-roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
