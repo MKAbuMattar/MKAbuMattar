@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Blog] Multi-Region Active-Active on AWS: What It Actually Costs You](https://mkabumattar.com/blog/post/multi-region-active-active-aws-architecture/)
 - [[Roadmap] Node.js Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/nodejs-developer-roadmap/)
 - [[Blog] Building a Customizable Image Slider in React Using Hooks, SCSS, and TypeScript](https://mkabumattar.com/blog/post/building-a-customizable-image-slider-in-react-using-hooks-scss-and-typescript/)
 - [[Blog] Caching Strategies with Redis in Node.js and TypeScript](https://mkabumattar.com/blog/post/caching-strategies-with-redis-in-node-js-and-typescript/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Blog] Get Started with Building ReactJS and Docker: A Complete Guide](https://mkabumattar.com/blog/post/get-started-with-building-reactjs-and-docker-a-complete-guide/)
 - [[Blog] How to CI/CD AWS With Github using Jenkins](https://mkabumattar.com/blog/post/how-to-ci-cd-aws-with-github-using-jenkins/)
 - [[Blog] How To Connect A EBS Volume To An Windows EC2 Instance Using Powershell/GUI](https://mkabumattar.com/blog/post/how-to-connect-a-ebs-volume-to-an-windows-ec2-instance-using-powershell-gui/)
-- [[Blog] How To Connect A Two EC2 Instances Data Transfer Using AWS CLI Without AWS EFS](https://mkabumattar.com/blog/post/how-to-connect-a-two-ec2-instances-data-transfer-using-aws-cli-without-aws-efs/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
