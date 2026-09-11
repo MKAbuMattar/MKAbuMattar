@@ -80,11 +80,11 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/MKAbuMattar/chocolatey-packages/pull/22) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-2. 💪 Opened PR [#23](https://github.com/MKAbuMattar/chocolatey-packages/pull/23) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-3. 🎉 Merged PR [#21](https://github.com/MKAbuMattar/chocolatey-packages/pull/21) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-4. 💪 Opened PR [#22](https://github.com/MKAbuMattar/chocolatey-packages/pull/22) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-5. 💪 Opened PR [#56](https://github.com/quenchworks/charts/pull/56) in [quenchworks/charts](https://github.com/quenchworks/charts)
+1. 🎉 Merged PR [#23](https://github.com/MKAbuMattar/black-iris/pull/23) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
+2. 💪 Opened PR [#23](https://github.com/MKAbuMattar/black-iris/pull/23) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
+3. 🎉 Merged PR [#22](https://github.com/MKAbuMattar/black-iris/pull/22) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
+4. 💪 Opened PR [#22](https://github.com/MKAbuMattar/black-iris/pull/22) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
+5. 🎉 Merged PR [#21](https://github.com/MKAbuMattar/black-iris/pull/21) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
 <!--END_SECTION:activity-->
 
 ---
