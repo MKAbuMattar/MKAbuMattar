@@ -80,11 +80,11 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/MKAbuMattar/black-iris/pull/23) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
-2. 💪 Opened PR [#23](https://github.com/MKAbuMattar/black-iris/pull/23) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
-3. 🎉 Merged PR [#22](https://github.com/MKAbuMattar/black-iris/pull/22) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
-4. 💪 Opened PR [#22](https://github.com/MKAbuMattar/black-iris/pull/22) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
-5. 🎉 Merged PR [#21](https://github.com/MKAbuMattar/black-iris/pull/21) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
+1. ❗ Opened issue [#648](https://github.com/PlummersSoftwareLLC/tmog-feedback/issues/648) in [PlummersSoftwareLLC/tmog-feedback](https://github.com/PlummersSoftwareLLC/tmog-feedback)
+2. 🎉 Merged PR [#26](https://github.com/MKAbuMattar/chocolatey-packages/pull/26) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+3. 💪 Opened PR [#26](https://github.com/MKAbuMattar/chocolatey-packages/pull/26) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+4. 🎉 Merged PR [#26](https://github.com/MKAbuMattar/black-iris/pull/26) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
+5. 💪 Opened PR [#26](https://github.com/MKAbuMattar/black-iris/pull/26) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
 <!--END_SECTION:activity-->
 
 ---
