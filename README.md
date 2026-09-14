@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Cheatsheet] Linux Processes](https://mkabumattar.com/cheatsheets/linux-processes/)
 - [[Case Study] Hardening a CI/CD Supply Chain to SLSA Level 3](https://mkabumattar.com/case-studies/post/cicd-supply-chain-slsa-level-3/)
 - [[Blog] Multi-Region Active-Active on AWS: What It Actually Costs You](https://mkabumattar.com/blog/post/multi-region-active-active-aws-architecture/)
 - [[Roadmap] Node.js Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/nodejs-developer-roadmap/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Blog] Caching Strategies with Redis in Node.js and TypeScript](https://mkabumattar.com/blog/post/caching-strategies-with-redis-in-node-js-and-typescript/)
 - [[Blog] Deploying Infrastructure with Terraform in CI/CD Pipelines](https://mkabumattar.com/blog/post/deploying-infrastructure-with-terraform-in-ci-cd-pipelines/)
 - [[Blog] Get Started with Building ReactJS and Docker: A Complete Guide](https://mkabumattar.com/blog/post/get-started-with-building-reactjs-and-docker-a-complete-guide/)
-- [[Blog] How to CI/CD AWS With Github using Jenkins](https://mkabumattar.com/blog/post/how-to-ci-cd-aws-with-github-using-jenkins/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
