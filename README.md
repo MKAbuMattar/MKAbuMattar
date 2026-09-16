@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Dev Tip] Speeding Up CI Pipelines: Caching, Parallelism, and Skipping Unnecessary Work](https://mkabumattar.com/devtips/post/speeding-up-ci-pipelines-caching-parallelism/)
 - [[Code Snippet] Upload Files to AWS S3 with Pre-Signed URLs in Node.js](https://mkabumattar.com/codesnippets/post/nodejs-s3-presigned-url-upload/)
 - [[Cheatsheet] Linux Processes](https://mkabumattar.com/cheatsheets/linux-processes/)
 - [[Case Study] Hardening a CI/CD Supply Chain to SLSA Level 3](https://mkabumattar.com/case-studies/post/cicd-supply-chain-slsa-level-3/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Roadmap] Node.js Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/nodejs-developer-roadmap/)
 - [[Blog] Building a Customizable Image Slider in React Using Hooks, SCSS, and TypeScript](https://mkabumattar.com/blog/post/building-a-customizable-image-slider-in-react-using-hooks-scss-and-typescript/)
 - [[Blog] Caching Strategies with Redis in Node.js and TypeScript](https://mkabumattar.com/blog/post/caching-strategies-with-redis-in-node-js-and-typescript/)
-- [[Blog] Deploying Infrastructure with Terraform in CI/CD Pipelines](https://mkabumattar.com/blog/post/deploying-infrastructure-with-terraform-in-ci-cd-pipelines/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
