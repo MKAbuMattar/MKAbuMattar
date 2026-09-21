@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Quiz] Ruby on Rails: Convention Over Configuration](https://mkabumattar.com/quizzes/post/ruby-on-rails-fundamentals-quiz/)
 - [[Glossary] Databases &amp; SQL](https://mkabumattar.com/glossary/post/databases-and-sql/)
 - [[Flashcards] AWS Advanced Networking Specialty Flashcards &lpar;ANS-C01&rpar;](https://mkabumattar.com/flashcards/post/aws-advanced-networking-specialty-flashcards/)
 - [[Dev Tip] Speeding Up CI Pipelines: Caching, Parallelism, and Skipping Unnecessary Work](https://mkabumattar.com/devtips/post/speeding-up-ci-pipelines-caching-parallelism/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Cheatsheet] Linux Processes](https://mkabumattar.com/cheatsheets/linux-processes/)
 - [[Case Study] Hardening a CI/CD Supply Chain to SLSA Level 3](https://mkabumattar.com/case-studies/post/cicd-supply-chain-slsa-level-3/)
 - [[Blog] Multi-Region Active-Active on AWS: What It Actually Costs You](https://mkabumattar.com/blog/post/multi-region-active-active-aws-architecture/)
-- [[Roadmap] Node.js Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/nodejs-developer-roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
