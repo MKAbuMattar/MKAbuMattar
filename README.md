@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Incident] Three Dashboards Reported Zero Revenue, and Every Job Exited 0](https://mkabumattar.com/incidents/post/cron-silent-zero-revenue-failure/)
 - [[Case Study] Replacing Cron Chaos with an Event-Driven Pipeline](https://mkabumattar.com/case-studies/post/cron-to-event-driven-pipeline/)
 - [[Roadmap] Python Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/python-developer-roadmap/)
 - [[Quiz] Ruby on Rails: Convention Over Configuration](https://mkabumattar.com/quizzes/post/ruby-on-rails-fundamentals-quiz/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Glossary] Databases &amp; SQL](https://mkabumattar.com/glossary/post/databases-and-sql/)
 - [[Flashcards] AWS Advanced Networking Specialty Flashcards &lpar;ANS-C01&rpar;](https://mkabumattar.com/flashcards/post/aws-advanced-networking-specialty-flashcards/)
 - [[Dev Tip] Speeding Up CI Pipelines: Caching, Parallelism, and Skipping Unnecessary Work](https://mkabumattar.com/devtips/post/speeding-up-ci-pipelines-caching-parallelism/)
-- [[Code Snippet] Upload Files to AWS S3 with Pre-Signed URLs in Node.js](https://mkabumattar.com/codesnippets/post/nodejs-s3-presigned-url-upload/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
