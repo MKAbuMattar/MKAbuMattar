@@ -80,11 +80,11 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/MKAbuMattar/sarab/pull/55) in [MKAbuMattar/sarab](https://github.com/MKAbuMattar/sarab)
-2. 🎉 Merged PR [#60](https://github.com/MKAbuMattar/chocolatey-packages/pull/60) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-3. 🎉 Merged PR [#54](https://github.com/MKAbuMattar/sarab/pull/54) in [MKAbuMattar/sarab](https://github.com/MKAbuMattar/sarab)
-4. ℹ️ Reopened PR [#54](https://github.com/MKAbuMattar/sarab/pull/54) in [MKAbuMattar/sarab](https://github.com/MKAbuMattar/sarab)
-5. ❌ Closed PR [#54](https://github.com/MKAbuMattar/sarab/pull/54) in [MKAbuMattar/sarab](https://github.com/MKAbuMattar/sarab)
+1. 🗣 Commented on [#68](https://github.com/MKAbuMattar/sarab/pull/68#issuecomment-6083044786) in [MKAbuMattar/sarab](https://github.com/MKAbuMattar/sarab)
+2. 🎉 Merged PR [#66](https://github.com/MKAbuMattar/chocolatey-packages/pull/66) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+3. 🎉 Merged PR [#70](https://github.com/MKAbuMattar/sarab/pull/70) in [MKAbuMattar/sarab](https://github.com/MKAbuMattar/sarab)
+4. 💪 Opened PR [#66](https://github.com/MKAbuMattar/chocolatey-packages/pull/66) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+5. 🗣 Commented on [#69](https://github.com/MKAbuMattar/sarab/pull/69#issuecomment-6083045436) in [MKAbuMattar/sarab](https://github.com/MKAbuMattar/sarab)
 <!--END_SECTION:activity-->
 
 ---
