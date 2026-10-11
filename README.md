@@ -80,11 +80,11 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#76](https://github.com/MKAbuMattar/sarab/pull/76) in [MKAbuMattar/sarab](https://github.com/MKAbuMattar/sarab)
-2. 💪 Opened PR [#76](https://github.com/MKAbuMattar/sarab/pull/76) in [MKAbuMattar/sarab](https://github.com/MKAbuMattar/sarab)
-3. 🎉 Merged PR [#75](https://github.com/MKAbuMattar/sarab/pull/75) in [MKAbuMattar/sarab](https://github.com/MKAbuMattar/sarab)
-4. 🎉 Merged PR [#74](https://github.com/MKAbuMattar/sarab/pull/74) in [MKAbuMattar/sarab](https://github.com/MKAbuMattar/sarab)
-5. 💪 Opened PR [#75](https://github.com/MKAbuMattar/sarab/pull/75) in [MKAbuMattar/sarab](https://github.com/MKAbuMattar/sarab)
+1. ❌ Closed PR [#25](https://github.com/MKAbuMattar/fluentui-emoji/pull/25) in [MKAbuMattar/fluentui-emoji](https://github.com/MKAbuMattar/fluentui-emoji)
+2. 🗣 Commented on [#25](https://github.com/MKAbuMattar/fluentui-emoji/pull/25#issuecomment-6108699971) in [MKAbuMattar/fluentui-emoji](https://github.com/MKAbuMattar/fluentui-emoji)
+3. ❌ Closed PR [#26](https://github.com/MKAbuMattar/fluentui-emoji/pull/26) in [MKAbuMattar/fluentui-emoji](https://github.com/MKAbuMattar/fluentui-emoji)
+4. 🗣 Commented on [#26](https://github.com/MKAbuMattar/fluentui-emoji/pull/26#issuecomment-6108699669) in [MKAbuMattar/fluentui-emoji](https://github.com/MKAbuMattar/fluentui-emoji)
+5. ❌ Closed PR [#27](https://github.com/MKAbuMattar/fluentui-emoji/pull/27) in [MKAbuMattar/fluentui-emoji](https://github.com/MKAbuMattar/fluentui-emoji)
 <!--END_SECTION:activity-->
 
 ---
