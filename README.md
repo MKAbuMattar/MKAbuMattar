@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Code Snippet] Python Context Managers: Writing Clean Resource Handling with `with` Statements](https://mkabumattar.com/codesnippets/post/python-context-managers-resource-handling/)
 - [[Dev Tip] AWS VPC Design Best Practices: Subnets, Route Tables, and Security Groups](https://mkabumattar.com/devtips/post/aws-vpc-design-subnets-route-tables-security-groups/)
 - [[Incident] Three Dashboards Reported Zero Revenue, and Every Job Exited 0](https://mkabumattar.com/incidents/post/cron-silent-zero-revenue-failure/)
 - [[Case Study] Replacing Cron Chaos with an Event-Driven Pipeline](https://mkabumattar.com/case-studies/post/cron-to-event-driven-pipeline/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Quiz] Ruby on Rails: Convention Over Configuration](https://mkabumattar.com/quizzes/post/ruby-on-rails-fundamentals-quiz/)
 - [[Incident] The Admission Gate Denied an Image Built from a Fork](https://mkabumattar.com/incidents/post/slsa-admission-gate-fork-built-image/)
 - [[Glossary] Databases &amp; SQL](https://mkabumattar.com/glossary/post/databases-and-sql/)
-- [[Flashcards] AWS Advanced Networking Specialty Flashcards &lpar;ANS-C01&rpar;](https://mkabumattar.com/flashcards/post/aws-advanced-networking-specialty-flashcards/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
