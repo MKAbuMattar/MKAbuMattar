@@ -80,11 +80,11 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/quenchworks/images/issues/15#issuecomment-6163501731) in [quenchworks/images](https://github.com/quenchworks/images)
-2. 💪 Opened PR [#69](https://github.com/MKAbuMattar/chocolatey-packages/pull/69) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-3. 🗣 Commented on [#14](https://github.com/quenchworks/images/issues/14#issuecomment-6163500595) in [quenchworks/images](https://github.com/quenchworks/images)
-4. 🗣 Commented on [#42](https://github.com/MKAbuMattar/aws-icons/pull/42#issuecomment-6163092352) in [MKAbuMattar/aws-icons](https://github.com/MKAbuMattar/aws-icons)
-5. 🗣 Commented on [#44](https://github.com/MKAbuMattar/devicons-pack/issues/44#issuecomment-6165116287) in [MKAbuMattar/devicons-pack](https://github.com/MKAbuMattar/devicons-pack)
+1. 🎉 Merged PR [#69](https://github.com/MKAbuMattar/chocolatey-packages/pull/69) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+2. 🗣 Commented on [#15](https://github.com/quenchworks/images/issues/15#issuecomment-6163501731) in [quenchworks/images](https://github.com/quenchworks/images)
+3. 💪 Opened PR [#69](https://github.com/MKAbuMattar/chocolatey-packages/pull/69) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+4. 🗣 Commented on [#14](https://github.com/quenchworks/images/issues/14#issuecomment-6163500595) in [quenchworks/images](https://github.com/quenchworks/images)
+5. 🗣 Commented on [#42](https://github.com/MKAbuMattar/aws-icons/pull/42#issuecomment-6163092352) in [MKAbuMattar/aws-icons](https://github.com/MKAbuMattar/aws-icons)
 <!--END_SECTION:activity-->
 
 ---
