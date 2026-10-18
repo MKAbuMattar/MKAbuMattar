@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Cheatsheet] OpenSSL](https://mkabumattar.com/cheatsheets/openssl/)
 - [[Case Study] Cutting p99 Latency 60% with a Caching Rearchitecture](https://mkabumattar.com/case-studies/post/p99-latency-caching-rearchitecture/)
 - [[Code Snippet] Python Context Managers: Writing Clean Resource Handling with `with` Statements](https://mkabumattar.com/codesnippets/post/python-context-managers-resource-handling/)
 - [[Dev Tip] AWS VPC Design Best Practices: Subnets, Route Tables, and Security Groups](https://mkabumattar.com/devtips/post/aws-vpc-design-subnets-route-tables-security-groups/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Case Study] Replacing Cron Chaos with an Event-Driven Pipeline](https://mkabumattar.com/case-studies/post/cron-to-event-driven-pipeline/)
 - [[Roadmap] Python Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/python-developer-roadmap/)
 - [[Quiz] Ruby on Rails: Convention Over Configuration](https://mkabumattar.com/quizzes/post/ruby-on-rails-fundamentals-quiz/)
-- [[Incident] The Admission Gate Denied an Image Built from a Fork](https://mkabumattar.com/incidents/post/slsa-admission-gate-fork-built-image/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
