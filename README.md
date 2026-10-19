@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Incident] Three Weeks of &quot;Sometimes Doesn&#39;t Load&quot;, While p50 Stayed Green](https://mkabumattar.com/incidents/post/p99-tail-latency-three-week-blind-spot/)
 - [[Cheatsheet] OpenSSL](https://mkabumattar.com/cheatsheets/openssl/)
 - [[Case Study] Cutting p99 Latency 60% with a Caching Rearchitecture](https://mkabumattar.com/case-studies/post/p99-latency-caching-rearchitecture/)
 - [[Code Snippet] Python Context Managers: Writing Clean Resource Handling with `with` Statements](https://mkabumattar.com/codesnippets/post/python-context-managers-resource-handling/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Incident] Three Dashboards Reported Zero Revenue, and Every Job Exited 0](https://mkabumattar.com/incidents/post/cron-silent-zero-revenue-failure/)
 - [[Case Study] Replacing Cron Chaos with an Event-Driven Pipeline](https://mkabumattar.com/case-studies/post/cron-to-event-driven-pipeline/)
 - [[Roadmap] Python Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/python-developer-roadmap/)
-- [[Quiz] Ruby on Rails: Convention Over Configuration](https://mkabumattar.com/quizzes/post/ruby-on-rails-fundamentals-quiz/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
