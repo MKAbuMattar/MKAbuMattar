@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Case Study] A Service Mesh Rollout That Was Worth It](https://mkabumattar.com/case-studies/post/service-mesh-rollout-when-worth-it/)
 - [[Glossary] NoSQL Databases](https://mkabumattar.com/glossary/post/nosql-databases/)
 - [[Incident] Three Weeks of &quot;Sometimes Doesn&#39;t Load&quot;, While p50 Stayed Green](https://mkabumattar.com/incidents/post/p99-tail-latency-three-week-blind-spot/)
 - [[Cheatsheet] OpenSSL](https://mkabumattar.com/cheatsheets/openssl/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Code Snippet] Python Context Managers: Writing Clean Resource Handling with `with` Statements](https://mkabumattar.com/codesnippets/post/python-context-managers-resource-handling/)
 - [[Dev Tip] AWS VPC Design Best Practices: Subnets, Route Tables, and Security Groups](https://mkabumattar.com/devtips/post/aws-vpc-design-subnets-route-tables-security-groups/)
 - [[Incident] Three Dashboards Reported Zero Revenue, and Every Job Exited 0](https://mkabumattar.com/incidents/post/cron-silent-zero-revenue-failure/)
-- [[Case Study] Replacing Cron Chaos with an Event-Driven Pipeline](https://mkabumattar.com/case-studies/post/cron-to-event-driven-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
