@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Roadmap] Go Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/go-developer-roadmap/)
 - [[Case Study] A Service Mesh Rollout That Was Worth It](https://mkabumattar.com/case-studies/post/service-mesh-rollout-when-worth-it/)
 - [[Glossary] NoSQL Databases](https://mkabumattar.com/glossary/post/nosql-databases/)
 - [[Incident] Three Weeks of &quot;Sometimes Doesn&#39;t Load&quot;, While p50 Stayed Green](https://mkabumattar.com/incidents/post/p99-tail-latency-three-week-blind-spot/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Case Study] Cutting p99 Latency 60% with a Caching Rearchitecture](https://mkabumattar.com/case-studies/post/p99-latency-caching-rearchitecture/)
 - [[Code Snippet] Python Context Managers: Writing Clean Resource Handling with `with` Statements](https://mkabumattar.com/codesnippets/post/python-context-managers-resource-handling/)
 - [[Dev Tip] AWS VPC Design Best Practices: Subnets, Route Tables, and Security Groups](https://mkabumattar.com/devtips/post/aws-vpc-design-subnets-route-tables-security-groups/)
-- [[Incident] Three Dashboards Reported Zero Revenue, and Every Job Exited 0](https://mkabumattar.com/incidents/post/cron-silent-zero-revenue-failure/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
