@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Incident] Two Outages Where We Told Envoy Something We Did Not Mean](https://mkabumattar.com/incidents/post/mesh-config-ordering-outages/)
 - [[Cheatsheet] jq](https://mkabumattar.com/cheatsheets/jq/)
 - [[Roadmap] Go Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/go-developer-roadmap/)
 - [[Case Study] A Service Mesh Rollout That Was Worth It](https://mkabumattar.com/case-studies/post/service-mesh-rollout-when-worth-it/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Incident] Three Weeks of &quot;Sometimes Doesn&#39;t Load&quot;, While p50 Stayed Green](https://mkabumattar.com/incidents/post/p99-tail-latency-three-week-blind-spot/)
 - [[Cheatsheet] OpenSSL](https://mkabumattar.com/cheatsheets/openssl/)
 - [[Case Study] Cutting p99 Latency 60% with a Caching Rearchitecture](https://mkabumattar.com/case-studies/post/p99-latency-caching-rearchitecture/)
-- [[Code Snippet] Python Context Managers: Writing Clean Resource Handling with `with` Statements](https://mkabumattar.com/codesnippets/post/python-context-managers-resource-handling/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
