@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Dev Tip] Kubernetes Persistent Volumes: Storage Classes, PVCs, and StatefulSets Explained](https://mkabumattar.com/devtips/post/kubernetes-persistent-volumes-storage-classes-pvcs/)
 - [[Quiz] Kotlin: Modern JVM Language Fundamentals](https://mkabumattar.com/quizzes/post/kotlin-fundamentals-quiz/)
 - [[Incident] Two Outages Where We Told Envoy Something We Did Not Mean](https://mkabumattar.com/incidents/post/mesh-config-ordering-outages/)
 - [[Cheatsheet] jq](https://mkabumattar.com/cheatsheets/jq/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Case Study] A Service Mesh Rollout That Was Worth It](https://mkabumattar.com/case-studies/post/service-mesh-rollout-when-worth-it/)
 - [[Glossary] NoSQL Databases](https://mkabumattar.com/glossary/post/nosql-databases/)
 - [[Incident] Three Weeks of &quot;Sometimes Doesn&#39;t Load&quot;, While p50 Stayed Green](https://mkabumattar.com/incidents/post/p99-tail-latency-three-week-blind-spot/)
-- [[Cheatsheet] OpenSSL](https://mkabumattar.com/cheatsheets/openssl/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
