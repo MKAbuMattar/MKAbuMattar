@@ -80,11 +80,11 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/MKAbuMattar/chocolatey-packages/pull/74) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-2. 💪 Opened PR [#74](https://github.com/MKAbuMattar/chocolatey-packages/pull/74) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-3. 🎉 Merged PR [#72](https://github.com/MKAbuMattar/chocolatey-packages/pull/72) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
-4. 💪 Opened PR [#49](https://github.com/MKAbuMattar/black-iris/pull/49) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
-5. 🎉 Merged PR [#48](https://github.com/MKAbuMattar/black-iris/pull/48) in [MKAbuMattar/black-iris](https://github.com/MKAbuMattar/black-iris)
+1. 🎉 Merged PR [#79](https://github.com/MKAbuMattar/chocolatey-packages/pull/79) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+2. 💪 Opened PR [#79](https://github.com/MKAbuMattar/chocolatey-packages/pull/79) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+3. 🎉 Merged PR [#77](https://github.com/MKAbuMattar/chocolatey-packages/pull/77) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+4. 🎉 Merged PR [#78](https://github.com/MKAbuMattar/chocolatey-packages/pull/78) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+5. 💪 Opened PR [#78](https://github.com/MKAbuMattar/chocolatey-packages/pull/78) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
 <!--END_SECTION:activity-->
 
 ---
