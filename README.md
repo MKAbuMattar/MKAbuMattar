@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Code Snippet] Node.js Graceful Shutdown: Handle SIGTERM in Express and Fastify](https://mkabumattar.com/codesnippets/post/nodejs-graceful-shutdown-sigterm-express-fastify/)
 - [[Flashcards] Python Beginner Flashcards](https://mkabumattar.com/flashcards/post/python-beginner-flashcards/)
 - [[Dev Tip] Kubernetes Persistent Volumes: Storage Classes, PVCs, and StatefulSets Explained](https://mkabumattar.com/devtips/post/kubernetes-persistent-volumes-storage-classes-pvcs/)
 - [[Quiz] Kotlin: Modern JVM Language Fundamentals](https://mkabumattar.com/quizzes/post/kotlin-fundamentals-quiz/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Cheatsheet] jq](https://mkabumattar.com/cheatsheets/jq/)
 - [[Roadmap] Go Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/go-developer-roadmap/)
 - [[Case Study] A Service Mesh Rollout That Was Worth It](https://mkabumattar.com/case-studies/post/service-mesh-rollout-when-worth-it/)
-- [[Glossary] NoSQL Databases](https://mkabumattar.com/glossary/post/nosql-databases/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
