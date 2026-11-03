@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Case Study] Secrets Management Migration to Vault Without an Outage](https://mkabumattar.com/case-studies/post/secrets-migration-to-vault/)
 - [[Code Snippet] Node.js Graceful Shutdown: Handle SIGTERM in Express and Fastify](https://mkabumattar.com/codesnippets/post/nodejs-graceful-shutdown-sigterm-express-fastify/)
 - [[Flashcards] Python Beginner Flashcards](https://mkabumattar.com/flashcards/post/python-beginner-flashcards/)
 - [[Dev Tip] Kubernetes Persistent Volumes: Storage Classes, PVCs, and StatefulSets Explained](https://mkabumattar.com/devtips/post/kubernetes-persistent-volumes-storage-classes-pvcs/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Incident] Two Outages Where We Told Envoy Something We Did Not Mean](https://mkabumattar.com/incidents/post/mesh-config-ordering-outages/)
 - [[Cheatsheet] jq](https://mkabumattar.com/cheatsheets/jq/)
 - [[Roadmap] Go Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/go-developer-roadmap/)
-- [[Case Study] A Service Mesh Rollout That Was Worth It](https://mkabumattar.com/case-studies/post/service-mesh-rollout-when-worth-it/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
