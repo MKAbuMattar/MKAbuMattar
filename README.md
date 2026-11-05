@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Flashcards] AWS Security Specialty Flashcards &lpar;SCS-C02&rpar;](https://mkabumattar.com/flashcards/post/aws-security-specialty-scs-c02-flashcards/)
 - [[Blog] AWS EventBridge: Decoupling Microservices Without Building a Distributed Monolith](https://mkabumattar.com/blog/post/aws-eventbridge-event-driven-microservices/)
 - [[Case Study] Secrets Management Migration to Vault Without an Outage](https://mkabumattar.com/case-studies/post/secrets-migration-to-vault/)
 - [[Code Snippet] Node.js Graceful Shutdown: Handle SIGTERM in Express and Fastify](https://mkabumattar.com/codesnippets/post/nodejs-graceful-shutdown-sigterm-express-fastify/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Dev Tip] Kubernetes Persistent Volumes: Storage Classes, PVCs, and StatefulSets Explained](https://mkabumattar.com/devtips/post/kubernetes-persistent-volumes-storage-classes-pvcs/)
 - [[Quiz] Kotlin: Modern JVM Language Fundamentals](https://mkabumattar.com/quizzes/post/kotlin-fundamentals-quiz/)
 - [[Incident] Two Outages Where We Told Envoy Something We Did Not Mean](https://mkabumattar.com/incidents/post/mesh-config-ordering-outages/)
-- [[Cheatsheet] jq](https://mkabumattar.com/cheatsheets/jq/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
