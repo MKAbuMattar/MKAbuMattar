@@ -80,11 +80,11 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#847](https://github.com/MKAbuMattar/express-boilerplate/pull/847) in [MKAbuMattar/express-boilerplate](https://github.com/MKAbuMattar/express-boilerplate)
-2. 🎉 Merged PR [#846](https://github.com/MKAbuMattar/express-boilerplate/pull/846) in [MKAbuMattar/express-boilerplate](https://github.com/MKAbuMattar/express-boilerplate)
-3. 💪 Opened PR [#846](https://github.com/MKAbuMattar/express-boilerplate/pull/846) in [MKAbuMattar/express-boilerplate](https://github.com/MKAbuMattar/express-boilerplate)
-4. 🎉 Merged PR [#845](https://github.com/MKAbuMattar/express-boilerplate/pull/845) in [MKAbuMattar/express-boilerplate](https://github.com/MKAbuMattar/express-boilerplate)
-5. 💪 Opened PR [#845](https://github.com/MKAbuMattar/express-boilerplate/pull/845) in [MKAbuMattar/express-boilerplate](https://github.com/MKAbuMattar/express-boilerplate)
+1. 🎉 Merged PR [#84](https://github.com/MKAbuMattar/chocolatey-packages/pull/84) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+2. 💪 Opened PR [#84](https://github.com/MKAbuMattar/chocolatey-packages/pull/84) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+3. 🎉 Merged PR [#83](https://github.com/MKAbuMattar/chocolatey-packages/pull/83) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+4. 🎉 Merged PR [#82](https://github.com/MKAbuMattar/chocolatey-packages/pull/82) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
+5. 🎉 Merged PR [#81](https://github.com/MKAbuMattar/chocolatey-packages/pull/81) in [MKAbuMattar/chocolatey-packages](https://github.com/MKAbuMattar/chocolatey-packages)
 <!--END_SECTION:activity-->
 
 ---
