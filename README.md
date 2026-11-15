@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Roadmap] Java &amp; Spring Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/java-spring-developer-roadmap/)
 - [[Incident] Five Minutes of 500s, Caused by Someone Being Careful](https://mkabumattar.com/incidents/post/all-at-once-deploy-five-minute-outage/)
 - [[Quiz] Swift &amp; iOS: App Development Fundamentals](https://mkabumattar.com/quizzes/post/swift-ios-fundamentals-quiz/)
 - [[Incident] A Resignation, and Nine Days to Answer One Question](https://mkabumattar.com/incidents/post/vault-departure-nine-day-access-audit/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Glossary] Terraform &amp; Infrastructure as Code](https://mkabumattar.com/glossary/post/terraform-and-iac/)
 - [[Flashcards] AWS Security Specialty Flashcards &lpar;SCS-C02&rpar;](https://mkabumattar.com/flashcards/post/aws-security-specialty-scs-c02-flashcards/)
 - [[Blog] AWS EventBridge: Decoupling Microservices Without Building a Distributed Monolith](https://mkabumattar.com/blog/post/aws-eventbridge-event-driven-microservices/)
-- [[Case Study] Secrets Management Migration to Vault Without an Outage](https://mkabumattar.com/case-studies/post/secrets-migration-to-vault/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
