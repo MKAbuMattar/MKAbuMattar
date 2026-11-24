@@ -62,6 +62,7 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Code Snippet] Bash Argument Parsing with getopts: Build CLI Scripts with Flags and Options](https://mkabumattar.com/codesnippets/post/bash-argument-parsing-getopts-cli-flags/)
 - [[Cheatsheet] Nginx](https://mkabumattar.com/cheatsheets/nginx/)
 - [[Blog] Securing Kubernetes Workloads: Pod Security Admission, OPA Gatekeeper, and Kyverno Compared](https://mkabumattar.com/blog/post/kubernetes-workload-security-psa-opa-kyverno/)
 - [[Roadmap] Java &amp; Spring Developer Beginner to Expert](https://mkabumattar.com/roadmaps/post/java-spring-developer-roadmap/)
@@ -69,7 +70,6 @@ DevOps engineer with 6+ years on cloud automation and fintech infrastructure. I 
 - [[Quiz] Swift &amp; iOS: App Development Fundamentals](https://mkabumattar.com/quizzes/post/swift-ios-fundamentals-quiz/)
 - [[Incident] A Resignation, and Nine Days to Answer One Question](https://mkabumattar.com/incidents/post/vault-departure-nine-day-access-audit/)
 - [[Case Study] From Blue-Green to Progressive Delivery with Argo Rollouts](https://mkabumattar.com/case-studies/post/progressive-delivery-argo-rollouts/)
-- [[Glossary] Terraform &amp; Infrastructure as Code](https://mkabumattar.com/glossary/post/terraform-and-iac/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://mkabumattar.com/blog">Read more →</a></sub>
